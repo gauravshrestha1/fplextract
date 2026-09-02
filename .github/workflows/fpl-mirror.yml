@@ -1,0 +1,31 @@
+name: FPL Data Mirror
+
+on:
+  schedule:
+    # Every 2 hours. Adjust as needed — FPL prices/ownership/form don't
+    # change fast enough to need much tighter than this.
+    - cron: '0 */2 * * *'
+  workflow_dispatch: {}   # lets you click "Run workflow" for an immediate first run
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch and trim FPL data
+        run: python3 scripts/fetch_fpl_data.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "fpl-mirror-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add fpl-data/players.json
+          git diff --quiet --cached || git commit -m "Update FPL data mirror $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
