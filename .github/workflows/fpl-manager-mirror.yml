@@ -23,6 +23,6 @@ jobs:
         run: |
           git config user.name "fpl-mirror-bot"
           git config user.email "actions@github.com"
-          git add fpl-data/manager.json fpl-data/history.json fpl-data/picks.json
+          git add fpl-data/manager.json fpl-data/history.json fpl-data/picks.json fpl-data/fixtures.json fpl-data/league-150632-standings.json fpl-data/_meta.json
           git diff --cached --quiet || git commit -m "Update manager data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
