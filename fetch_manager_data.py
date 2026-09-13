@@ -1,18 +1,22 @@
 """
 Fetches Gaurav's FPL manager data (overall points, league positions,
-current squad picks, and season history) and writes it into fpl-data/
-alongside the existing players.json mirror.
+current squad picks, season history, fixtures, and rival standings in
+league 150632) and writes it into fpl-data/ alongside the existing
+players.json mirror.
 
 Run by GitHub Actions (fpl-manager-mirror.yml), which has normal internet
 access — the resulting JSON is then pulled via raw.githubusercontent.com
-by scheduled Claude tasks that can't reach fantasy.premierleague.com directly.
+by scheduled Claude tasks that can't reach fantasy.premierleague.com
+directly (or can't reliably use a browser session in a headless run).
 """
 
+import datetime
 import json
 import os
 import urllib.request
 
 TEAM_ID = os.environ.get("FPL_TEAM_ID", "7063120")
+LEAGUE_ID = os.environ.get("FPL_LEAGUE_ID", "150632")
 BASE = "https://fantasy.premierleague.com/api"
 OUT_DIR = "fpl-data"
 
@@ -57,6 +61,24 @@ def main():
         write_json("picks.json", picks)
     else:
         print("could not determine current/next event id — skipped picks.json")
+
+    # Fixtures: full-season fixture list with difficulty ratings, kickoff
+    # times, and results-so-far — used for fixture-run analysis.
+    fixtures = fetch_json(f"{BASE}/fixtures/")
+    write_json("fixtures.json", fixtures)
+
+    # League standings: rival ranks/points in league 150632 (not just
+    # your own entry_rank, which manager.json already covers).
+    standings = fetch_json(f"{BASE}/leagues-classic/{LEAGUE_ID}/standings/")
+    write_json(f"league-{LEAGUE_ID}-standings.json", standings)
+
+    # Meta: lets a consumer check how fresh this batch is before trusting it.
+    write_json("_meta.json", {
+        "fetched_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "team_id": TEAM_ID,
+        "league_id": LEAGUE_ID,
+        "current_or_next_event": current_event,
+    })
 
 
 if __name__ == "__main__":
