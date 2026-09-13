@@ -1,0 +1,28 @@
+name: FPL Manager Data Mirror
+
+on:
+  schedule:
+    - cron: '15 */2 * * *'   # offset 15 min from fpl-mirror.yml to avoid a collision on the same commit
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # required so the workflow's default GITHUB_TOKEN can push commits
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch manager data
+        env:
+          FPL_TEAM_ID: '7063120'
+        run: python3 fetch_manager_data.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "fpl-mirror-bot"
+          git config user.email "actions@github.com"
+          git add fpl-data/manager.json fpl-data/history.json fpl-data/picks.json
+          git diff --cached --quiet || git commit -m "Update manager data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
