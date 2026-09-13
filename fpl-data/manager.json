@@ -13,7 +13,7 @@
   "summary_overall_points": 312,
   "summary_overall_rank": 215121,
   "summary_event_points": 83,
-  "summary_event_rank": 1120052,
+  "summary_event_rank": 1120054,
   "current_event": 4,
   "leagues": {
     "classic": [
@@ -162,10 +162,10 @@
             "last_rank": 298697,
             "league_id": 314,
             "phase": 1,
-            "rank": 385118,
-            "rank_count": 10675192,
-            "rank_sort": 393063,
-            "total": 278
+            "rank": 215121,
+            "rank_count": 10674625,
+            "rank_sort": 219962,
+            "total": 312
           },
           {
             "entry_percentile_rank": 20,
@@ -196,7 +196,7 @@
         "max_entries": null,
         "name": "Overall",
         "rank": null,
-        "rank_count": 10675192,
+        "rank_count": 10674625,
         "scoring": "c",
         "short_name": "overall",
         "start_event": 1
