@@ -250,23 +250,23 @@
         "total": 242
       },
       {
-        "club_badge_src": null,
-        "entry": 1687776,
-        "entry_name": "NFW",
-        "event_total": 57,
-        "last_rank": 21,
-        "player_name": "Anup Jon",
-        "rank": 22,
-        "rank_sort": 22,
-        "total": 241
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/4766761/8efac951-b44c-41fd-8187-07743a28d32a.png",
         "entry": 4766761,
         "entry_name": "Eki-tiki-taka",
         "event_total": 76,
         "last_rank": 24,
         "player_name": "Anurag Thapa",
+        "rank": 22,
+        "rank_sort": 22,
+        "total": 241
+      },
+      {
+        "club_badge_src": null,
+        "entry": 1687776,
+        "entry_name": "NFW",
+        "event_total": 57,
+        "last_rank": 21,
+        "player_name": "Anup Jon",
         "rank": 22,
         "rank_sort": 23,
         "total": 241
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-09-14T04:49:28Z",
+  "last_updated_data": "2026-09-14T12:39:50Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
