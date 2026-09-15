@@ -13,7 +13,7 @@
   "summary_overall_points": 313,
   "summary_overall_rank": 301918,
   "summary_event_points": 84,
-  "summary_event_rank": 1629108,
+  "summary_event_rank": 1629109,
   "current_event": 4,
   "leagues": {
     "classic": [
@@ -30,14 +30,14 @@
             "total": 313
           },
           {
-            "entry_percentile_rank": 10,
+            "entry_percentile_rank": 15,
             "last_rank": 289834,
             "league_id": 1,
             "phase": 3,
-            "rank": 102661,
-            "rank_count": 1229578,
-            "rank_sort": 104363,
-            "total": 142
+            "rank": 140876,
+            "rank_count": 1229563,
+            "rank_sort": 143167,
+            "total": 143
           }
         ],
         "admin_entry": null,
@@ -76,14 +76,14 @@
             "total": 313
           },
           {
-            "entry_percentile_rank": 10,
+            "entry_percentile_rank": 15,
             "last_rank": 10799,
             "league_id": 170,
             "phase": 3,
-            "rank": 3548,
-            "rank_count": 47286,
-            "rank_sort": 3610,
-            "total": 142
+            "rank": 4969,
+            "rank_count": 47285,
+            "rank_sort": 5064,
+            "total": 143
           }
         ],
         "admin_entry": null,
@@ -122,14 +122,14 @@
             "total": 313
           },
           {
-            "entry_percentile_rank": 10,
+            "entry_percentile_rank": 15,
             "last_rank": 2122624,
             "league_id": 276,
             "phase": 3,
-            "rank": 725287,
-            "rank_count": 8896421,
-            "rank_sort": 739004,
-            "total": 142
+            "rank": 1015765,
+            "rank_count": 8896084,
+            "rank_sort": 1034342,
+            "total": 143
           }
         ],
         "admin_entry": null,
@@ -168,14 +168,14 @@
             "total": 313
           },
           {
-            "entry_percentile_rank": 10,
+            "entry_percentile_rank": 15,
             "last_rank": 2440563,
             "league_id": 314,
             "phase": 3,
-            "rank": 789435,
-            "rank_count": 10674555,
-            "rank_sort": 803152,
-            "total": 142
+            "rank": 1096554,
+            "rank_count": 10674000,
+            "rank_sort": 1115131,
+            "total": 143
           }
         ],
         "admin_entry": null,
@@ -221,7 +221,7 @@
             "rank": 3,
             "rank_count": 25,
             "rank_sort": 3,
-            "total": 142
+            "total": 143
           }
         ],
         "admin_entry": 776885,
