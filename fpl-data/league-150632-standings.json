@@ -119,22 +119,22 @@
       },
       {
         "club_badge_src": null,
-        "entry": 2302314,
-        "entry_name": "BhutuBhutuFC",
-        "event_total": 89,
-        "last_rank": 14,
-        "player_name": "Prakash Singh Bhujel",
+        "entry": 2317391,
+        "entry_name": "What the VAR!",
+        "event_total": 83,
+        "last_rank": 13,
+        "player_name": "Puspa R Timilsena",
         "rank": 10,
         "rank_sort": 10,
         "total": 290
       },
       {
         "club_badge_src": null,
-        "entry": 2317391,
-        "entry_name": "What the VAR!",
-        "event_total": 83,
-        "last_rank": 13,
-        "player_name": "Puspa R Timilsena",
+        "entry": 2302314,
+        "entry_name": "BhutuBhutuFC",
+        "event_total": 89,
+        "last_rank": 14,
+        "player_name": "Prakash Singh Bhujel",
         "rank": 10,
         "rank_sort": 11,
         "total": 290
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-09-16T18:09:42Z",
+  "last_updated_data": "2026-09-16T21:14:05Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
