@@ -41,23 +41,23 @@
         "total": 315
       },
       {
-        "club_badge_src": null,
-        "entry": 7550875,
-        "entry_name": "xGAI FC",
-        "event_total": 88,
-        "last_rank": 8,
-        "player_name": "Suman Khadka",
-        "rank": 3,
-        "rank_sort": 3,
-        "total": 315
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
         "entry": 1671376,
         "entry_name": "Toothless Sharks",
         "event_total": 79,
         "last_rank": 3,
         "player_name": "Aayush Chitrakar",
+        "rank": 3,
+        "rank_sort": 3,
+        "total": 315
+      },
+      {
+        "club_badge_src": null,
+        "entry": 7550875,
+        "entry_name": "xGAI FC",
+        "event_total": 88,
+        "last_rank": 8,
+        "player_name": "Suman Khadka",
         "rank": 3,
         "rank_sort": 4,
         "total": 315
@@ -119,22 +119,22 @@
       },
       {
         "club_badge_src": null,
-        "entry": 2317391,
-        "entry_name": "What the VAR!",
-        "event_total": 83,
-        "last_rank": 13,
-        "player_name": "Puspa R Timilsena",
+        "entry": 2302314,
+        "entry_name": "BhutuBhutuFC",
+        "event_total": 89,
+        "last_rank": 14,
+        "player_name": "Prakash Singh Bhujel",
         "rank": 10,
         "rank_sort": 10,
         "total": 290
       },
       {
         "club_badge_src": null,
-        "entry": 2302314,
-        "entry_name": "BhutuBhutuFC",
-        "event_total": 89,
-        "last_rank": 14,
-        "player_name": "Prakash Singh Bhujel",
+        "entry": 2317391,
+        "entry_name": "What the VAR!",
+        "event_total": 83,
+        "last_rank": 13,
+        "player_name": "Puspa R Timilsena",
         "rank": 10,
         "rank_sort": 11,
         "total": 290
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-09-18T00:14:12Z",
+  "last_updated_data": "2026-09-18T07:19:24Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
