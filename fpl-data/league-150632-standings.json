@@ -30,23 +30,23 @@
         "total": 325
       },
       {
-        "club_badge_src": null,
-        "entry": 7550875,
-        "entry_name": "xGAI FC",
-        "event_total": 4,
-        "last_rank": 3,
-        "player_name": "Suman Khadka",
-        "rank": 2,
-        "rank_sort": 2,
-        "total": 319
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
         "entry": 1671376,
         "entry_name": "Toothless Sharks",
         "event_total": 4,
         "last_rank": 3,
         "player_name": "Aayush Chitrakar",
+        "rank": 2,
+        "rank_sort": 2,
+        "total": 319
+      },
+      {
+        "club_badge_src": null,
+        "entry": 7550875,
+        "entry_name": "xGAI FC",
+        "event_total": 4,
+        "last_rank": 3,
+        "player_name": "Suman Khadka",
         "rank": 2,
         "rank_sort": 3,
         "total": 319
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-09-19T00:15:00Z",
+  "last_updated_data": "2026-09-19T07:14:41Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
