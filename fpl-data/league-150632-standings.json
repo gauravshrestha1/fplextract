@@ -33,12 +33,12 @@
         "club_badge_src": null,
         "entry": 2553617,
         "entry_name": "Delulu",
-        "event_total": 24,
+        "event_total": 25,
         "last_rank": 2,
         "player_name": "Aashish Dahal",
         "rank": 2,
         "rank_sort": 2,
-        "total": 339
+        "total": 340
       },
       {
         "club_badge_src": null,
@@ -47,7 +47,7 @@
         "event_total": 24,
         "last_rank": 3,
         "player_name": "Suman Khadka",
-        "rank": 2,
+        "rank": 3,
         "rank_sort": 3,
         "total": 339
       },
@@ -74,81 +74,81 @@
         "total": 327
       },
       {
-        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
-        "entry": 1671376,
-        "entry_name": "Toothless Sharks",
-        "event_total": 11,
-        "last_rank": 3,
-        "player_name": "Aayush Chitrakar",
-        "rank": 6,
-        "rank_sort": 6,
-        "total": 326
-      },
-      {
         "club_badge_src": null,
         "entry": 776885,
         "entry_name": "Stormtroopers",
-        "event_total": 27,
+        "event_total": 26,
         "last_rank": 7,
         "player_name": "Nischal Karkee",
+        "rank": 6,
+        "rank_sort": 6,
+        "total": 325
+      },
+      {
+        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
+        "entry": 1671376,
+        "entry_name": "Toothless Sharks",
+        "event_total": 9,
+        "last_rank": 3,
+        "player_name": "Aayush Chitrakar",
         "rank": 7,
         "rank_sort": 7,
-        "total": 326
+        "total": 324
       },
       {
         "club_badge_src": null,
         "entry": 2302314,
         "entry_name": "BhutuBhutuFC",
-        "event_total": 31,
+        "event_total": 29,
         "last_rank": 10,
         "player_name": "Prakash Singh Bhujel",
         "rank": 8,
         "rank_sort": 8,
-        "total": 321
+        "total": 319
       },
       {
         "club_badge_src": null,
         "entry": 2317391,
         "entry_name": "What the VAR!",
-        "event_total": 30,
+        "event_total": 29,
         "last_rank": 10,
         "player_name": "Puspa R Timilsena",
         "rank": 9,
         "rank_sort": 9,
-        "total": 320
+        "total": 319
       },
       {
         "club_badge_src": null,
         "entry": 805221,
         "entry_name": "24/7",
-        "event_total": 16,
+        "event_total": 14,
         "last_rank": 8,
         "player_name": "Dipesh Shrestha",
         "rank": 10,
         "rank_sort": 10,
-        "total": 319
+        "total": 317
       },
       {
         "club_badge_src": null,
         "entry": 1756357,
         "entry_name": "ysatnaf 11",
-        "event_total": 21,
+        "event_total": 18,
         "last_rank": 12,
         "player_name": "Pablo Emilio",
         "rank": 11,
         "rank_sort": 11,
-        "total": 310
+        "total": 307
       },
       {
         "club_badge_src": null,
         "entry": 2043652,
         "entry_name": "Lochan",
-        "event_total": 13,
+        "event_total": 11,
         "last_rank": 9,
         "player_name": "Aman Lochan Shrestha",
         "rank": 12,
         "rank_sort": 12,
-        "total": 309
+        "total": 307
       },
       {
         "club_badge_src": null,
@@ -173,23 +173,23 @@
         "total": 296
       },
       {
-        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6931067/0b0b10a4-9c14-4173-bb3e-d0985f9c9f27.png",
-        "entry": 1669349,
-        "entry_name": "Sagun's Team",
-        "event_total": 20,
-        "last_rank": 16,
-        "player_name": "Sagun Khadka",
+        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/2826197/360791d2-ef26-4e7d-8598-eaa3aad89981.png",
+        "entry": 2826197,
+        "entry_name": "The Vault",
+        "event_total": 17,
+        "last_rank": 15,
+        "player_name": "Bepeen Koirala",
         "rank": 15,
         "rank_sort": 15,
         "total": 295
       },
       {
-        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/2826197/360791d2-ef26-4e7d-8598-eaa3aad89981.png",
-        "entry": 2826197,
-        "entry_name": "The Vault",
-        "event_total": 16,
-        "last_rank": 15,
-        "player_name": "Bepeen Koirala",
+        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6931067/0b0b10a4-9c14-4173-bb3e-d0985f9c9f27.png",
+        "entry": 1669349,
+        "entry_name": "Sagun's Team",
+        "event_total": 19,
+        "last_rank": 16,
+        "player_name": "Sagun Khadka",
         "rank": 16,
         "rank_sort": 16,
         "total": 294
@@ -253,23 +253,23 @@
         "club_badge_src": null,
         "entry": 1687776,
         "entry_name": "NFW",
-        "event_total": 15,
+        "event_total": 16,
         "last_rank": 22,
         "player_name": "Anup Jon",
         "rank": 22,
         "rank_sort": 22,
-        "total": 258
+        "total": 259
       },
       {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/4766761/8efac951-b44c-41fd-8187-07743a28d32a.png",
         "entry": 4766761,
         "entry_name": "Eki-tiki-taka",
-        "event_total": 14,
+        "event_total": 15,
         "last_rank": 23,
         "player_name": "Anurag Thapa",
         "rank": 23,
         "rank_sort": 23,
-        "total": 255
+        "total": 256
       },
       {
         "club_badge_src": null,
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-09-19T17:16:03Z",
+  "last_updated_data": "2026-09-19T20:34:55Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
