@@ -228,23 +228,23 @@
         "total": 317
       },
       {
-        "club_badge_src": null,
-        "entry": 5985005,
-        "entry_name": "GP2",
-        "event_total": 46,
-        "last_rank": 19,
-        "player_name": "Dinesh Shrestha",
-        "rank": 20,
-        "rank_sort": 20,
-        "total": 314
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6301914/6e9589a1-872b-4174-94c4-1a9ea26607c2.png",
         "entry": 6229897,
         "entry_name": "HAHAHAHAALAND",
         "event_total": 60,
         "last_rank": 21,
         "player_name": "Sailef Hero",
+        "rank": 20,
+        "rank_sort": 20,
+        "total": 314
+      },
+      {
+        "club_badge_src": null,
+        "entry": 5985005,
+        "entry_name": "GP2",
+        "event_total": 46,
+        "last_rank": 19,
+        "player_name": "Dinesh Shrestha",
         "rank": 20,
         "rank_sort": 21,
         "total": 314
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-09-20T22:24:00Z",
+  "last_updated_data": "2026-09-21T04:49:38Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
