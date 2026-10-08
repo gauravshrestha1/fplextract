@@ -10,10 +10,6 @@
   "player_region_iso_code_short": "NP",
   "player_region_iso_code_long": "NPL",
   "years_active": 12,
-  "summary_overall_points": 364,
-  "summary_overall_rank": 306331,
-  "summary_event_points": 51,
-  "summary_event_rank": 4209579,
   "current_event": 5,
   "leagues": {
     "classic": [
@@ -337,5 +333,9 @@
   "last_deadline_bank": 3,
   "last_deadline_value": 1005,
   "last_deadline_total_transfers": 4,
-  "club_badge_src": null
+  "club_badge_src": null,
+  "summary_overall_points": 364,
+  "summary_event_points": 51,
+  "summary_event_rank": 4209571,
+  "summary_overall_rank": 306331
 }
