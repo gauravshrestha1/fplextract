@@ -31,22 +31,22 @@
       },
       {
         "club_badge_src": null,
+        "entry": 2302314,
+        "entry_name": "BhutuBhutuFC",
+        "event_total": 78,
+        "last_rank": 8,
+        "player_name": "Prakash Singh Bhujel",
+        "rank": 2,
+        "rank_sort": 2,
+        "total": 417
+      },
+      {
+        "club_badge_src": null,
         "entry": 7550875,
         "entry_name": "xGAI FC",
         "event_total": 59,
         "last_rank": 6,
         "player_name": "Suman Khadka",
-        "rank": 2,
-        "rank_sort": 2,
-        "total": 416
-      },
-      {
-        "club_badge_src": null,
-        "entry": 2302314,
-        "entry_name": "BhutuBhutuFC",
-        "event_total": 77,
-        "last_rank": 8,
-        "player_name": "Prakash Singh Bhujel",
         "rank": 3,
         "rank_sort": 3,
         "total": 416
@@ -162,26 +162,26 @@
         "total": 390
       },
       {
+        "club_badge_src": null,
+        "entry": 5467491,
+        "entry_name": "Punch.Ev",
+        "event_total": 61,
+        "last_rank": 16,
+        "player_name": "Naincy Shrestha",
+        "rank": 14,
+        "rank_sort": 14,
+        "total": 386
+      },
+      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/2826197/360791d2-ef26-4e7d-8598-eaa3aad89981.png",
         "entry": 2826197,
         "entry_name": "The Vault",
         "event_total": 51,
         "last_rank": 12,
         "player_name": "Bepeen Koirala",
-        "rank": 14,
-        "rank_sort": 14,
-        "total": 386
-      },
-      {
-        "club_badge_src": null,
-        "entry": 5467491,
-        "entry_name": "Punch.Ev",
-        "event_total": 60,
-        "last_rank": 16,
-        "player_name": "Naincy Shrestha",
         "rank": 15,
         "rank_sort": 15,
-        "total": 385
+        "total": 386
       },
       {
         "club_badge_src": null,
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-10-10T18:30:08Z",
+  "last_updated_data": "2026-10-10T23:29:17Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
