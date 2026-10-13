@@ -118,23 +118,23 @@
         "total": 408
       },
       {
-        "club_badge_src": null,
-        "entry": 2043652,
-        "entry_name": "Lochan",
-        "event_total": 76,
-        "last_rank": 13,
-        "player_name": "Aman Lochan Shrestha",
-        "rank": 10,
-        "rank_sort": 10,
-        "total": 407
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6931067/0b0b10a4-9c14-4173-bb3e-d0985f9c9f27.png",
         "entry": 1669349,
         "entry_name": "Sagun's Team",
         "event_total": 84,
         "last_rank": 17,
         "player_name": "Sagun Khadka",
+        "rank": 10,
+        "rank_sort": 10,
+        "total": 407
+      },
+      {
+        "club_badge_src": null,
+        "entry": 2043652,
+        "entry_name": "Lochan",
+        "event_total": 76,
+        "last_rank": 13,
+        "player_name": "Aman Lochan Shrestha",
         "rank": 10,
         "rank_sort": 11,
         "total": 407
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-10-12T22:54:45Z",
+  "last_updated_data": "2026-10-13T06:44:55Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
