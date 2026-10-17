@@ -22733,7 +22733,7 @@
             "element": 87
           },
           {
-            "value": 14,
+            "value": 11,
             "element": 106
           },
           {
@@ -22765,7 +22765,11 @@
             "element": 565
           },
           {
-            "value": 5,
+            "value": 4,
+            "element": 98
+          },
+          {
+            "value": 3,
             "element": 94
           },
           {
@@ -22775,10 +22779,6 @@
           {
             "value": 2,
             "element": 97
-          },
-          {
-            "value": 2,
-            "element": 98
           },
           {
             "value": 1,
@@ -22794,12 +22794,12 @@
         "identifier": "defensive_contribution",
         "a": [
           {
-            "value": 14,
-            "element": 362
+            "value": 13,
+            "element": 356
           },
           {
             "value": 13,
-            "element": 356
+            "element": 362
           },
           {
             "value": 9,
@@ -22814,12 +22814,12 @@
             "element": 358
           },
           {
-            "value": 6,
-            "element": 368
+            "value": 7,
+            "element": 375
           },
           {
             "value": 6,
-            "element": 375
+            "element": 368
           },
           {
             "value": 5,
@@ -22852,7 +22852,7 @@
             "element": 87
           },
           {
-            "value": 10,
+            "value": 11,
             "element": 98
           },
           {
@@ -22876,12 +22876,12 @@
             "element": 88
           },
           {
-            "value": 6,
-            "element": 94
+            "value": 5,
+            "element": 86
           },
           {
             "value": 5,
-            "element": 86
+            "element": 94
           },
           {
             "value": 4,
@@ -23037,12 +23037,12 @@
             "element": 286
           },
           {
-            "value": 10,
-            "element": 642
+            "value": 12,
+            "element": 277
           },
           {
-            "value": 8,
-            "element": 277
+            "value": 10,
+            "element": 642
           },
           {
             "value": 7,
@@ -23115,7 +23115,7 @@
             "element": 257
           },
           {
-            "value": 24,
+            "value": 22,
             "element": 650
           },
           {
@@ -23680,7 +23680,7 @@
     "code": 2645262,
     "event": 7,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 68,
     "kickoff_time": "2026-10-17T16:30:00Z",
     "minutes": 90,
@@ -23901,12 +23901,12 @@
             "element": 445
           },
           {
-            "value": 7,
-            "element": 448
-          },
-          {
             "value": 6,
             "element": 447
+          },
+          {
+            "value": 5,
+            "element": 448
           },
           {
             "value": 5,
@@ -23992,7 +23992,7 @@
         ],
         "h": [
           {
-            "value": 13,
+            "value": 12,
             "element": 405
           },
           {
@@ -24029,15 +24029,15 @@
           },
           {
             "value": 2,
-            "element": 448
-          },
-          {
-            "value": 2,
             "element": 460
           },
           {
             "value": 2,
             "element": 634
+          },
+          {
+            "value": 1,
+            "element": 448
           }
         ]
       }
