@@ -66,23 +66,23 @@
         "club_badge_src": null,
         "entry": 7063120,
         "entry_name": "grs",
-        "event_total": 66,
+        "event_total": 67,
         "last_rank": 4,
         "player_name": "Gaurav Shrestha",
         "rank": 5,
         "rank_sort": 5,
-        "total": 490
+        "total": 491
       },
       {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6931067/0b0b10a4-9c14-4173-bb3e-d0985f9c9f27.png",
         "entry": 1669349,
         "entry_name": "Sagun's Team",
-        "event_total": 79,
+        "event_total": 80,
         "last_rank": 9,
         "player_name": "Sagun Khadka",
         "rank": 6,
         "rank_sort": 6,
-        "total": 489
+        "total": 490
       },
       {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/2826197/360791d2-ef26-4e7d-8598-eaa3aad89981.png",
@@ -99,12 +99,12 @@
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
         "entry": 1671376,
         "entry_name": "Toothless Sharks",
-        "event_total": 80,
+        "event_total": 81,
         "last_rank": 14,
         "player_name": "Aayush Chitrakar",
-        "rank": 8,
+        "rank": 7,
         "rank_sort": 8,
-        "total": 483
+        "total": 484
       },
       {
         "club_badge_src": null,
@@ -132,12 +132,12 @@
         "club_badge_src": null,
         "entry": 805221,
         "entry_name": "24/7",
-        "event_total": 80,
+        "event_total": 81,
         "last_rank": 15,
         "player_name": "Dipesh Shrestha",
         "rank": 11,
         "rank_sort": 11,
-        "total": 478
+        "total": 479
       },
       {
         "club_badge_src": null,
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-10-19T13:09:14Z",
+  "last_updated_data": "2026-10-19T19:53:59Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
