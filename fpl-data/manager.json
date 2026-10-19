@@ -16,14 +16,14 @@
       {
         "active_phases": [
           {
-            "entry_percentile_rank": 10,
+            "entry_percentile_rank": 5,
             "last_rank": 61200,
             "league_id": 1,
             "phase": 1,
-            "rank": 68377,
-            "rank_count": 1268068,
-            "rank_sort": 68867,
-            "total": 490
+            "rank": 61527,
+            "rank_count": 1268038,
+            "rank_sort": 62055,
+            "total": 493
           },
           {
             "entry_percentile_rank": 35,
@@ -45,8 +45,8 @@
         "entry_can_invite": false,
         "entry_can_leave": false,
         "entry_last_rank": 61200,
-        "entry_percentile_rank": 10,
-        "entry_rank": 66160,
+        "entry_percentile_rank": 5,
+        "entry_rank": 61527,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 1,
@@ -54,7 +54,7 @@
         "max_entries": null,
         "name": "Arsenal",
         "rank": null,
-        "rank_count": 1268068,
+        "rank_count": 1268038,
         "scoring": "c",
         "short_name": "team-1",
         "start_event": 1
@@ -66,10 +66,10 @@
             "last_rank": 2885,
             "league_id": 170,
             "phase": 1,
-            "rank": 3024,
-            "rank_count": 48710,
-            "rank_sort": 3048,
-            "total": 490
+            "rank": 2736,
+            "rank_count": 48709,
+            "rank_sort": 2765,
+            "total": 493
           },
           {
             "entry_percentile_rank": 35,
@@ -92,7 +92,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 2885,
         "entry_percentile_rank": 10,
-        "entry_rank": 2925,
+        "entry_rank": 2736,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 170,
@@ -100,7 +100,7 @@
         "max_entries": null,
         "name": "Nepal",
         "rank": null,
-        "rank_count": 48710,
+        "rank_count": 48709,
         "scoring": "c",
         "short_name": "region-150",
         "start_event": 1
@@ -112,10 +112,10 @@
             "last_rank": 554018,
             "league_id": 276,
             "phase": 1,
-            "rank": 597260,
-            "rank_count": 8890711,
-            "rank_sort": 601983,
-            "total": 490
+            "rank": 541476,
+            "rank_count": 8890504,
+            "rank_sort": 545931,
+            "total": 493
           },
           {
             "entry_percentile_rank": 35,
@@ -138,7 +138,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 554018,
         "entry_percentile_rank": 10,
-        "entry_rank": 579021,
+        "entry_rank": 541476,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 276,
@@ -146,7 +146,7 @@
         "max_entries": null,
         "name": "Gameweek 1",
         "rank": null,
-        "rank_count": 8890711,
+        "rank_count": 8890504,
         "scoring": "c",
         "short_name": "event-1",
         "start_event": 1
@@ -154,14 +154,14 @@
       {
         "active_phases": [
           {
-            "entry_percentile_rank": 10,
+            "entry_percentile_rank": 5,
             "last_rank": 554029,
             "league_id": 314,
             "phase": 1,
-            "rank": 597284,
-            "rank_count": 11063683,
-            "rank_sort": 602007,
-            "total": 490
+            "rank": 541490,
+            "rank_count": 11063324,
+            "rank_sort": 545945,
+            "total": 493
           },
           {
             "entry_percentile_rank": 30,
@@ -183,8 +183,8 @@
         "entry_can_invite": false,
         "entry_can_leave": false,
         "entry_last_rank": 554029,
-        "entry_percentile_rank": 10,
-        "entry_rank": 579044,
+        "entry_percentile_rank": 5,
+        "entry_rank": 541490,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 314,
@@ -192,7 +192,7 @@
         "max_entries": null,
         "name": "Overall",
         "rank": null,
-        "rank_count": 11063683,
+        "rank_count": 11063324,
         "scoring": "c",
         "short_name": "overall",
         "start_event": 1
@@ -204,10 +204,10 @@
             "last_rank": 4,
             "league_id": 150632,
             "phase": 1,
-            "rank": 5,
+            "rank": 4,
             "rank_count": 25,
             "rank_sort": 5,
-            "total": 490
+            "total": 493
           },
           {
             "entry_percentile_rank": 60,
@@ -230,7 +230,7 @@
         "entry_can_leave": true,
         "entry_last_rank": 4,
         "entry_percentile_rank": 20,
-        "entry_rank": 5,
+        "entry_rank": 4,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 150632,
@@ -250,10 +250,10 @@
             "last_rank": 4853387,
             "league_id": 2430021,
             "phase": 1,
-            "rank": 3281510,
-            "rank_count": 11063649,
-            "rank_sort": 3314609,
-            "total": 126
+            "rank": 2952296,
+            "rank_count": 11063312,
+            "rank_sort": 2985879,
+            "total": 129
           },
           {
             "entry_percentile_rank": 30,
@@ -276,7 +276,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 4853387,
         "entry_percentile_rank": 30,
-        "entry_rank": 3189743,
+        "entry_rank": 2952296,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 2430021,
@@ -284,7 +284,7 @@
         "max_entries": null,
         "name": "Second Chance",
         "rank": null,
-        "rank_count": 11063649,
+        "rank_count": 11063312,
         "scoring": "c",
         "short_name": "sc",
         "start_event": 6
@@ -346,8 +346,8 @@
   "last_deadline_value": 1010,
   "last_deadline_total_transfers": 6,
   "club_badge_src": null,
-  "summary_overall_points": 491,
-  "summary_event_points": 67,
-  "summary_event_rank": 2574204,
-  "summary_overall_rank": 579044
+  "summary_overall_points": 493,
+  "summary_event_points": 69,
+  "summary_event_rank": 2197008,
+  "summary_overall_rank": 541490
 }
