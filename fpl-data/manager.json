@@ -276,7 +276,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 4853387,
         "entry_percentile_rank": 30,
-        "entry_rank": 3157449,
+        "entry_rank": 3157450,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 2430021,
@@ -348,6 +348,6 @@
   "club_badge_src": null,
   "summary_overall_points": 494,
   "summary_event_points": 70,
-  "summary_event_rank": 2480586,
+  "summary_event_rank": 2480584,
   "summary_overall_rank": 556380
 }
