@@ -74,23 +74,23 @@
         "total": 542
       },
       {
-        "club_badge_src": null,
-        "entry": 7550875,
-        "entry_name": "xGAI FC",
-        "event_total": 37,
-        "last_rank": 2,
-        "player_name": "Suman Khadka",
-        "rank": 6,
-        "rank_sort": 6,
-        "total": 541
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/2826197/360791d2-ef26-4e7d-8598-eaa3aad89981.png",
         "entry": 2826197,
         "entry_name": "The Vault",
         "event_total": 48,
         "last_rank": 5,
         "player_name": "Bepeen Koirala",
+        "rank": 6,
+        "rank_sort": 6,
+        "total": 541
+      },
+      {
+        "club_badge_src": null,
+        "entry": 7550875,
+        "entry_name": "xGAI FC",
+        "event_total": 37,
+        "last_rank": 2,
+        "player_name": "Suman Khadka",
         "rank": 6,
         "rank_sort": 7,
         "total": 541
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-10-26T00:20:40Z",
+  "last_updated_data": "2026-10-26T07:45:16Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
