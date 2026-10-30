@@ -46,7 +46,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 63193,
         "entry_percentile_rank": 10,
-        "entry_rank": 101285,
+        "entry_rank": 101286,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 1,
@@ -276,7 +276,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 3157459,
         "entry_percentile_rank": 45,
-        "entry_rank": 4892840,
+        "entry_rank": 4892836,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 2430021,
@@ -349,6 +349,6 @@
   "club_badge_src": null,
   "summary_overall_points": 531,
   "summary_event_points": 37,
-  "summary_event_rank": 8540572,
+  "summary_event_rank": 8540562,
   "summary_overall_rank": 867170
 }
