@@ -30,23 +30,23 @@
         "total": 634
       },
       {
-        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6931067/0b0b10a4-9c14-4173-bb3e-d0985f9c9f27.png",
-        "entry": 1669349,
-        "entry_name": "Sagun's Team",
-        "event_total": 68,
-        "last_rank": 4,
-        "player_name": "Sagun Khadka",
-        "rank": 2,
-        "rank_sort": 2,
-        "total": 614
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
         "entry": 1671376,
         "entry_name": "Toothless Sharks",
         "event_total": 69,
         "last_rank": 5,
         "player_name": "Aayush Chitrakar",
+        "rank": 2,
+        "rank_sort": 2,
+        "total": 614
+      },
+      {
+        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6931067/0b0b10a4-9c14-4173-bb3e-d0985f9c9f27.png",
+        "entry": 1669349,
+        "entry_name": "Sagun's Team",
+        "event_total": 68,
+        "last_rank": 4,
+        "player_name": "Sagun Khadka",
         "rank": 2,
         "rank_sort": 3,
         "total": 614
@@ -66,12 +66,12 @@
         "club_badge_src": null,
         "entry": 7550875,
         "entry_name": "xGAI FC",
-        "event_total": 68,
+        "event_total": 66,
         "last_rank": 7,
         "player_name": "Suman Khadka",
-        "rank": 4,
+        "rank": 5,
         "rank_sort": 5,
-        "total": 610
+        "total": 608
       },
       {
         "club_badge_src": null,
@@ -143,23 +143,12 @@
         "club_badge_src": null,
         "entry": 2241309,
         "entry_name": "BLUE KRYPTONS",
-        "event_total": 53,
+        "event_total": 51,
         "last_rank": 12,
         "player_name": "Pradip Sharma",
         "rank": 12,
         "rank_sort": 12,
-        "total": 569
-      },
-      {
-        "club_badge_src": null,
-        "entry": 5985005,
-        "entry_name": "GP2",
-        "event_total": 36,
-        "last_rank": 13,
-        "player_name": "Dinesh Shrestha",
-        "rank": 13,
-        "rank_sort": 13,
-        "total": 556
+        "total": 567
       },
       {
         "club_badge_src": null,
@@ -168,6 +157,17 @@
         "event_total": 47,
         "last_rank": 16,
         "player_name": "Pablo Emilio",
+        "rank": 13,
+        "rank_sort": 13,
+        "total": 554
+      },
+      {
+        "club_badge_src": null,
+        "entry": 5985005,
+        "entry_name": "GP2",
+        "event_total": 34,
+        "last_rank": 13,
+        "player_name": "Dinesh Shrestha",
         "rank": 14,
         "rank_sort": 14,
         "total": 554
@@ -176,23 +176,23 @@
         "club_badge_src": null,
         "entry": 2043652,
         "entry_name": "Lochan",
-        "event_total": 42,
+        "event_total": 40,
         "last_rank": 15,
         "player_name": "Aman Lochan Shrestha",
         "rank": 15,
         "rank_sort": 15,
-        "total": 552
+        "total": 550
       },
       {
         "club_badge_src": null,
         "entry": 2317391,
         "entry_name": "What the VAR!",
-        "event_total": 43,
+        "event_total": 41,
         "last_rank": 17,
         "player_name": "Puspa R Timilsena",
         "rank": 16,
         "rank_sort": 16,
-        "total": 550
+        "total": 548
       },
       {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/5092469/1fea1e7e-5ce0-4eac-a21b-5fdd887de16d.png",
@@ -217,48 +217,48 @@
         "total": 529
       },
       {
-        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/4766761/8efac951-b44c-41fd-8187-07743a28d32a.png",
-        "entry": 4766761,
-        "entry_name": "Eki-tiki-taka",
-        "event_total": 65,
-        "last_rank": 23,
-        "player_name": "Anurag Thapa",
-        "rank": 19,
-        "rank_sort": 19,
-        "total": 517
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6301914/6e9589a1-872b-4174-94c4-1a9ea26607c2.png",
         "entry": 6229897,
         "entry_name": "HAHAHAHAALAND",
         "event_total": 36,
         "last_rank": 19,
         "player_name": "Sailef Hero",
+        "rank": 19,
+        "rank_sort": 19,
+        "total": 516
+      },
+      {
+        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/4766761/8efac951-b44c-41fd-8187-07743a28d32a.png",
+        "entry": 4766761,
+        "entry_name": "Eki-tiki-taka",
+        "event_total": 63,
+        "last_rank": 23,
+        "player_name": "Anurag Thapa",
         "rank": 20,
         "rank_sort": 20,
-        "total": 516
+        "total": 515
       },
       {
         "club_badge_src": null,
         "entry": 791285,
         "entry_name": "ST09",
-        "event_total": 48,
+        "event_total": 46,
         "last_rank": 21,
         "player_name": "Sujan Timalsina",
         "rank": 21,
         "rank_sort": 21,
-        "total": 515
+        "total": 513
       },
       {
         "club_badge_src": null,
         "entry": 1490679,
         "entry_name": "Rice Rice Baby",
-        "event_total": 35,
+        "event_total": 33,
         "last_rank": 20,
         "player_name": "Bikash Maharjan",
         "rank": 22,
         "rank_sort": 22,
-        "total": 509
+        "total": 507
       },
       {
         "club_badge_src": null,
@@ -286,16 +286,16 @@
         "club_badge_src": null,
         "entry": 1671771,
         "entry_name": "BsalFc",
-        "event_total": 46,
+        "event_total": 44,
         "last_rank": 25,
         "player_name": "Bishal Ghimire",
         "rank": 25,
         "rank_sort": 25,
-        "total": 448
+        "total": 446
       }
     ]
   },
-  "last_updated_data": "2026-11-01T23:29:28Z",
+  "last_updated_data": "2026-11-02T05:54:41Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
