@@ -154,12 +154,12 @@
         "club_badge_src": null,
         "entry": 1756357,
         "entry_name": "ysatnaf 11",
-        "event_total": 50,
+        "event_total": 51,
         "last_rank": 16,
         "player_name": "Pablo Emilio",
         "rank": 13,
         "rank_sort": 13,
-        "total": 557
+        "total": 558
       },
       {
         "club_badge_src": null,
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-11-02T23:24:25Z",
+  "last_updated_data": "2026-11-03T06:44:39Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
