@@ -30,23 +30,23 @@
         "total": 634
       },
       {
-        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
-        "entry": 1671376,
-        "entry_name": "Toothless Sharks",
-        "event_total": 69,
-        "last_rank": 5,
-        "player_name": "Aayush Chitrakar",
-        "rank": 2,
-        "rank_sort": 2,
-        "total": 614
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6931067/0b0b10a4-9c14-4173-bb3e-d0985f9c9f27.png",
         "entry": 1669349,
         "entry_name": "Sagun's Team",
         "event_total": 68,
         "last_rank": 4,
         "player_name": "Sagun Khadka",
+        "rank": 2,
+        "rank_sort": 2,
+        "total": 614
+      },
+      {
+        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
+        "entry": 1671376,
+        "entry_name": "Toothless Sharks",
+        "event_total": 69,
+        "last_rank": 5,
+        "player_name": "Aayush Chitrakar",
         "rank": 2,
         "rank_sort": 3,
         "total": 614
@@ -163,14 +163,36 @@
       },
       {
         "club_badge_src": null,
-        "entry": 5985005,
-        "entry_name": "GP2",
-        "event_total": 34,
-        "last_rank": 13,
-        "player_name": "Dinesh Shrestha",
+        "entry": 2317391,
+        "entry_name": "What the VAR!",
+        "event_total": 48,
+        "last_rank": 17,
+        "player_name": "Puspa R Timilsena",
         "rank": 14,
         "rank_sort": 14,
-        "total": 554
+        "total": 555
+      },
+      {
+        "club_badge_src": null,
+        "entry": 5985005,
+        "entry_name": "GP2",
+        "event_total": 35,
+        "last_rank": 13,
+        "player_name": "Dinesh Shrestha",
+        "rank": 15,
+        "rank_sort": 15,
+        "total": 555
+      },
+      {
+        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/5092469/1fea1e7e-5ce0-4eac-a21b-5fdd887de16d.png",
+        "entry": 5092469,
+        "entry_name": "FC MATGANG",
+        "event_total": 35,
+        "last_rank": 14,
+        "player_name": "Janesh Basaula",
+        "rank": 16,
+        "rank_sort": 16,
+        "total": 552
       },
       {
         "club_badge_src": null,
@@ -179,31 +201,9 @@
         "event_total": 41,
         "last_rank": 15,
         "player_name": "Aman Lochan Shrestha",
-        "rank": 15,
-        "rank_sort": 15,
-        "total": 551
-      },
-      {
-        "club_badge_src": null,
-        "entry": 2317391,
-        "entry_name": "What the VAR!",
-        "event_total": 42,
-        "last_rank": 17,
-        "player_name": "Puspa R Timilsena",
-        "rank": 16,
-        "rank_sort": 16,
-        "total": 549
-      },
-      {
-        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/5092469/1fea1e7e-5ce0-4eac-a21b-5fdd887de16d.png",
-        "entry": 5092469,
-        "entry_name": "FC MATGANG",
-        "event_total": 29,
-        "last_rank": 14,
-        "player_name": "Janesh Basaula",
         "rank": 17,
         "rank_sort": 17,
-        "total": 546
+        "total": 551
       },
       {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/3799384/887ae1d9-135e-4a30-82a7-0fc601ed5994.png",
@@ -253,12 +253,12 @@
         "club_badge_src": null,
         "entry": 1490679,
         "entry_name": "Rice Rice Baby",
-        "event_total": 33,
+        "event_total": 35,
         "last_rank": 20,
         "player_name": "Bikash Maharjan",
         "rank": 22,
         "rank_sort": 22,
-        "total": 507
+        "total": 509
       },
       {
         "club_badge_src": null,
@@ -275,27 +275,27 @@
         "club_badge_src": null,
         "entry": 1687776,
         "entry_name": "NFW",
-        "event_total": 35,
+        "event_total": 42,
         "last_rank": 22,
         "player_name": "Anup Jon",
         "rank": 24,
         "rank_sort": 24,
-        "total": 488
+        "total": 495
       },
       {
         "club_badge_src": null,
         "entry": 1671771,
         "entry_name": "BsalFc",
-        "event_total": 44,
+        "event_total": 49,
         "last_rank": 25,
         "player_name": "Bishal Ghimire",
         "rank": 25,
         "rank_sort": 25,
-        "total": 446
+        "total": 451
       }
     ]
   },
-  "last_updated_data": "2026-11-03T06:44:39Z",
+  "last_updated_data": "2026-11-03T16:10:13Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
