@@ -30,23 +30,23 @@
         "total": 634
       },
       {
-        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
-        "entry": 1671376,
-        "entry_name": "Toothless Sharks",
-        "event_total": 69,
-        "last_rank": 5,
-        "player_name": "Aayush Chitrakar",
-        "rank": 2,
-        "rank_sort": 2,
-        "total": 614
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/6931067/0b0b10a4-9c14-4173-bb3e-d0985f9c9f27.png",
         "entry": 1669349,
         "entry_name": "Sagun's Team",
         "event_total": 68,
         "last_rank": 4,
         "player_name": "Sagun Khadka",
+        "rank": 2,
+        "rank_sort": 2,
+        "total": 614
+      },
+      {
+        "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/902498/5870057c-985e-413b-a869-6328c9064f12.png",
+        "entry": 1671376,
+        "entry_name": "Toothless Sharks",
+        "event_total": 69,
+        "last_rank": 5,
+        "player_name": "Aayush Chitrakar",
         "rank": 2,
         "rank_sort": 3,
         "total": 614
@@ -295,7 +295,7 @@
       }
     ]
   },
-  "last_updated_data": "2026-11-05T00:49:26Z",
+  "last_updated_data": "2026-11-05T09:25:18Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
