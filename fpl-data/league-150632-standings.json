@@ -162,26 +162,26 @@
         "total": 625
       },
       {
-        "club_badge_src": null,
-        "entry": 5985005,
-        "entry_name": "GP2",
-        "event_total": 59,
-        "last_rank": 15,
-        "player_name": "Dinesh Shrestha",
-        "rank": 14,
-        "rank_sort": 14,
-        "total": 614
-      },
-      {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/5092469/1fea1e7e-5ce0-4eac-a21b-5fdd887de16d.png",
         "entry": 5092469,
         "entry_name": "FC MATGANG",
-        "event_total": 62,
+        "event_total": 68,
         "last_rank": 16,
         "player_name": "Janesh Basaula",
+        "rank": 14,
+        "rank_sort": 14,
+        "total": 620
+      },
+      {
+        "club_badge_src": null,
+        "entry": 5985005,
+        "entry_name": "GP2",
+        "event_total": 63,
+        "last_rank": 15,
+        "player_name": "Dinesh Shrestha",
         "rank": 15,
         "rank_sort": 15,
-        "total": 614
+        "total": 618
       },
       {
         "club_badge_src": null,
@@ -198,12 +198,12 @@
         "club_badge_src": null,
         "entry": 1756357,
         "entry_name": "ysatnaf 11",
-        "event_total": 26,
+        "event_total": 30,
         "last_rank": 13,
         "player_name": "Pablo Emilio",
         "rank": 17,
         "rank_sort": 17,
-        "total": 584
+        "total": 588
       },
       {
         "club_badge_src": "https://fantasy.premierleague.com/gcs/plfpl-production-adobe-approved/plfpl-production/3799384/887ae1d9-135e-4a30-82a7-0fc601ed5994.png",
@@ -275,27 +275,27 @@
         "club_badge_src": null,
         "entry": 1687776,
         "entry_name": "NFW",
-        "event_total": 37,
+        "event_total": 43,
         "last_rank": 24,
         "player_name": "Anup Jon",
         "rank": 24,
         "rank_sort": 24,
-        "total": 532
+        "total": 538
       },
       {
         "club_badge_src": null,
         "entry": 1671771,
         "entry_name": "BsalFc",
-        "event_total": 62,
+        "event_total": 63,
         "last_rank": 25,
         "player_name": "Bishal Ghimire",
         "rank": 25,
         "rank_sort": 25,
-        "total": 513
+        "total": 514
       }
     ]
   },
-  "last_updated_data": "2026-11-09T09:44:31Z",
+  "last_updated_data": "2026-11-09T20:39:00Z",
   "new_entries": {
     "has_next": false,
     "page": 1,
