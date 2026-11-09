@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T21:55:36.043714+00:00",
+ "generated_at": "2026-11-09T01:35:59.306191+00:00",
  "current_event": 10,
  "next_event": 11,
  "deadlines": {
@@ -68,8 +68,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "7.59",
-   "transfers_in_event": 27239,
-   "transfers_out_event": 6301
+   "transfers_in_event": 29215,
+   "transfers_out_event": 6742
   },
   {
    "id": 2,
@@ -95,8 +95,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 26,
-   "transfers_out_event": 53
+   "transfers_in_event": 28,
+   "transfers_out_event": 56
   },
   {
    "id": 3,
@@ -122,8 +122,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 12,
-   "transfers_out_event": 20
+   "transfers_in_event": 14,
+   "transfers_out_event": 21
   },
   {
    "id": 4,
@@ -133,7 +133,7 @@
    "pos": "DEF",
    "price": 8.1,
    "cost_change_event": 1,
-   "selected_by_percent": "25.8",
+   "selected_by_percent": "25.9",
    "form": "8.2",
    "points_per_game": "6.6",
    "total_points": 66,
@@ -149,8 +149,8 @@
    "expected_goals": "1.47",
    "expected_assists": "0.25",
    "expected_goals_conceded": "7.59",
-   "transfers_in_event": 48669,
-   "transfers_out_event": 4351
+   "transfers_in_event": 51881,
+   "transfers_out_event": 4672
   },
   {
    "id": 5,
@@ -176,8 +176,8 @@
    "expected_goals": "0.02",
    "expected_assists": "0.57",
    "expected_goals_conceded": "4.06",
-   "transfers_in_event": 6901,
-   "transfers_out_event": 1234
+   "transfers_in_event": 7318,
+   "transfers_out_event": 1317
   },
   {
    "id": 6,
@@ -203,8 +203,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 5780,
-   "transfers_out_event": 813
+   "transfers_in_event": 6114,
+   "transfers_out_event": 863
   },
   {
    "id": 7,
@@ -230,8 +230,8 @@
    "expected_goals": "0.22",
    "expected_assists": "0.64",
    "expected_goals_conceded": "2.55",
-   "transfers_in_event": 139,
-   "transfers_out_event": 938
+   "transfers_in_event": 145,
+   "transfers_out_event": 991
   },
   {
    "id": 8,
@@ -257,8 +257,8 @@
    "expected_goals": "1.22",
    "expected_assists": "1.01",
    "expected_goals_conceded": "6.93",
-   "transfers_in_event": 36830,
-   "transfers_out_event": 13058
+   "transfers_in_event": 39171,
+   "transfers_out_event": 14158
   },
   {
    "id": 9,
@@ -284,8 +284,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.46",
-   "transfers_in_event": 227,
-   "transfers_out_event": 563
+   "transfers_in_event": 242,
+   "transfers_out_event": 603
   },
   {
    "id": 10,
@@ -311,8 +311,8 @@
    "expected_goals": "0.18",
    "expected_assists": "0.83",
    "expected_goals_conceded": "2.84",
-   "transfers_in_event": 1121,
-   "transfers_out_event": 22751
+   "transfers_in_event": 1178,
+   "transfers_out_event": 24128
   },
   {
    "id": 11,
@@ -338,8 +338,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "0.53",
-   "transfers_in_event": 120,
-   "transfers_out_event": 1541
+   "transfers_in_event": 126,
+   "transfers_out_event": 1658
   },
   {
    "id": 12,
@@ -365,8 +365,8 @@
    "expected_goals": "3.63",
    "expected_assists": "1.20",
    "expected_goals_conceded": "5.10",
-   "transfers_in_event": 87,
-   "transfers_out_event": 17765
+   "transfers_in_event": 92,
+   "transfers_out_event": 18797
   },
   {
    "id": 13,
@@ -392,8 +392,8 @@
    "expected_goals": "0.57",
    "expected_assists": "2.04",
    "expected_goals_conceded": "6.86",
-   "transfers_in_event": 24780,
-   "transfers_out_event": 11217
+   "transfers_in_event": 26101,
+   "transfers_out_event": 12089
   },
   {
    "id": 14,
@@ -419,8 +419,8 @@
    "expected_goals": "0.19",
    "expected_assists": "0.31",
    "expected_goals_conceded": "1.97",
-   "transfers_in_event": 369,
-   "transfers_out_event": 2236
+   "transfers_in_event": 391,
+   "transfers_out_event": 2371
   },
   {
    "id": 15,
@@ -446,8 +446,8 @@
    "expected_goals": "2.40",
    "expected_assists": "2.48",
    "expected_goals_conceded": "6.64",
-   "transfers_in_event": 20243,
-   "transfers_out_event": 12352
+   "transfers_in_event": 21837,
+   "transfers_out_event": 12936
   },
   {
    "id": 16,
@@ -473,8 +473,8 @@
    "expected_goals": "0.90",
    "expected_assists": "1.54",
    "expected_goals_conceded": "3.50",
-   "transfers_in_event": 2933,
-   "transfers_out_event": 480
+   "transfers_in_event": 3121,
+   "transfers_out_event": 521
   },
   {
    "id": 17,
@@ -500,8 +500,8 @@
    "expected_goals": "0.82",
    "expected_assists": "0.36",
    "expected_goals_conceded": "1.93",
-   "transfers_in_event": 153,
-   "transfers_out_event": 606
+   "transfers_in_event": 157,
+   "transfers_out_event": 648
   },
   {
    "id": 18,
@@ -528,7 +528,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 28
+   "transfers_out_event": 30
   },
   {
    "id": 19,
@@ -554,8 +554,8 @@
    "expected_goals": "0.21",
    "expected_assists": "0.05",
    "expected_goals_conceded": "1.58",
-   "transfers_in_event": 120,
-   "transfers_out_event": 449
+   "transfers_in_event": 121,
+   "transfers_out_event": 495
   },
   {
    "id": 20,
@@ -582,7 +582,7 @@
    "expected_assists": "0.09",
    "expected_goals_conceded": "0.51",
    "transfers_in_event": 8,
-   "transfers_out_event": 171
+   "transfers_out_event": 181
   },
   {
    "id": 22,
@@ -689,8 +689,8 @@
    "expected_goals": "0.11",
    "expected_assists": "0.49",
    "expected_goals_conceded": "1.68",
-   "transfers_in_event": 1209,
-   "transfers_out_event": 3792
+   "transfers_in_event": 1288,
+   "transfers_out_event": 4047
   },
   {
    "id": 26,
@@ -716,8 +716,8 @@
    "expected_goals": "2.78",
    "expected_assists": "0.45",
    "expected_goals_conceded": "6.44",
-   "transfers_in_event": 7577,
-   "transfers_out_event": 14347
+   "transfers_in_event": 7921,
+   "transfers_out_event": 15417
   },
   {
    "id": 27,
@@ -744,7 +744,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 62
+   "transfers_out_event": 64
   },
   {
    "id": 31,
@@ -770,8 +770,8 @@
    "expected_goals": "0.64",
    "expected_assists": "0.04",
    "expected_goals_conceded": "7.06",
-   "transfers_in_event": 82519,
-   "transfers_out_event": 6743
+   "transfers_in_event": 88163,
+   "transfers_out_event": 7596
   },
   {
    "id": 452,
@@ -797,8 +797,8 @@
    "expected_goals": "0.36",
    "expected_assists": "0.37",
    "expected_goals_conceded": "3.77",
-   "transfers_in_event": 915,
-   "transfers_out_event": 5213
+   "transfers_in_event": 964,
+   "transfers_out_event": 5579
   },
   {
    "id": 557,
@@ -824,8 +824,8 @@
    "expected_goals": "0.44",
    "expected_assists": "0.90",
    "expected_goals_conceded": "3.96",
-   "transfers_in_event": 1463,
-   "transfers_out_event": 3558
+   "transfers_in_event": 1528,
+   "transfers_out_event": 3798
   },
   {
    "id": 29,
@@ -851,8 +851,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "3.77",
-   "transfers_in_event": 68,
-   "transfers_out_event": 99
+   "transfers_in_event": 71,
+   "transfers_out_event": 108
   },
   {
    "id": 30,
@@ -879,7 +879,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 19
+   "transfers_out_event": 20
   },
   {
    "id": 32,
@@ -905,8 +905,8 @@
    "expected_goals": "0.21",
    "expected_assists": "0.22",
    "expected_goals_conceded": "11.80",
-   "transfers_in_event": 604,
-   "transfers_out_event": 10728
+   "transfers_in_event": 745,
+   "transfers_out_event": 11014
   },
   {
    "id": 33,
@@ -932,8 +932,8 @@
    "expected_goals": "0.20",
    "expected_assists": "0.03",
    "expected_goals_conceded": "6.48",
-   "transfers_in_event": 370,
-   "transfers_out_event": 503
+   "transfers_in_event": 383,
+   "transfers_out_event": 543
   },
   {
    "id": 34,
@@ -959,8 +959,8 @@
    "expected_goals": "0.34",
    "expected_assists": "0.04",
    "expected_goals_conceded": "12.57",
-   "transfers_in_event": 490,
-   "transfers_out_event": 195
+   "transfers_in_event": 532,
+   "transfers_out_event": 211
   },
   {
    "id": 35,
@@ -987,7 +987,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.22",
    "transfers_in_event": 37,
-   "transfers_out_event": 53
+   "transfers_out_event": 56
   },
   {
    "id": 36,
@@ -1013,8 +1013,8 @@
    "expected_goals": "0.40",
    "expected_assists": "0.51",
    "expected_goals_conceded": "13.89",
-   "transfers_in_event": 958,
-   "transfers_out_event": 216
+   "transfers_in_event": 1021,
+   "transfers_out_event": 234
   },
   {
    "id": 37,
@@ -1040,8 +1040,8 @@
    "expected_goals": "0.44",
    "expected_assists": "0.18",
    "expected_goals_conceded": "18.62",
-   "transfers_in_event": 2643,
-   "transfers_out_event": 672
+   "transfers_in_event": 2844,
+   "transfers_out_event": 725
   },
   {
    "id": 38,
@@ -1068,7 +1068,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 2323
+   "transfers_out_event": 2478
   },
   {
    "id": 39,
@@ -1095,7 +1095,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 73
+   "transfers_out_event": 75
   },
   {
    "id": 41,
@@ -1121,8 +1121,8 @@
    "expected_goals": "1.59",
    "expected_assists": "0.47",
    "expected_goals_conceded": "9.81",
-   "transfers_in_event": 790,
-   "transfers_out_event": 2735
+   "transfers_in_event": 819,
+   "transfers_out_event": 3013
   },
   {
    "id": 44,
@@ -1149,7 +1149,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 34
+   "transfers_out_event": 36
   },
   {
    "id": 45,
@@ -1175,8 +1175,8 @@
    "expected_goals": "3.22",
    "expected_assists": "0.82",
    "expected_goals_conceded": "15.74",
-   "transfers_in_event": 14986,
-   "transfers_out_event": 3229
+   "transfers_in_event": 18077,
+   "transfers_out_event": 3329
   },
   {
    "id": 46,
@@ -1202,8 +1202,8 @@
    "expected_goals": "0.61",
    "expected_assists": "0.19",
    "expected_goals_conceded": "9.83",
-   "transfers_in_event": 223,
-   "transfers_out_event": 363
+   "transfers_in_event": 236,
+   "transfers_out_event": 396
   },
   {
    "id": 47,
@@ -1229,8 +1229,8 @@
    "expected_goals": "0.21",
    "expected_assists": "0.29",
    "expected_goals_conceded": "17.69",
-   "transfers_in_event": 844,
-   "transfers_out_event": 724
+   "transfers_in_event": 905,
+   "transfers_out_event": 787
   },
   {
    "id": 48,
@@ -1256,7 +1256,7 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 11,
+   "transfers_in_event": 12,
    "transfers_out_event": 17
   },
   {
@@ -1310,8 +1310,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 80,
-   "transfers_out_event": 576
+   "transfers_in_event": 87,
+   "transfers_out_event": 617
   },
   {
    "id": 51,
@@ -1337,8 +1337,8 @@
    "expected_goals": "0.07",
    "expected_assists": "0.18",
    "expected_goals_conceded": "7.57",
-   "transfers_in_event": 497,
-   "transfers_out_event": 1219
+   "transfers_in_event": 532,
+   "transfers_out_event": 1309
   },
   {
    "id": 52,
@@ -1361,11 +1361,11 @@
    "assists": 2,
    "clean_sheets": 0,
    "ict_index": "13.4",
-   "expected_goals": "0.44",
+   "expected_goals": "0.48",
    "expected_assists": "0.02",
    "expected_goals_conceded": "8.00",
-   "transfers_in_event": 3621,
-   "transfers_out_event": 149
+   "transfers_in_event": 4460,
+   "transfers_out_event": 167
   },
   {
    "id": 53,
@@ -1375,7 +1375,7 @@
    "pos": "MID",
    "price": 6.2,
    "cost_change_event": 0,
-   "selected_by_percent": "8.4",
+   "selected_by_percent": "8.5",
    "form": "5.2",
    "points_per_game": "5.7",
    "total_points": 40,
@@ -1388,11 +1388,11 @@
    "assists": 3,
    "clean_sheets": 2,
    "ict_index": "43.6",
-   "expected_goals": "1.71",
-   "expected_assists": "0.81",
+   "expected_goals": "1.67",
+   "expected_assists": "0.87",
    "expected_goals_conceded": "8.35",
-   "transfers_in_event": 44118,
-   "transfers_out_event": 5717
+   "transfers_in_event": 46752,
+   "transfers_out_event": 6456
   },
   {
    "id": 54,
@@ -1418,8 +1418,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.29",
    "expected_goals_conceded": "8.47",
-   "transfers_in_event": 167,
-   "transfers_out_event": 133
+   "transfers_in_event": 175,
+   "transfers_out_event": 141
   },
   {
    "id": 55,
@@ -1446,7 +1446,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 776
+   "transfers_out_event": 815
   },
   {
    "id": 56,
@@ -1472,8 +1472,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "2.69",
-   "transfers_in_event": 287,
-   "transfers_out_event": 489
+   "transfers_in_event": 295,
+   "transfers_out_event": 527
   },
   {
    "id": 160,
@@ -1499,8 +1499,8 @@
    "expected_goals": "0.09",
    "expected_assists": "0.05",
    "expected_goals_conceded": "0.49",
-   "transfers_in_event": 153,
-   "transfers_out_event": 290
+   "transfers_in_event": 162,
+   "transfers_out_event": 314
   },
   {
    "id": 166,
@@ -1510,7 +1510,7 @@
    "pos": "FWD",
    "price": 7.1,
    "cost_change_event": 1,
-   "selected_by_percent": "29.8",
+   "selected_by_percent": "30.0",
    "form": "8.8",
    "points_per_game": "6.0",
    "total_points": 54,
@@ -1526,8 +1526,8 @@
    "expected_goals": "3.46",
    "expected_assists": "0.90",
    "expected_goals_conceded": "10.63",
-   "transfers_in_event": 165977,
-   "transfers_out_event": 6637
+   "transfers_in_event": 182410,
+   "transfers_out_event": 6816
   },
   {
    "id": 582,
@@ -1553,8 +1553,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "1.52",
-   "transfers_in_event": 116,
-   "transfers_out_event": 420
+   "transfers_in_event": 118,
+   "transfers_out_event": 448
   },
   {
    "id": 596,
@@ -1581,7 +1581,7 @@
    "expected_assists": "0.02",
    "expected_goals_conceded": "2.48",
    "transfers_in_event": 2,
-   "transfers_out_event": 85
+   "transfers_out_event": 88
   },
   {
    "id": 597,
@@ -1607,8 +1607,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "14.85",
-   "transfers_in_event": 9337,
-   "transfers_out_event": 3149
+   "transfers_in_event": 9881,
+   "transfers_out_event": 3487
   },
   {
    "id": 606,
@@ -1634,8 +1634,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 103,
-   "transfers_out_event": 160
+   "transfers_in_event": 106,
+   "transfers_out_event": 170
   },
   {
    "id": 607,
@@ -1662,7 +1662,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 81
+   "transfers_out_event": 84
   },
   {
    "id": 611,
@@ -1689,7 +1689,7 @@
    "expected_assists": "0.10",
    "expected_goals_conceded": "4.46",
    "transfers_in_event": 24,
-   "transfers_out_event": 364
+   "transfers_out_event": 380
   },
   {
    "id": 618,
@@ -1713,10 +1713,10 @@
    "clean_sheets": 0,
    "ict_index": "3.2",
    "expected_goals": "0.46",
-   "expected_assists": "0.04",
+   "expected_assists": "0.15",
    "expected_goals_conceded": "4.91",
-   "transfers_in_event": 406,
-   "transfers_out_event": 74
+   "transfers_in_event": 479,
+   "transfers_out_event": 76
   },
   {
    "id": 630,
@@ -1742,8 +1742,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.03",
    "expected_goals_conceded": "3.55",
-   "transfers_in_event": 106,
-   "transfers_out_event": 52
+   "transfers_in_event": 115,
+   "transfers_out_event": 54
   },
   {
    "id": 631,
@@ -1769,8 +1769,8 @@
    "expected_goals": "0.35",
    "expected_assists": "0.38",
    "expected_goals_conceded": "4.52",
-   "transfers_in_event": 280,
-   "transfers_out_event": 386
+   "transfers_in_event": 298,
+   "transfers_out_event": 422
   },
   {
    "id": 667,
@@ -1796,8 +1796,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 573,
-   "transfers_out_event": 507
+   "transfers_in_event": 618,
+   "transfers_out_event": 537
   },
   {
    "id": 672,
@@ -1823,7 +1823,7 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 3,
+   "transfers_in_event": 6,
    "transfers_out_event": 0
   },
   {
@@ -1850,8 +1850,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "11.26",
-   "transfers_in_event": 2482,
-   "transfers_out_event": 1437
+   "transfers_in_event": 2664,
+   "transfers_out_event": 1557
   },
   {
    "id": 58,
@@ -1877,8 +1877,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 1123,
-   "transfers_out_event": 1883
+   "transfers_in_event": 1229,
+   "transfers_out_event": 2013
   },
   {
    "id": 59,
@@ -1905,7 +1905,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 92
+   "transfers_out_event": 100
   },
   {
    "id": 60,
@@ -1931,8 +1931,8 @@
    "expected_goals": "0.40",
    "expected_assists": "0.92",
    "expected_goals_conceded": "11.26",
-   "transfers_in_event": 14879,
-   "transfers_out_event": 2506
+   "transfers_in_event": 15874,
+   "transfers_out_event": 2730
   },
   {
    "id": 61,
@@ -1958,8 +1958,8 @@
    "expected_goals": "0.17",
    "expected_assists": "1.03",
    "expected_goals_conceded": "11.26",
-   "transfers_in_event": 4714,
-   "transfers_out_event": 1904
+   "transfers_in_event": 4962,
+   "transfers_out_event": 2091
   },
   {
    "id": 62,
@@ -1985,8 +1985,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.42",
-   "transfers_in_event": 127,
-   "transfers_out_event": 146
+   "transfers_in_event": 136,
+   "transfers_out_event": 153
   },
   {
    "id": 63,
@@ -2012,8 +2012,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 20,
-   "transfers_out_event": 13
+   "transfers_in_event": 21,
+   "transfers_out_event": 14
   },
   {
    "id": 64,
@@ -2039,8 +2039,8 @@
    "expected_goals": "0.58",
    "expected_assists": "0.45",
    "expected_goals_conceded": "10.58",
-   "transfers_in_event": 576,
-   "transfers_out_event": 220
+   "transfers_in_event": 602,
+   "transfers_out_event": 241
   },
   {
    "id": 65,
@@ -2066,7 +2066,7 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 12,
+   "transfers_in_event": 13,
    "transfers_out_event": 9
   },
   {
@@ -2093,8 +2093,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 175,
-   "transfers_out_event": 273
+   "transfers_in_event": 184,
+   "transfers_out_event": 295
   },
   {
    "id": 67,
@@ -2120,8 +2120,8 @@
    "expected_goals": "2.51",
    "expected_assists": "0.69",
    "expected_goals_conceded": "10.38",
-   "transfers_in_event": 4089,
-   "transfers_out_event": 3242
+   "transfers_in_event": 4310,
+   "transfers_out_event": 3547
   },
   {
    "id": 68,
@@ -2147,8 +2147,8 @@
    "expected_goals": "4.21",
    "expected_assists": "1.45",
    "expected_goals_conceded": "10.68",
-   "transfers_in_event": 73748,
-   "transfers_out_event": 13923
+   "transfers_in_event": 78473,
+   "transfers_out_event": 15200
   },
   {
    "id": 69,
@@ -2174,8 +2174,8 @@
    "expected_goals": "0.64",
    "expected_assists": "0.42",
    "expected_goals_conceded": "6.82",
-   "transfers_in_event": 736,
-   "transfers_out_event": 2383
+   "transfers_in_event": 832,
+   "transfers_out_event": 2478
   },
   {
    "id": 70,
@@ -2201,8 +2201,8 @@
    "expected_goals": "1.43",
    "expected_assists": "0.29",
    "expected_goals_conceded": "5.48",
-   "transfers_in_event": 2483,
-   "transfers_out_event": 1123
+   "transfers_in_event": 2649,
+   "transfers_out_event": 1223
   },
   {
    "id": 71,
@@ -2228,8 +2228,8 @@
    "expected_goals": "0.08",
    "expected_assists": "0.34",
    "expected_goals_conceded": "6.28",
-   "transfers_in_event": 108,
-   "transfers_out_event": 248
+   "transfers_in_event": 110,
+   "transfers_out_event": 265
   },
   {
    "id": 72,
@@ -2256,7 +2256,7 @@
    "expected_assists": "0.28",
    "expected_goals_conceded": "2.06",
    "transfers_in_event": 29,
-   "transfers_out_event": 79
+   "transfers_out_event": 83
   },
   {
    "id": 73,
@@ -2282,8 +2282,8 @@
    "expected_goals": "0.16",
    "expected_assists": "0.15",
    "expected_goals_conceded": "7.05",
-   "transfers_in_event": 376,
-   "transfers_out_event": 393
+   "transfers_in_event": 403,
+   "transfers_out_event": 420
   },
   {
    "id": 74,
@@ -2291,8 +2291,8 @@
    "full_name": "David Brooks",
    "team": "BOU",
    "pos": "MID",
-   "price": 5.0,
-   "cost_change_event": 0,
+   "price": 4.9,
+   "cost_change_event": -1,
    "selected_by_percent": "0.0",
    "form": "0.2",
    "points_per_game": "0.8",
@@ -2309,8 +2309,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.08",
    "expected_goals_conceded": "1.18",
-   "transfers_in_event": 53,
-   "transfers_out_event": 83
+   "transfers_in_event": 55,
+   "transfers_out_event": 89
   },
   {
    "id": 75,
@@ -2336,8 +2336,8 @@
    "expected_goals": "1.03",
    "expected_assists": "0.78",
    "expected_goals_conceded": "3.92",
-   "transfers_in_event": 209,
-   "transfers_out_event": 66
+   "transfers_in_event": 227,
+   "transfers_out_event": 71
   },
   {
    "id": 76,
@@ -2364,7 +2364,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.56",
    "transfers_in_event": 4,
-   "transfers_out_event": 16
+   "transfers_out_event": 17
   },
   {
    "id": 77,
@@ -2390,8 +2390,8 @@
    "expected_goals": "0.49",
    "expected_assists": "0.07",
    "expected_goals_conceded": "0.44",
-   "transfers_in_event": 247,
-   "transfers_out_event": 140
+   "transfers_in_event": 262,
+   "transfers_out_event": 153
   },
   {
    "id": 78,
@@ -2417,8 +2417,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.29",
    "expected_goals_conceded": "1.53",
-   "transfers_in_event": 3940,
-   "transfers_out_event": 2024
+   "transfers_in_event": 4125,
+   "transfers_out_event": 2213
   },
   {
    "id": 79,
@@ -2428,7 +2428,7 @@
    "pos": "FWD",
    "price": 6.5,
    "cost_change_event": 1,
-   "selected_by_percent": "22.9",
+   "selected_by_percent": "23.0",
    "form": "8.6",
    "points_per_game": "6.1",
    "total_points": 61,
@@ -2444,8 +2444,8 @@
    "expected_goals": "4.45",
    "expected_assists": "1.05",
    "expected_goals_conceded": "10.28",
-   "transfers_in_event": 116204,
-   "transfers_out_event": 9653
+   "transfers_in_event": 125867,
+   "transfers_out_event": 10221
   },
   {
    "id": 80,
@@ -2498,8 +2498,8 @@
    "expected_goals": "0.41",
    "expected_assists": "0.05",
    "expected_goals_conceded": "0.50",
-   "transfers_in_event": 547,
-   "transfers_out_event": 400
+   "transfers_in_event": 581,
+   "transfers_out_event": 434
   },
   {
    "id": 566,
@@ -2525,8 +2525,8 @@
    "expected_goals": "1.30",
    "expected_assists": "0.37",
    "expected_goals_conceded": "11.26",
-   "transfers_in_event": 14196,
-   "transfers_out_event": 1704
+   "transfers_in_event": 15137,
+   "transfers_out_event": 1958
   },
   {
    "id": 573,
@@ -2553,7 +2553,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 2,
-   "transfers_out_event": 379
+   "transfers_out_event": 399
   },
   {
    "id": 608,
@@ -2579,8 +2579,8 @@
    "expected_goals": "0.10",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.61",
-   "transfers_in_event": 116,
-   "transfers_out_event": 267
+   "transfers_in_event": 121,
+   "transfers_out_event": 285
   },
   {
    "id": 615,
@@ -2606,8 +2606,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 58,
-   "transfers_out_event": 60
+   "transfers_in_event": 61,
+   "transfers_out_event": 63
   },
   {
    "id": 82,
@@ -2617,7 +2617,7 @@
    "pos": "GKP",
    "price": 5.0,
    "cost_change_event": 0,
-   "selected_by_percent": "6.0",
+   "selected_by_percent": "5.9",
    "form": "3.0",
    "points_per_game": "3.5",
    "total_points": 35,
@@ -2633,8 +2633,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.04",
    "expected_goals_conceded": "14.78",
-   "transfers_in_event": 1271,
-   "transfers_out_event": 4322
+   "transfers_in_event": 1336,
+   "transfers_out_event": 4678
   },
   {
    "id": 83,
@@ -2661,7 +2661,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 34,
-   "transfers_out_event": 55
+   "transfers_out_event": 63
   },
   {
    "id": 84,
@@ -2687,8 +2687,8 @@
    "expected_goals": "0.51",
    "expected_assists": "0.05",
    "expected_goals_conceded": "2.81",
-   "transfers_in_event": 334,
-   "transfers_out_event": 486
+   "transfers_in_event": 354,
+   "transfers_out_event": 526
   },
   {
    "id": 85,
@@ -2714,8 +2714,8 @@
    "expected_goals": "0.16",
    "expected_assists": "0.21",
    "expected_goals_conceded": "5.69",
-   "transfers_in_event": 228,
-   "transfers_out_event": 116
+   "transfers_in_event": 244,
+   "transfers_out_event": 124
   },
   {
    "id": 86,
@@ -2741,8 +2741,8 @@
    "expected_goals": "1.41",
    "expected_assists": "1.02",
    "expected_goals_conceded": "12.90",
-   "transfers_in_event": 853,
-   "transfers_out_event": 3663
+   "transfers_in_event": 907,
+   "transfers_out_event": 3970
   },
   {
    "id": 87,
@@ -2768,8 +2768,8 @@
    "expected_goals": "0.46",
    "expected_assists": "0.27",
    "expected_goals_conceded": "14.78",
-   "transfers_in_event": 2213,
-   "transfers_out_event": 4073
+   "transfers_in_event": 2343,
+   "transfers_out_event": 4570
   },
   {
    "id": 88,
@@ -2795,8 +2795,8 @@
    "expected_goals": "0.59",
    "expected_assists": "0.76",
    "expected_goals_conceded": "11.70",
-   "transfers_in_event": 1143,
-   "transfers_out_event": 6729
+   "transfers_in_event": 1224,
+   "transfers_out_event": 7258
   },
   {
    "id": 89,
@@ -2823,7 +2823,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 9,
-   "transfers_out_event": 256
+   "transfers_out_event": 270
   },
   {
    "id": 90,
@@ -2849,8 +2849,8 @@
    "expected_goals": "0.08",
    "expected_assists": "0.08",
    "expected_goals_conceded": "6.40",
-   "transfers_in_event": 23,
-   "transfers_out_event": 56
+   "transfers_in_event": 24,
+   "transfers_out_event": 63
   },
   {
    "id": 92,
@@ -2876,7 +2876,7 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 13,
+   "transfers_in_event": 14,
    "transfers_out_event": 18
   },
   {
@@ -2903,8 +2903,8 @@
    "expected_goals": "0.10",
    "expected_assists": "0.54",
    "expected_goals_conceded": "5.81",
-   "transfers_in_event": 29,
-   "transfers_out_event": 581
+   "transfers_in_event": 30,
+   "transfers_out_event": 631
   },
   {
    "id": 94,
@@ -2930,8 +2930,8 @@
    "expected_goals": "2.44",
    "expected_assists": "0.34",
    "expected_goals_conceded": "12.81",
-   "transfers_in_event": 4390,
-   "transfers_out_event": 35620
+   "transfers_in_event": 4625,
+   "transfers_out_event": 38607
   },
   {
    "id": 95,
@@ -2957,8 +2957,8 @@
    "expected_goals": "1.06",
    "expected_assists": "0.77",
    "expected_goals_conceded": "7.43",
-   "transfers_in_event": 278,
-   "transfers_out_event": 469
+   "transfers_in_event": 293,
+   "transfers_out_event": 519
   },
   {
    "id": 96,
@@ -2985,7 +2985,7 @@
    "expected_assists": "0.95",
    "expected_goals_conceded": "3.88",
    "transfers_in_event": 82,
-   "transfers_out_event": 417
+   "transfers_out_event": 452
   },
   {
    "id": 97,
@@ -3012,7 +3012,7 @@
    "expected_assists": "0.51",
    "expected_goals_conceded": "4.30",
    "transfers_in_event": 26,
-   "transfers_out_event": 57
+   "transfers_out_event": 59
   },
   {
    "id": 98,
@@ -3038,8 +3038,8 @@
    "expected_goals": "0.53",
    "expected_assists": "0.63",
    "expected_goals_conceded": "13.07",
-   "transfers_in_event": 607,
-   "transfers_out_event": 1992
+   "transfers_in_event": 651,
+   "transfers_out_event": 2159
   },
   {
    "id": 99,
@@ -3065,7 +3065,7 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 8,
+   "transfers_in_event": 9,
    "transfers_out_event": 5
   },
   {
@@ -3093,7 +3093,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.13",
    "transfers_in_event": 4,
-   "transfers_out_event": 93
+   "transfers_out_event": 98
   },
   {
    "id": 102,
@@ -3119,8 +3119,8 @@
    "expected_goals": "0.19",
    "expected_assists": "0.32",
    "expected_goals_conceded": "7.83",
-   "transfers_in_event": 276,
-   "transfers_out_event": 461
+   "transfers_in_event": 297,
+   "transfers_out_event": 506
   },
   {
    "id": 103,
@@ -3147,7 +3147,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 3,
-   "transfers_out_event": 13
+   "transfers_out_event": 15
   },
   {
    "id": 105,
@@ -3173,8 +3173,8 @@
    "expected_goals": "1.68",
    "expected_assists": "0.80",
    "expected_goals_conceded": "7.79",
-   "transfers_in_event": 126,
-   "transfers_out_event": 607
+   "transfers_in_event": 128,
+   "transfers_out_event": 662
   },
   {
    "id": 106,
@@ -3184,7 +3184,7 @@
    "pos": "FWD",
    "price": 7.8,
    "cost_change_event": 0,
-   "selected_by_percent": "8.6",
+   "selected_by_percent": "8.5",
    "form": "4.0",
    "points_per_game": "3.0",
    "total_points": 30,
@@ -3200,8 +3200,8 @@
    "expected_goals": "4.12",
    "expected_assists": "1.26",
    "expected_goals_conceded": "12.87",
-   "transfers_in_event": 4979,
-   "transfers_out_event": 50786
+   "transfers_in_event": 4987,
+   "transfers_out_event": 55980
   },
   {
    "id": 107,
@@ -3227,8 +3227,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 137,
-   "transfers_out_event": 1467
+   "transfers_in_event": 141,
+   "transfers_out_event": 1547
   },
   {
    "id": 108,
@@ -3254,8 +3254,8 @@
    "expected_goals": "0.12",
    "expected_assists": "0.17",
    "expected_goals_conceded": "0.85",
-   "transfers_in_event": 140,
-   "transfers_out_event": 436
+   "transfers_in_event": 150,
+   "transfers_out_event": 463
   },
   {
    "id": 565,
@@ -3281,8 +3281,8 @@
    "expected_goals": "0.48",
    "expected_assists": "0.78",
    "expected_goals_conceded": "10.04",
-   "transfers_in_event": 439,
-   "transfers_out_event": 8495
+   "transfers_in_event": 476,
+   "transfers_out_event": 9252
   },
   {
    "id": 620,
@@ -3308,8 +3308,8 @@
    "expected_goals": "0.11",
    "expected_assists": "0.09",
    "expected_goals_conceded": "3.75",
-   "transfers_in_event": 71,
-   "transfers_out_event": 169
+   "transfers_in_event": 77,
+   "transfers_out_event": 179
   },
   {
    "id": 657,
@@ -3335,8 +3335,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 62,
-   "transfers_out_event": 70
+   "transfers_in_event": 68,
+   "transfers_out_event": 75
   },
   {
    "id": 660,
@@ -3362,8 +3362,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 58,
-   "transfers_out_event": 47
+   "transfers_in_event": 60,
+   "transfers_out_event": 48
   },
   {
    "id": 661,
@@ -3389,8 +3389,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 243,
-   "transfers_out_event": 134
+   "transfers_in_event": 262,
+   "transfers_out_event": 143
   },
   {
    "id": 109,
@@ -3416,8 +3416,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.21",
    "expected_goals_conceded": "13.59",
-   "transfers_in_event": 26457,
-   "transfers_out_event": 6520
+   "transfers_in_event": 28693,
+   "transfers_out_event": 7320
   },
   {
    "id": 111,
@@ -3443,8 +3443,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 541,
-   "transfers_out_event": 3688
+   "transfers_in_event": 577,
+   "transfers_out_event": 4063
   },
   {
    "id": 113,
@@ -3452,8 +3452,8 @@
    "full_name": "Ferdi Kad\u0131o\u011flu",
    "team": "BHA",
    "pos": "DEF",
-   "price": 4.4,
-   "cost_change_event": 0,
+   "price": 4.3,
+   "cost_change_event": -1,
    "selected_by_percent": "1.3",
    "form": "3.2",
    "points_per_game": "4.1",
@@ -3470,8 +3470,8 @@
    "expected_goals": "0.15",
    "expected_assists": "0.16",
    "expected_goals_conceded": "9.04",
-   "transfers_in_event": 261,
-   "transfers_out_event": 3339
+   "transfers_in_event": 290,
+   "transfers_out_event": 3648
   },
   {
    "id": 114,
@@ -3497,8 +3497,8 @@
    "expected_goals": "0.14",
    "expected_assists": "1.00",
    "expected_goals_conceded": "12.25",
-   "transfers_in_event": 2325,
-   "transfers_out_event": 612
+   "transfers_in_event": 2584,
+   "transfers_out_event": 663
   },
   {
    "id": 115,
@@ -3506,9 +3506,9 @@
    "full_name": "Maxim De Cuyper",
    "team": "BHA",
    "pos": "DEF",
-   "price": 5.4,
-   "cost_change_event": 0,
-   "selected_by_percent": "47.3",
+   "price": 5.5,
+   "cost_change_event": 1,
+   "selected_by_percent": "47.4",
    "form": "7.4",
    "points_per_game": "7.5",
    "total_points": 75,
@@ -3524,8 +3524,8 @@
    "expected_goals": "2.44",
    "expected_assists": "1.46",
    "expected_goals_conceded": "12.50",
-   "transfers_in_event": 86546,
-   "transfers_out_event": 3469
+   "transfers_in_event": 93594,
+   "transfers_out_event": 3746
   },
   {
    "id": 116,
@@ -3551,8 +3551,8 @@
    "expected_goals": "0.03",
    "expected_assists": "0.17",
    "expected_goals_conceded": "11.44",
-   "transfers_in_event": 2270,
-   "transfers_out_event": 962
+   "transfers_in_event": 2437,
+   "transfers_out_event": 1025
   },
   {
    "id": 117,
@@ -3578,8 +3578,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 31,
-   "transfers_out_event": 28
+   "transfers_in_event": 33,
+   "transfers_out_event": 29
   },
   {
    "id": 118,
@@ -3606,7 +3606,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 22
+   "transfers_out_event": 23
   },
   {
    "id": 119,
@@ -3632,8 +3632,8 @@
    "expected_goals": "0.33",
    "expected_assists": "0.66",
    "expected_goals_conceded": "4.60",
-   "transfers_in_event": 166,
-   "transfers_out_event": 25
+   "transfers_in_event": 184,
+   "transfers_out_event": 29
   },
   {
    "id": 120,
@@ -3659,8 +3659,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.14",
-   "transfers_in_event": 131,
-   "transfers_out_event": 120
+   "transfers_in_event": 139,
+   "transfers_out_event": 131
   },
   {
    "id": 121,
@@ -3687,7 +3687,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 25,
-   "transfers_out_event": 40
+   "transfers_out_event": 42
   },
   {
    "id": 122,
@@ -3713,8 +3713,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.02",
    "expected_goals_conceded": "0.38",
-   "transfers_in_event": 197,
-   "transfers_out_event": 64
+   "transfers_in_event": 221,
+   "transfers_out_event": 75
   },
   {
    "id": 123,
@@ -3740,8 +3740,8 @@
    "expected_goals": "2.52",
    "expected_assists": "0.07",
    "expected_goals_conceded": "1.64",
-   "transfers_in_event": 458,
-   "transfers_out_event": 1025
+   "transfers_in_event": 485,
+   "transfers_out_event": 1123
   },
   {
    "id": 124,
@@ -3767,8 +3767,8 @@
    "expected_goals": "3.03",
    "expected_assists": "2.22",
    "expected_goals_conceded": "13.42",
-   "transfers_in_event": 55633,
-   "transfers_out_event": 9159
+   "transfers_in_event": 61067,
+   "transfers_out_event": 9419
   },
   {
    "id": 125,
@@ -3794,8 +3794,8 @@
    "expected_goals": "0.25",
    "expected_assists": "0.92",
    "expected_goals_conceded": "1.85",
-   "transfers_in_event": 304,
-   "transfers_out_event": 1026
+   "transfers_in_event": 320,
+   "transfers_out_event": 1101
   },
   {
    "id": 126,
@@ -3821,8 +3821,8 @@
    "expected_goals": "0.28",
    "expected_assists": "0.01",
    "expected_goals_conceded": "0.18",
-   "transfers_in_event": 87,
-   "transfers_out_event": 127
+   "transfers_in_event": 92,
+   "transfers_out_event": 135
   },
   {
    "id": 127,
@@ -3848,8 +3848,8 @@
    "expected_goals": "1.35",
    "expected_assists": "1.15",
    "expected_goals_conceded": "13.09",
-   "transfers_in_event": 16049,
-   "transfers_out_event": 3145
+   "transfers_in_event": 18124,
+   "transfers_out_event": 3379
   },
   {
    "id": 128,
@@ -3902,8 +3902,8 @@
    "expected_goals": "2.20",
    "expected_assists": "0.34",
    "expected_goals_conceded": "10.16",
-   "transfers_in_event": 17621,
-   "transfers_out_event": 3843
+   "transfers_in_event": 18761,
+   "transfers_out_event": 4246
   },
   {
    "id": 130,
@@ -3929,8 +3929,8 @@
    "expected_goals": "0.21",
    "expected_assists": "0.22",
    "expected_goals_conceded": "4.09",
-   "transfers_in_event": 121,
-   "transfers_out_event": 76
+   "transfers_in_event": 124,
+   "transfers_out_event": 80
   },
   {
    "id": 132,
@@ -3957,7 +3957,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 17
+   "transfers_out_event": 21
   },
   {
    "id": 133,
@@ -4010,8 +4010,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 64,
-   "transfers_out_event": 285
+   "transfers_in_event": 69,
+   "transfers_out_event": 305
   },
   {
    "id": 135,
@@ -4038,7 +4038,7 @@
    "expected_assists": "0.03",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 4,
-   "transfers_out_event": 32
+   "transfers_out_event": 33
   },
   {
    "id": 137,
@@ -4091,8 +4091,8 @@
    "expected_goals": "2.59",
    "expected_assists": "0.22",
    "expected_goals_conceded": "11.37",
-   "transfers_in_event": 12909,
-   "transfers_out_event": 39199
+   "transfers_in_event": 13603,
+   "transfers_out_event": 43183
   },
   {
    "id": 139,
@@ -4118,8 +4118,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 30,
-   "transfers_out_event": 54
+   "transfers_in_event": 33,
+   "transfers_out_event": 60
   },
   {
    "id": 328,
@@ -4146,7 +4146,7 @@
    "expected_assists": "0.01",
    "expected_goals_conceded": "2.18",
    "transfers_in_event": 18,
-   "transfers_out_event": 229
+   "transfers_out_event": 244
   },
   {
    "id": 504,
@@ -4154,9 +4154,9 @@
    "full_name": "Luka Vu\u0161kovi\u0107",
    "team": "BHA",
    "pos": "DEF",
-   "price": 5.2,
-   "cost_change_event": 0,
-   "selected_by_percent": "8.5",
+   "price": 5.3,
+   "cost_change_event": 1,
+   "selected_by_percent": "8.6",
    "form": "7.6",
    "points_per_game": "7.0",
    "total_points": 70,
@@ -4172,8 +4172,8 @@
    "expected_goals": "1.25",
    "expected_assists": "0.22",
    "expected_goals_conceded": "13.37",
-   "transfers_in_event": 72275,
-   "transfers_out_event": 2570
+   "transfers_in_event": 83536,
+   "transfers_out_event": 2673
   },
   {
    "id": 594,
@@ -4199,8 +4199,8 @@
    "expected_goals": "0.42",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.14",
-   "transfers_in_event": 577,
-   "transfers_out_event": 505
+   "transfers_in_event": 611,
+   "transfers_out_event": 551
   },
   {
    "id": 600,
@@ -4226,8 +4226,8 @@
    "expected_goals": "0.05",
    "expected_assists": "0.07",
    "expected_goals_conceded": "0.32",
-   "transfers_in_event": 28,
-   "transfers_out_event": 31
+   "transfers_in_event": 29,
+   "transfers_out_event": 34
   },
   {
    "id": 605,
@@ -4235,8 +4235,8 @@
    "full_name": "Malick Yalcouy\u00e9",
    "team": "BHA",
    "pos": "MID",
-   "price": 4.5,
-   "cost_change_event": 0,
+   "price": 4.4,
+   "cost_change_event": -1,
    "selected_by_percent": "2.7",
    "form": "1.0",
    "points_per_game": "2.5",
@@ -4253,8 +4253,8 @@
    "expected_goals": "1.46",
    "expected_assists": "0.62",
    "expected_goals_conceded": "7.67",
-   "transfers_in_event": 1324,
-   "transfers_out_event": 8347
+   "transfers_in_event": 1413,
+   "transfers_out_event": 9224
   },
   {
    "id": 614,
@@ -4280,8 +4280,8 @@
    "expected_goals": "0.15",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.53",
-   "transfers_in_event": 53,
-   "transfers_out_event": 83
+   "transfers_in_event": 56,
+   "transfers_out_event": 92
   },
   {
    "id": 624,
@@ -4334,8 +4334,8 @@
    "expected_goals": "0.54",
    "expected_assists": "0.31",
    "expected_goals_conceded": "5.27",
-   "transfers_in_event": 94,
-   "transfers_out_event": 234
+   "transfers_in_event": 102,
+   "transfers_out_event": 256
   },
   {
    "id": 652,
@@ -4388,7 +4388,7 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 69,
+   "transfers_in_event": 73,
    "transfers_out_event": 71
   },
   {
@@ -4415,8 +4415,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "9.18",
-   "transfers_in_event": 248,
-   "transfers_out_event": 3702
+   "transfers_in_event": 261,
+   "transfers_out_event": 3944
   },
   {
    "id": 40,
@@ -4439,11 +4439,11 @@
    "assists": 1,
    "clean_sheets": 2,
    "ict_index": "70.7",
-   "expected_goals": "2.91",
-   "expected_assists": "2.00",
-   "expected_goals_conceded": "15.01",
-   "transfers_in_event": 39531,
-   "transfers_out_event": 14093
+   "expected_goals": "3.04",
+   "expected_assists": "1.51",
+   "expected_goals_conceded": "14.84",
+   "transfers_in_event": 41823,
+   "transfers_out_event": 15656
   },
   {
    "id": 101,
@@ -4468,9 +4468,9 @@
    "ict_index": "27.3",
    "expected_goals": "0.48",
    "expected_assists": "0.57",
-   "expected_goals_conceded": "7.75",
-   "transfers_in_event": 964,
-   "transfers_out_event": 5718
+   "expected_goals_conceded": "7.58",
+   "transfers_in_event": 1043,
+   "transfers_out_event": 5988
   },
   {
    "id": 136,
@@ -4495,9 +4495,9 @@
    "ict_index": "6.4",
    "expected_goals": "0.14",
    "expected_assists": "0.14",
-   "expected_goals_conceded": "2.89",
-   "transfers_in_event": 502,
-   "transfers_out_event": 1621
+   "expected_goals_conceded": "2.72",
+   "transfers_in_event": 521,
+   "transfers_out_event": 1716
   },
   {
    "id": 140,
@@ -4524,7 +4524,7 @@
    "expected_assists": "0.01",
    "expected_goals_conceded": "1.33",
    "transfers_in_event": 0,
-   "transfers_out_event": 349
+   "transfers_out_event": 364
   },
   {
    "id": 141,
@@ -4551,7 +4551,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 3
+   "transfers_out_event": 4
   },
   {
    "id": 142,
@@ -4577,8 +4577,8 @@
    "expected_goals": "0.33",
    "expected_assists": "0.26",
    "expected_goals_conceded": "4.90",
-   "transfers_in_event": 35,
-   "transfers_out_event": 4826
+   "transfers_in_event": 36,
+   "transfers_out_event": 5093
   },
   {
    "id": 143,
@@ -4605,7 +4605,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 28
+   "transfers_out_event": 29
   },
   {
    "id": 144,
@@ -4630,9 +4630,9 @@
    "ict_index": "10.0",
    "expected_goals": "0.14",
    "expected_assists": "0.36",
-   "expected_goals_conceded": "4.35",
-   "transfers_in_event": 170,
-   "transfers_out_event": 668
+   "expected_goals_conceded": "4.18",
+   "transfers_in_event": 181,
+   "transfers_out_event": 711
   },
   {
    "id": 145,
@@ -4642,7 +4642,7 @@
    "pos": "DEF",
    "price": 5.0,
    "cost_change_event": 0,
-   "selected_by_percent": "0.2",
+   "selected_by_percent": "0.3",
    "form": "2.4",
    "points_per_game": "3.3",
    "total_points": 20,
@@ -4657,9 +4657,9 @@
    "ict_index": "17.8",
    "expected_goals": "0.19",
    "expected_assists": "0.12",
-   "expected_goals_conceded": "9.44",
-   "transfers_in_event": 973,
-   "transfers_out_event": 352
+   "expected_goals_conceded": "9.27",
+   "transfers_in_event": 1042,
+   "transfers_out_event": 390
   },
   {
    "id": 146,
@@ -4713,7 +4713,7 @@
    "expected_assists": "0.23",
    "expected_goals_conceded": "5.77",
    "transfers_in_event": 11,
-   "transfers_out_event": 2666
+   "transfers_out_event": 2842
   },
   {
    "id": 149,
@@ -4738,9 +4738,9 @@
    "ict_index": "19.0",
    "expected_goals": "0.01",
    "expected_assists": "0.31",
-   "expected_goals_conceded": "12.23",
-   "transfers_in_event": 1319,
-   "transfers_out_event": 1059
+   "expected_goals_conceded": "12.24",
+   "transfers_in_event": 1372,
+   "transfers_out_event": 1158
   },
   {
    "id": 150,
@@ -4767,7 +4767,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 20
+   "transfers_out_event": 21
   },
   {
    "id": 151,
@@ -4777,7 +4777,7 @@
    "pos": "DEF",
    "price": 4.5,
    "cost_change_event": 0,
-   "selected_by_percent": "0.6",
+   "selected_by_percent": "0.5",
    "form": "3.8",
    "points_per_game": "3.0",
    "total_points": 24,
@@ -4793,8 +4793,8 @@
    "expected_goals": "0.06",
    "expected_assists": "0.07",
    "expected_goals_conceded": "8.51",
-   "transfers_in_event": 1983,
-   "transfers_out_event": 1492
+   "transfers_in_event": 1989,
+   "transfers_out_event": 1640
   },
   {
    "id": 152,
@@ -4819,9 +4819,9 @@
    "ict_index": "1.1",
    "expected_goals": "0.00",
    "expected_assists": "0.15",
-   "expected_goals_conceded": "3.18",
-   "transfers_in_event": 544,
-   "transfers_out_event": 378
+   "expected_goals_conceded": "3.19",
+   "transfers_in_event": 573,
+   "transfers_out_event": 407
   },
   {
    "id": 154,
@@ -4846,9 +4846,9 @@
    "ict_index": "74.7",
    "expected_goals": "2.55",
    "expected_assists": "1.18",
-   "expected_goals_conceded": "14.86",
-   "transfers_in_event": 20910,
-   "transfers_out_event": 21477
+   "expected_goals_conceded": "14.69",
+   "transfers_in_event": 21867,
+   "transfers_out_event": 23991
   },
   {
    "id": 156,
@@ -4872,10 +4872,10 @@
    "clean_sheets": 2,
    "ict_index": "65.7",
    "expected_goals": "1.82",
-   "expected_assists": "0.99",
-   "expected_goals_conceded": "12.07",
-   "transfers_in_event": 8174,
-   "transfers_out_event": 13561
+   "expected_assists": "1.00",
+   "expected_goals_conceded": "12.08",
+   "transfers_in_event": 8512,
+   "transfers_out_event": 14888
   },
   {
    "id": 157,
@@ -4900,9 +4900,9 @@
    "ict_index": "18.0",
    "expected_goals": "0.37",
    "expected_assists": "0.69",
-   "expected_goals_conceded": "3.22",
-   "transfers_in_event": 1163,
-   "transfers_out_event": 1255
+   "expected_goals_conceded": "3.05",
+   "transfers_in_event": 1205,
+   "transfers_out_event": 1354
   },
   {
    "id": 158,
@@ -4954,9 +4954,9 @@
    "ict_index": "8.3",
    "expected_goals": "0.05",
    "expected_assists": "0.09",
-   "expected_goals_conceded": "6.30",
-   "transfers_in_event": 612,
-   "transfers_out_event": 1911
+   "expected_goals_conceded": "6.13",
+   "transfers_in_event": 669,
+   "transfers_out_event": 1978
   },
   {
    "id": 161,
@@ -4980,10 +4980,10 @@
    "clean_sheets": 1,
    "ict_index": "23.1",
    "expected_goals": "0.77",
-   "expected_assists": "0.16",
-   "expected_goals_conceded": "8.90",
-   "transfers_in_event": 462,
-   "transfers_out_event": 320
+   "expected_assists": "0.15",
+   "expected_goals_conceded": "8.73",
+   "transfers_in_event": 492,
+   "transfers_out_event": 343
   },
   {
    "id": 163,
@@ -5010,7 +5010,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 73
+   "transfers_out_event": 75
   },
   {
    "id": 164,
@@ -5036,7 +5036,7 @@
    "expected_goals": "0.07",
    "expected_assists": "0.02",
    "expected_goals_conceded": "1.85",
-   "transfers_in_event": 42,
+   "transfers_in_event": 45,
    "transfers_out_event": 39
   },
   {
@@ -5045,9 +5045,9 @@
    "full_name": "Jo\u00e3o Pedro Junqueira de Jesus",
    "team": "CHE",
    "pos": "FWD",
-   "price": 7.7,
-   "cost_change_event": 0,
-   "selected_by_percent": "32.8",
+   "price": 7.6,
+   "cost_change_event": -1,
+   "selected_by_percent": "32.7",
    "form": "2.8",
    "points_per_game": "7.8",
    "total_points": 47,
@@ -5063,8 +5063,8 @@
    "expected_goals": "3.05",
    "expected_assists": "0.31",
    "expected_goals_conceded": "7.92",
-   "transfers_in_event": 2176,
-   "transfers_out_event": 195980
+   "transfers_in_event": 2295,
+   "transfers_out_event": 209304
   },
   {
    "id": 168,
@@ -5091,7 +5091,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 126
+   "transfers_out_event": 134
   },
   {
    "id": 169,
@@ -5117,8 +5117,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 329,
-   "transfers_out_event": 853
+   "transfers_in_event": 345,
+   "transfers_out_event": 908
   },
   {
    "id": 170,
@@ -5144,8 +5144,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 225,
-   "transfers_out_event": 182
+   "transfers_in_event": 235,
+   "transfers_out_event": 194
   },
   {
    "id": 200,
@@ -5171,8 +5171,8 @@
    "expected_goals": "0.40",
    "expected_assists": "0.22",
    "expected_goals_conceded": "10.48",
-   "transfers_in_event": 50,
-   "transfers_out_event": 17591
+   "transfers_in_event": 52,
+   "transfers_out_event": 18643
   },
   {
    "id": 560,
@@ -5197,9 +5197,9 @@
    "ict_index": "3.6",
    "expected_goals": "0.00",
    "expected_assists": "0.00",
-   "expected_goals_conceded": "4.65",
-   "transfers_in_event": 824,
-   "transfers_out_event": 586
+   "expected_goals_conceded": "4.48",
+   "transfers_in_event": 866,
+   "transfers_out_event": 638
   },
   {
    "id": 561,
@@ -5225,8 +5225,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 13,
-   "transfers_out_event": 30
+   "transfers_in_event": 15,
+   "transfers_out_event": 32
   },
   {
    "id": 568,
@@ -5253,7 +5253,7 @@
    "expected_assists": "0.11",
    "expected_goals_conceded": "2.89",
    "transfers_in_event": 40,
-   "transfers_out_event": 68
+   "transfers_out_event": 72
   },
   {
    "id": 583,
@@ -5278,9 +5278,9 @@
    "ict_index": "14.5",
    "expected_goals": "0.04",
    "expected_assists": "0.43",
-   "expected_goals_conceded": "8.09",
-   "transfers_in_event": 186,
-   "transfers_out_event": 101
+   "expected_goals_conceded": "7.93",
+   "transfers_in_event": 201,
+   "transfers_out_event": 109
   },
   {
    "id": 662,
@@ -5306,8 +5306,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.43",
-   "transfers_in_event": 37,
-   "transfers_out_event": 26
+   "transfers_in_event": 40,
+   "transfers_out_event": 28
   },
   {
    "id": 669,
@@ -5333,8 +5333,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 481,
-   "transfers_out_event": 204
+   "transfers_in_event": 493,
+   "transfers_out_event": 225
   },
   {
    "id": 670,
@@ -5360,8 +5360,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 41,
-   "transfers_out_event": 10
+   "transfers_in_event": 43,
+   "transfers_out_event": 12
   },
   {
    "id": 91,
@@ -5387,8 +5387,8 @@
    "expected_goals": "0.17",
    "expected_assists": "0.21",
    "expected_goals_conceded": "13.07",
-   "transfers_in_event": 258,
-   "transfers_out_event": 97
+   "transfers_in_event": 281,
+   "transfers_out_event": 105
   },
   {
    "id": 104,
@@ -5415,7 +5415,7 @@
    "expected_assists": "0.23",
    "expected_goals_conceded": "6.88",
    "transfers_in_event": 1,
-   "transfers_out_event": 199
+   "transfers_out_event": 210
   },
   {
    "id": 110,
@@ -5441,8 +5441,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.03",
    "expected_goals_conceded": "15.13",
-   "transfers_in_event": 225,
-   "transfers_out_event": 730
+   "transfers_in_event": 244,
+   "transfers_out_event": 786
   },
   {
    "id": 171,
@@ -5469,7 +5469,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 623
+   "transfers_out_event": 668
   },
   {
    "id": 172,
@@ -5495,8 +5495,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 27,
-   "transfers_out_event": 114
+   "transfers_in_event": 28,
+   "transfers_out_event": 125
   },
   {
    "id": 173,
@@ -5522,8 +5522,8 @@
    "expected_goals": "0.60",
    "expected_assists": "0.37",
    "expected_goals_conceded": "11.15",
-   "transfers_in_event": 390,
-   "transfers_out_event": 17579
+   "transfers_in_event": 423,
+   "transfers_out_event": 19244
   },
   {
    "id": 174,
@@ -5550,7 +5550,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 202
+   "transfers_out_event": 217
   },
   {
    "id": 175,
@@ -5576,8 +5576,8 @@
    "expected_goals": "0.01",
    "expected_assists": "0.58",
    "expected_goals_conceded": "14.03",
-   "transfers_in_event": 3974,
-   "transfers_out_event": 6045
+   "transfers_in_event": 4236,
+   "transfers_out_event": 6664
   },
   {
    "id": 176,
@@ -5603,8 +5603,8 @@
    "expected_goals": "0.53",
    "expected_assists": "0.76",
    "expected_goals_conceded": "15.13",
-   "transfers_in_event": 1116,
-   "transfers_out_event": 1729
+   "transfers_in_event": 1196,
+   "transfers_out_event": 1859
   },
   {
    "id": 177,
@@ -5630,8 +5630,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.07",
-   "transfers_in_event": 129,
-   "transfers_out_event": 107
+   "transfers_in_event": 135,
+   "transfers_out_event": 111
   },
   {
    "id": 178,
@@ -5657,8 +5657,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 58,
-   "transfers_out_event": 82
+   "transfers_in_event": 62,
+   "transfers_out_event": 84
   },
   {
    "id": 179,
@@ -5684,8 +5684,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.02",
-   "transfers_in_event": 53,
-   "transfers_out_event": 55
+   "transfers_in_event": 57,
+   "transfers_out_event": 57
   },
   {
    "id": 180,
@@ -5711,8 +5711,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 53,
-   "transfers_out_event": 108
+   "transfers_in_event": 54,
+   "transfers_out_event": 115
   },
   {
    "id": 181,
@@ -5739,7 +5739,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 24
+   "transfers_out_event": 25
   },
   {
    "id": 182,
@@ -5766,7 +5766,7 @@
    "expected_assists": "0.39",
    "expected_goals_conceded": "7.53",
    "transfers_in_event": 55,
-   "transfers_out_event": 479
+   "transfers_out_event": 523
   },
   {
    "id": 183,
@@ -5792,8 +5792,8 @@
    "expected_goals": "2.23",
    "expected_assists": "1.68",
    "expected_goals_conceded": "10.72",
-   "transfers_in_event": 10013,
-   "transfers_out_event": 1750
+   "transfers_in_event": 11016,
+   "transfers_out_event": 1873
   },
   {
    "id": 184,
@@ -5819,8 +5819,8 @@
    "expected_goals": "0.17",
    "expected_assists": "0.24",
    "expected_goals_conceded": "11.61",
-   "transfers_in_event": 61,
-   "transfers_out_event": 152
+   "transfers_in_event": 63,
+   "transfers_out_event": 161
   },
   {
    "id": 185,
@@ -5846,8 +5846,8 @@
    "expected_goals": "0.54",
    "expected_assists": "0.09",
    "expected_goals_conceded": "5.46",
-   "transfers_in_event": 220,
-   "transfers_out_event": 99
+   "transfers_in_event": 233,
+   "transfers_out_event": 109
   },
   {
    "id": 186,
@@ -5874,7 +5874,7 @@
    "expected_assists": "0.37",
    "expected_goals_conceded": "4.92",
    "transfers_in_event": 13,
-   "transfers_out_event": 72
+   "transfers_out_event": 78
   },
   {
    "id": 187,
@@ -5927,8 +5927,8 @@
    "expected_goals": "0.23",
    "expected_assists": "0.33",
    "expected_goals_conceded": "4.53",
-   "transfers_in_event": 49,
-   "transfers_out_event": 35
+   "transfers_in_event": 51,
+   "transfers_out_event": 40
   },
   {
    "id": 189,
@@ -5954,8 +5954,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 36,
-   "transfers_out_event": 272
+   "transfers_in_event": 39,
+   "transfers_out_event": 292
   },
   {
    "id": 190,
@@ -5981,8 +5981,8 @@
    "expected_goals": "0.39",
    "expected_assists": "0.18",
    "expected_goals_conceded": "3.28",
-   "transfers_in_event": 10,
-   "transfers_out_event": 35
+   "transfers_in_event": 11,
+   "transfers_out_event": 36
   },
   {
    "id": 191,
@@ -6009,7 +6009,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 77
+   "transfers_out_event": 80
   },
   {
    "id": 192,
@@ -6036,7 +6036,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 207
+   "transfers_out_event": 217
   },
   {
    "id": 193,
@@ -6062,8 +6062,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 13,
-   "transfers_out_event": 65
+   "transfers_in_event": 14,
+   "transfers_out_event": 69
   },
   {
    "id": 194,
@@ -6089,8 +6089,8 @@
    "expected_goals": "0.64",
    "expected_assists": "0.08",
    "expected_goals_conceded": "8.56",
-   "transfers_in_event": 1010,
-   "transfers_out_event": 3739
+   "transfers_in_event": 1080,
+   "transfers_out_event": 3971
   },
   {
    "id": 195,
@@ -6116,8 +6116,8 @@
    "expected_goals": "0.40",
    "expected_assists": "0.01",
    "expected_goals_conceded": "2.99",
-   "transfers_in_event": 490,
-   "transfers_out_event": 1797
+   "transfers_in_event": 507,
+   "transfers_out_event": 1918
   },
   {
    "id": 196,
@@ -6171,7 +6171,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 33
+   "transfers_out_event": 36
   },
   {
    "id": 492,
@@ -6197,8 +6197,8 @@
    "expected_goals": "1.94",
    "expected_assists": "0.05",
    "expected_goals_conceded": "6.96",
-   "transfers_in_event": 541,
-   "transfers_out_event": 517
+   "transfers_in_event": 583,
+   "transfers_out_event": 550
   },
   {
    "id": 575,
@@ -6224,8 +6224,8 @@
    "expected_goals": "0.15",
    "expected_assists": "0.20",
    "expected_goals_conceded": "10.18",
-   "transfers_in_event": 94,
-   "transfers_out_event": 199
+   "transfers_in_event": 96,
+   "transfers_out_event": 219
   },
   {
    "id": 584,
@@ -6252,7 +6252,7 @@
    "expected_assists": "0.24",
    "expected_goals_conceded": "1.09",
    "transfers_in_event": 6,
-   "transfers_out_event": 51
+   "transfers_out_event": 55
   },
   {
    "id": 599,
@@ -6278,8 +6278,8 @@
    "expected_goals": "0.39",
    "expected_assists": "0.02",
    "expected_goals_conceded": "4.33",
-   "transfers_in_event": 794,
-   "transfers_out_event": 2120
+   "transfers_in_event": 841,
+   "transfers_out_event": 2249
   },
   {
    "id": 623,
@@ -6305,8 +6305,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 423,
-   "transfers_out_event": 351
+   "transfers_in_event": 456,
+   "transfers_out_event": 380
   },
   {
    "id": 655,
@@ -6332,8 +6332,8 @@
    "expected_goals": "0.25",
    "expected_assists": "0.06",
    "expected_goals_conceded": "2.63",
-   "transfers_in_event": 268,
-   "transfers_out_event": 45
+   "transfers_in_event": 284,
+   "transfers_out_event": 51
   },
   {
    "id": 656,
@@ -6359,8 +6359,8 @@
    "expected_goals": "0.36",
    "expected_assists": "0.03",
    "expected_goals_conceded": "4.68",
-   "transfers_in_event": 283,
-   "transfers_out_event": 253
+   "transfers_in_event": 304,
+   "transfers_out_event": 273
   },
   {
    "id": 42,
@@ -6386,8 +6386,8 @@
    "expected_goals": "0.03",
    "expected_assists": "0.03",
    "expected_goals_conceded": "0.34",
-   "transfers_in_event": 14,
-   "transfers_out_event": 37
+   "transfers_in_event": 15,
+   "transfers_out_event": 40
   },
   {
    "id": 153,
@@ -6413,8 +6413,8 @@
    "expected_goals": "0.32",
    "expected_assists": "0.06",
    "expected_goals_conceded": "10.79",
-   "transfers_in_event": 144,
-   "transfers_out_event": 54
+   "transfers_in_event": 159,
+   "transfers_out_event": 59
   },
   {
    "id": 198,
@@ -6440,8 +6440,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "12.59",
-   "transfers_in_event": 577,
-   "transfers_out_event": 368
+   "transfers_in_event": 617,
+   "transfers_out_event": 400
   },
   {
    "id": 199,
@@ -6467,8 +6467,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "9.28",
-   "transfers_in_event": 60,
-   "transfers_out_event": 154
+   "transfers_in_event": 65,
+   "transfers_out_event": 163
   },
   {
    "id": 202,
@@ -6494,8 +6494,8 @@
    "expected_goals": "0.22",
    "expected_assists": "0.11",
    "expected_goals_conceded": "21.87",
-   "transfers_in_event": 362,
-   "transfers_out_event": 535
+   "transfers_in_event": 390,
+   "transfers_out_event": 601
   },
   {
    "id": 203,
@@ -6521,8 +6521,8 @@
    "expected_goals": "0.05",
    "expected_assists": "0.17",
    "expected_goals_conceded": "17.54",
-   "transfers_in_event": 32,
-   "transfers_out_event": 166
+   "transfers_in_event": 33,
+   "transfers_out_event": 180
   },
   {
    "id": 204,
@@ -6548,8 +6548,8 @@
    "expected_goals": "0.79",
    "expected_assists": "0.94",
    "expected_goals_conceded": "20.75",
-   "transfers_in_event": 1091,
-   "transfers_out_event": 5557
+   "transfers_in_event": 1172,
+   "transfers_out_event": 6066
   },
   {
    "id": 205,
@@ -6602,8 +6602,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "0.98",
-   "transfers_in_event": 9,
-   "transfers_out_event": 4
+   "transfers_in_event": 10,
+   "transfers_out_event": 6
   },
   {
    "id": 207,
@@ -6629,8 +6629,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.11",
    "expected_goals_conceded": "4.17",
-   "transfers_in_event": 32,
-   "transfers_out_event": 55
+   "transfers_in_event": 34,
+   "transfers_out_event": 60
   },
   {
    "id": 208,
@@ -6657,7 +6657,7 @@
    "expected_assists": "0.01",
    "expected_goals_conceded": "0.18",
    "transfers_in_event": 27,
-   "transfers_out_event": 866
+   "transfers_out_event": 915
   },
   {
    "id": 210,
@@ -6683,8 +6683,8 @@
    "expected_goals": "0.41",
    "expected_assists": "1.38",
    "expected_goals_conceded": "20.74",
-   "transfers_in_event": 287,
-   "transfers_out_event": 764
+   "transfers_in_event": 301,
+   "transfers_out_event": 820
   },
   {
    "id": 211,
@@ -6710,8 +6710,8 @@
    "expected_goals": "1.61",
    "expected_assists": "1.16",
    "expected_goals_conceded": "15.94",
-   "transfers_in_event": 470,
-   "transfers_out_event": 573
+   "transfers_in_event": 515,
+   "transfers_out_event": 616
   },
   {
    "id": 212,
@@ -6737,8 +6737,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.04",
    "expected_goals_conceded": "2.64",
-   "transfers_in_event": 3184,
-   "transfers_out_event": 6874
+   "transfers_in_event": 3432,
+   "transfers_out_event": 7441
   },
   {
    "id": 213,
@@ -6764,8 +6764,8 @@
    "expected_goals": "1.00",
    "expected_assists": "0.04",
    "expected_goals_conceded": "8.33",
-   "transfers_in_event": 55,
-   "transfers_out_event": 155
+   "transfers_in_event": 65,
+   "transfers_out_event": 162
   },
   {
    "id": 214,
@@ -6791,8 +6791,8 @@
    "expected_goals": "1.30",
    "expected_assists": "0.65",
    "expected_goals_conceded": "19.62",
-   "transfers_in_event": 658,
-   "transfers_out_event": 1233
+   "transfers_in_event": 694,
+   "transfers_out_event": 1335
   },
   {
    "id": 215,
@@ -6899,8 +6899,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 17,
-   "transfers_out_event": 47
+   "transfers_in_event": 18,
+   "transfers_out_event": 52
   },
   {
    "id": 219,
@@ -6980,8 +6980,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 28,
-   "transfers_out_event": 77
+   "transfers_in_event": 30,
+   "transfers_out_event": 84
   },
   {
    "id": 222,
@@ -7007,8 +7007,8 @@
    "expected_goals": "1.48",
    "expected_assists": "0.53",
    "expected_goals_conceded": "12.37",
-   "transfers_in_event": 878,
-   "transfers_out_event": 824
+   "transfers_in_event": 939,
+   "transfers_out_event": 876
   },
   {
    "id": 223,
@@ -7034,8 +7034,8 @@
    "expected_goals": "1.96",
    "expected_assists": "0.04",
    "expected_goals_conceded": "2.87",
-   "transfers_in_event": 36,
-   "transfers_out_event": 1683
+   "transfers_in_event": 39,
+   "transfers_out_event": 1780
   },
   {
    "id": 224,
@@ -7061,8 +7061,8 @@
    "expected_goals": "2.15",
    "expected_assists": "0.63",
    "expected_goals_conceded": "8.37",
-   "transfers_in_event": 273,
-   "transfers_out_event": 661
+   "transfers_in_event": 303,
+   "transfers_out_event": 692
   },
   {
    "id": 225,
@@ -7115,8 +7115,8 @@
    "expected_goals": "0.22",
    "expected_assists": "0.26",
    "expected_goals_conceded": "6.42",
-   "transfers_in_event": 20,
-   "transfers_out_event": 51
+   "transfers_in_event": 21,
+   "transfers_out_event": 55
   },
   {
    "id": 555,
@@ -7142,8 +7142,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 126,
-   "transfers_out_event": 646
+   "transfers_in_event": 133,
+   "transfers_out_event": 696
   },
   {
    "id": 577,
@@ -7170,7 +7170,7 @@
    "expected_assists": "0.03",
    "expected_goals_conceded": "3.98",
    "transfers_in_event": 5,
-   "transfers_out_event": 215
+   "transfers_out_event": 230
   },
   {
    "id": 588,
@@ -7196,8 +7196,8 @@
    "expected_goals": "1.24",
    "expected_assists": "0.65",
    "expected_goals_conceded": "16.97",
-   "transfers_in_event": 122,
-   "transfers_out_event": 454
+   "transfers_in_event": 129,
+   "transfers_out_event": 496
   },
   {
    "id": 595,
@@ -7250,8 +7250,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "3.17",
-   "transfers_in_event": 25,
-   "transfers_out_event": 25
+   "transfers_in_event": 27,
+   "transfers_out_event": 26
   },
   {
    "id": 643,
@@ -7277,8 +7277,8 @@
    "expected_goals": "0.27",
    "expected_assists": "0.01",
    "expected_goals_conceded": "1.12",
-   "transfers_in_event": 48,
-   "transfers_out_event": 312
+   "transfers_in_event": 53,
+   "transfers_out_event": 338
   },
   {
    "id": 644,
@@ -7304,8 +7304,8 @@
    "expected_goals": "0.49",
    "expected_assists": "0.16",
    "expected_goals_conceded": "11.32",
-   "transfers_in_event": 61,
-   "transfers_out_event": 75
+   "transfers_in_event": 63,
+   "transfers_out_event": 78
   },
   {
    "id": 647,
@@ -7331,8 +7331,8 @@
    "expected_goals": "0.24",
    "expected_assists": "0.31",
    "expected_goals_conceded": "1.91",
-   "transfers_in_event": 7,
-   "transfers_out_event": 3
+   "transfers_in_event": 8,
+   "transfers_out_event": 4
   },
   {
    "id": 21,
@@ -7358,8 +7358,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.35",
-   "transfers_in_event": 57,
-   "transfers_out_event": 89
+   "transfers_in_event": 61,
+   "transfers_out_event": 93
   },
   {
    "id": 209,
@@ -7385,8 +7385,8 @@
    "expected_goals": "1.07",
    "expected_assists": "0.39",
    "expected_goals_conceded": "7.83",
-   "transfers_in_event": 90,
-   "transfers_out_event": 209
+   "transfers_in_event": 93,
+   "transfers_out_event": 218
   },
   {
    "id": 226,
@@ -7412,8 +7412,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.04",
    "expected_goals_conceded": "14.20",
-   "transfers_in_event": 3107,
-   "transfers_out_event": 6781
+   "transfers_in_event": 3271,
+   "transfers_out_event": 7241
   },
   {
    "id": 227,
@@ -7439,8 +7439,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 93,
-   "transfers_out_event": 110
+   "transfers_in_event": 103,
+   "transfers_out_event": 120
   },
   {
    "id": 228,
@@ -7466,8 +7466,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 24,
-   "transfers_out_event": 41
+   "transfers_in_event": 25,
+   "transfers_out_event": 42
   },
   {
    "id": 229,
@@ -7493,8 +7493,8 @@
    "expected_goals": "0.18",
    "expected_assists": "0.11",
    "expected_goals_conceded": "14.20",
-   "transfers_in_event": 14965,
-   "transfers_out_event": 27759
+   "transfers_in_event": 15754,
+   "transfers_out_event": 29929
   },
   {
    "id": 230,
@@ -7520,8 +7520,8 @@
    "expected_goals": "0.35",
    "expected_assists": "0.23",
    "expected_goals_conceded": "11.58",
-   "transfers_in_event": 3184,
-   "transfers_out_event": 1952
+   "transfers_in_event": 3360,
+   "transfers_out_event": 2103
   },
   {
    "id": 231,
@@ -7547,8 +7547,8 @@
    "expected_goals": "0.01",
    "expected_assists": "0.01",
    "expected_goals_conceded": "1.99",
-   "transfers_in_event": 167,
-   "transfers_out_event": 534
+   "transfers_in_event": 179,
+   "transfers_out_event": 577
   },
   {
    "id": 232,
@@ -7574,8 +7574,8 @@
    "expected_goals": "0.20",
    "expected_assists": "0.09",
    "expected_goals_conceded": "4.00",
-   "transfers_in_event": 123,
-   "transfers_out_event": 327
+   "transfers_in_event": 125,
+   "transfers_out_event": 342
   },
   {
    "id": 233,
@@ -7601,8 +7601,8 @@
    "expected_goals": "0.18",
    "expected_assists": "0.61",
    "expected_goals_conceded": "12.82",
-   "transfers_in_event": 4264,
-   "transfers_out_event": 1551
+   "transfers_in_event": 4467,
+   "transfers_out_event": 1721
   },
   {
    "id": 234,
@@ -7629,7 +7629,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 3
+   "transfers_out_event": 4
   },
   {
    "id": 235,
@@ -7656,7 +7656,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 67
+   "transfers_out_event": 70
   },
   {
    "id": 236,
@@ -7682,8 +7682,8 @@
    "expected_goals": "1.78",
    "expected_assists": "1.39",
    "expected_goals_conceded": "13.95",
-   "transfers_in_event": 37390,
-   "transfers_out_event": 4397
+   "transfers_in_event": 39765,
+   "transfers_out_event": 4730
   },
   {
    "id": 238,
@@ -7709,8 +7709,8 @@
    "expected_goals": "0.11",
    "expected_assists": "0.81",
    "expected_goals_conceded": "4.12",
-   "transfers_in_event": 242,
-   "transfers_out_event": 1419
+   "transfers_in_event": 250,
+   "transfers_out_event": 1469
   },
   {
    "id": 239,
@@ -7736,8 +7736,8 @@
    "expected_goals": "0.48",
    "expected_assists": "0.73",
    "expected_goals_conceded": "10.71",
-   "transfers_in_event": 472,
-   "transfers_out_event": 730
+   "transfers_in_event": 501,
+   "transfers_out_event": 767
   },
   {
    "id": 242,
@@ -7763,8 +7763,8 @@
    "expected_goals": "0.57",
    "expected_assists": "1.19",
    "expected_goals_conceded": "8.88",
-   "transfers_in_event": 548,
-   "transfers_out_event": 1144
+   "transfers_in_event": 568,
+   "transfers_out_event": 1223
   },
   {
    "id": 243,
@@ -7790,8 +7790,8 @@
    "expected_goals": "0.13",
    "expected_assists": "0.02",
    "expected_goals_conceded": "0.25",
-   "transfers_in_event": 29,
-   "transfers_out_event": 53
+   "transfers_in_event": 30,
+   "transfers_out_event": 58
   },
   {
    "id": 244,
@@ -7817,8 +7817,8 @@
    "expected_goals": "0.85",
    "expected_assists": "0.78",
    "expected_goals_conceded": "13.53",
-   "transfers_in_event": 208,
-   "transfers_out_event": 647
+   "transfers_in_event": 215,
+   "transfers_out_event": 686
   },
   {
    "id": 245,
@@ -7844,8 +7844,8 @@
    "expected_goals": "0.21",
    "expected_assists": "0.58",
    "expected_goals_conceded": "1.42",
-   "transfers_in_event": 29,
-   "transfers_out_event": 26
+   "transfers_in_event": 30,
+   "transfers_out_event": 29
   },
   {
    "id": 246,
@@ -7871,8 +7871,8 @@
    "expected_goals": "0.08",
    "expected_assists": "0.35",
    "expected_goals_conceded": "10.23",
-   "transfers_in_event": 46,
-   "transfers_out_event": 69
+   "transfers_in_event": 50,
+   "transfers_out_event": 71
   },
   {
    "id": 247,
@@ -7898,8 +7898,8 @@
    "expected_goals": "0.12",
    "expected_assists": "0.17",
    "expected_goals_conceded": "4.29",
-   "transfers_in_event": 31,
-   "transfers_out_event": 178
+   "transfers_in_event": 33,
+   "transfers_out_event": 189
   },
   {
    "id": 248,
@@ -7926,7 +7926,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "1.92",
    "transfers_in_event": 0,
-   "transfers_out_event": 497
+   "transfers_out_event": 526
   },
   {
    "id": 249,
@@ -7936,7 +7936,7 @@
    "pos": "FWD",
    "price": 5.7,
    "cost_change_event": 1,
-   "selected_by_percent": "10.2",
+   "selected_by_percent": "10.3",
    "form": "7.0",
    "points_per_game": "5.5",
    "total_points": 55,
@@ -7952,8 +7952,8 @@
    "expected_goals": "7.29",
    "expected_assists": "0.48",
    "expected_goals_conceded": "11.78",
-   "transfers_in_event": 154606,
-   "transfers_out_event": 5682
+   "transfers_in_event": 160600,
+   "transfers_out_event": 6315
   },
   {
    "id": 649,
@@ -7979,8 +7979,8 @@
    "expected_goals": "0.06",
    "expected_assists": "0.74",
    "expected_goals_conceded": "4.04",
-   "transfers_in_event": 96,
-   "transfers_out_event": 5173
+   "transfers_in_event": 108,
+   "transfers_out_event": 5468
   },
   {
    "id": 654,
@@ -8006,8 +8006,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 115,
-   "transfers_out_event": 195
+   "transfers_in_event": 121,
+   "transfers_out_event": 208
   },
   {
    "id": 250,
@@ -8033,8 +8033,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "13.90",
-   "transfers_in_event": 1141,
-   "transfers_out_event": 3760
+   "transfers_in_event": 1211,
+   "transfers_out_event": 4040
   },
   {
    "id": 251,
@@ -8060,8 +8060,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 284,
-   "transfers_out_event": 484
+   "transfers_in_event": 324,
+   "transfers_out_event": 510
   },
   {
    "id": 252,
@@ -8088,7 +8088,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 80
+   "transfers_out_event": 86
   },
   {
    "id": 253,
@@ -8114,8 +8114,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.10",
    "expected_goals_conceded": "4.35",
-   "transfers_in_event": 103,
-   "transfers_out_event": 387
+   "transfers_in_event": 111,
+   "transfers_out_event": 414
   },
   {
    "id": 254,
@@ -8141,8 +8141,8 @@
    "expected_goals": "0.41",
    "expected_assists": "0.60",
    "expected_goals_conceded": "12.72",
-   "transfers_in_event": 719,
-   "transfers_out_event": 1560
+   "transfers_in_event": 750,
+   "transfers_out_event": 1717
   },
   {
    "id": 255,
@@ -8168,8 +8168,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.03",
    "expected_goals_conceded": "2.24",
-   "transfers_in_event": 7,
-   "transfers_out_event": 19
+   "transfers_in_event": 8,
+   "transfers_out_event": 23
   },
   {
    "id": 256,
@@ -8195,8 +8195,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.22",
    "expected_goals_conceded": "2.57",
-   "transfers_in_event": 22,
-   "transfers_out_event": 70
+   "transfers_in_event": 23,
+   "transfers_out_event": 78
   },
   {
    "id": 257,
@@ -8222,8 +8222,8 @@
    "expected_goals": "0.40",
    "expected_assists": "0.15",
    "expected_goals_conceded": "13.90",
-   "transfers_in_event": 613,
-   "transfers_out_event": 2032
+   "transfers_in_event": 648,
+   "transfers_out_event": 2173
   },
   {
    "id": 258,
@@ -8249,8 +8249,8 @@
    "expected_goals": "0.81",
    "expected_assists": "0.97",
    "expected_goals_conceded": "9.90",
-   "transfers_in_event": 1110,
-   "transfers_out_event": 1258
+   "transfers_in_event": 1173,
+   "transfers_out_event": 1359
   },
   {
    "id": 261,
@@ -8276,8 +8276,8 @@
    "expected_goals": "1.35",
    "expected_assists": "2.94",
    "expected_goals_conceded": "12.21",
-   "transfers_in_event": 2367,
-   "transfers_out_event": 3877
+   "transfers_in_event": 2445,
+   "transfers_out_event": 4191
   },
   {
    "id": 262,
@@ -8303,8 +8303,8 @@
    "expected_goals": "0.06",
    "expected_assists": "0.02",
    "expected_goals_conceded": "1.12",
-   "transfers_in_event": 74,
-   "transfers_out_event": 203
+   "transfers_in_event": 83,
+   "transfers_out_event": 215
   },
   {
    "id": 263,
@@ -8330,8 +8330,8 @@
    "expected_goals": "0.22",
    "expected_assists": "0.12",
    "expected_goals_conceded": "1.75",
-   "transfers_in_event": 22,
-   "transfers_out_event": 69
+   "transfers_in_event": 24,
+   "transfers_out_event": 71
   },
   {
    "id": 264,
@@ -8357,8 +8357,8 @@
    "expected_goals": "1.83",
    "expected_assists": "1.71",
    "expected_goals_conceded": "9.65",
-   "transfers_in_event": 961,
-   "transfers_out_event": 1298
+   "transfers_in_event": 1028,
+   "transfers_out_event": 1395
   },
   {
    "id": 265,
@@ -8366,8 +8366,8 @@
    "full_name": "Sander Berge",
    "team": "FUL",
    "pos": "MID",
-   "price": 4.9,
-   "cost_change_event": 0,
+   "price": 4.8,
+   "cost_change_event": -1,
    "selected_by_percent": "0.2",
    "form": "2.8",
    "points_per_game": "2.5",
@@ -8384,8 +8384,8 @@
    "expected_goals": "0.35",
    "expected_assists": "0.53",
    "expected_goals_conceded": "11.76",
-   "transfers_in_event": 113,
-   "transfers_out_event": 305
+   "transfers_in_event": 122,
+   "transfers_out_event": 324
   },
   {
    "id": 266,
@@ -8438,8 +8438,8 @@
    "expected_goals": "2.01",
    "expected_assists": "1.36",
    "expected_goals_conceded": "11.67",
-   "transfers_in_event": 654,
-   "transfers_out_event": 13651
+   "transfers_in_event": 670,
+   "transfers_out_event": 14744
   },
   {
    "id": 269,
@@ -8465,8 +8465,8 @@
    "expected_goals": "0.29",
    "expected_assists": "0.46",
    "expected_goals_conceded": "3.30",
-   "transfers_in_event": 86,
-   "transfers_out_event": 179
+   "transfers_in_event": 87,
+   "transfers_out_event": 186
   },
   {
    "id": 270,
@@ -8492,8 +8492,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 1626,
-   "transfers_out_event": 1814
+   "transfers_in_event": 1749,
+   "transfers_out_event": 1911
   },
   {
    "id": 271,
@@ -8519,8 +8519,8 @@
    "expected_goals": "0.61",
    "expected_assists": "0.00",
    "expected_goals_conceded": "2.11",
-   "transfers_in_event": 231,
-   "transfers_out_event": 461
+   "transfers_in_event": 246,
+   "transfers_out_event": 483
   },
   {
    "id": 272,
@@ -8546,8 +8546,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 3862,
-   "transfers_out_event": 10906
+   "transfers_in_event": 4101,
+   "transfers_out_event": 11675
   },
   {
    "id": 569,
@@ -8573,8 +8573,8 @@
    "expected_goals": "4.05",
    "expected_assists": "0.76",
    "expected_goals_conceded": "12.05",
-   "transfers_in_event": 569,
-   "transfers_out_event": 15077
+   "transfers_in_event": 600,
+   "transfers_out_event": 16146
   },
   {
    "id": 570,
@@ -8601,7 +8601,7 @@
    "expected_assists": "0.05",
    "expected_goals_conceded": "6.34",
    "transfers_in_event": 28,
-   "transfers_out_event": 118
+   "transfers_out_event": 131
   },
   {
    "id": 580,
@@ -8627,8 +8627,8 @@
    "expected_goals": "0.69",
    "expected_assists": "0.69",
    "expected_goals_conceded": "10.92",
-   "transfers_in_event": 41,
-   "transfers_out_event": 174
+   "transfers_in_event": 42,
+   "transfers_out_event": 183
   },
   {
    "id": 610,
@@ -8655,7 +8655,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 71
+   "transfers_out_event": 74
   },
   {
    "id": 626,
@@ -8681,8 +8681,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 62,
-   "transfers_out_event": 745
+   "transfers_in_event": 64,
+   "transfers_out_event": 788
   },
   {
    "id": 635,
@@ -8709,7 +8709,7 @@
    "expected_assists": "0.24",
    "expected_goals_conceded": "1.78",
    "transfers_in_event": 16,
-   "transfers_out_event": 13
+   "transfers_out_event": 16
   },
   {
    "id": 636,
@@ -8762,8 +8762,8 @@
    "expected_goals": "0.27",
    "expected_assists": "0.08",
    "expected_goals_conceded": "7.67",
-   "transfers_in_event": 187,
-   "transfers_out_event": 1024
+   "transfers_in_event": 194,
+   "transfers_out_event": 1201
   },
   {
    "id": 240,
@@ -8789,8 +8789,8 @@
    "expected_goals": "0.52",
    "expected_assists": "0.16",
    "expected_goals_conceded": "4.74",
-   "transfers_in_event": 299,
-   "transfers_out_event": 109
+   "transfers_in_event": 315,
+   "transfers_out_event": 117
   },
   {
    "id": 273,
@@ -8816,8 +8816,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 225,
-   "transfers_out_event": 611
+   "transfers_in_event": 246,
+   "transfers_out_event": 665
   },
   {
    "id": 274,
@@ -8844,7 +8844,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 50,
-   "transfers_out_event": 25
+   "transfers_out_event": 27
   },
   {
    "id": 275,
@@ -8898,7 +8898,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 10
+   "transfers_out_event": 12
   },
   {
    "id": 277,
@@ -8924,8 +8924,8 @@
    "expected_goals": "0.32",
    "expected_assists": "0.16",
    "expected_goals_conceded": "13.79",
-   "transfers_in_event": 1722,
-   "transfers_out_event": 10093
+   "transfers_in_event": 1827,
+   "transfers_out_event": 11173
   },
   {
    "id": 278,
@@ -8951,8 +8951,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 17,
-   "transfers_out_event": 241
+   "transfers_in_event": 19,
+   "transfers_out_event": 258
   },
   {
    "id": 279,
@@ -8978,8 +8978,8 @@
    "expected_goals": "0.78",
    "expected_assists": "0.04",
    "expected_goals_conceded": "12.81",
-   "transfers_in_event": 3789,
-   "transfers_out_event": 11074
+   "transfers_in_event": 4067,
+   "transfers_out_event": 11766
   },
   {
    "id": 280,
@@ -9005,8 +9005,8 @@
    "expected_goals": "0.24",
    "expected_assists": "0.09",
    "expected_goals_conceded": "12.00",
-   "transfers_in_event": 378,
-   "transfers_out_event": 412
+   "transfers_in_event": 406,
+   "transfers_out_event": 447
   },
   {
    "id": 281,
@@ -9033,7 +9033,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.87",
    "transfers_in_event": 0,
-   "transfers_out_event": 31
+   "transfers_out_event": 34
   },
   {
    "id": 282,
@@ -9059,8 +9059,8 @@
    "expected_goals": "0.02",
    "expected_assists": "0.50",
    "expected_goals_conceded": "12.25",
-   "transfers_in_event": 535,
-   "transfers_out_event": 4289
+   "transfers_in_event": 571,
+   "transfers_out_event": 4631
   },
   {
    "id": 283,
@@ -9087,7 +9087,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 3
+   "transfers_out_event": 4
   },
   {
    "id": 284,
@@ -9113,8 +9113,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 67,
-   "transfers_out_event": 114
+   "transfers_in_event": 70,
+   "transfers_out_event": 124
   },
   {
    "id": 285,
@@ -9140,8 +9140,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.96",
-   "transfers_in_event": 149,
-   "transfers_out_event": 98
+   "transfers_in_event": 154,
+   "transfers_out_event": 103
   },
   {
    "id": 286,
@@ -9167,8 +9167,8 @@
    "expected_goals": "1.29",
    "expected_assists": "0.90",
    "expected_goals_conceded": "10.87",
-   "transfers_in_event": 6773,
-   "transfers_out_event": 21844
+   "transfers_in_event": 7168,
+   "transfers_out_event": 23750
   },
   {
    "id": 287,
@@ -9203,8 +9203,8 @@
    "full_name": "Kieran Dowell",
    "team": "HUL",
    "pos": "MID",
-   "price": 4.4,
-   "cost_change_event": 0,
+   "price": 4.3,
+   "cost_change_event": -1,
    "selected_by_percent": "0.2",
    "form": "0.0",
    "points_per_game": "0.0",
@@ -9221,8 +9221,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 46,
-   "transfers_out_event": 345
+   "transfers_in_event": 58,
+   "transfers_out_event": 371
   },
   {
    "id": 289,
@@ -9248,8 +9248,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.14",
    "expected_goals_conceded": "6.36",
-   "transfers_in_event": 180,
-   "transfers_out_event": 1206
+   "transfers_in_event": 194,
+   "transfers_out_event": 1273
   },
   {
    "id": 290,
@@ -9275,8 +9275,8 @@
    "expected_goals": "0.31",
    "expected_assists": "0.82",
    "expected_goals_conceded": "14.29",
-   "transfers_in_event": 2816,
-   "transfers_out_event": 6558
+   "transfers_in_event": 3084,
+   "transfers_out_event": 7048
   },
   {
    "id": 291,
@@ -9303,7 +9303,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 12,
-   "transfers_out_event": 6
+   "transfers_out_event": 7
   },
   {
    "id": 292,
@@ -9329,8 +9329,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 19,
-   "transfers_out_event": 17
+   "transfers_in_event": 20,
+   "transfers_out_event": 18
   },
   {
    "id": 293,
@@ -9365,8 +9365,8 @@
    "full_name": "\u00d3scar Zambrano",
    "team": "HUL",
    "pos": "MID",
-   "price": 4.5,
-   "cost_change_event": 0,
+   "price": 4.4,
+   "cost_change_event": -1,
    "selected_by_percent": "0.1",
    "form": "0.0",
    "points_per_game": "0.0",
@@ -9383,8 +9383,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 32,
-   "transfers_out_event": 102
+   "transfers_in_event": 35,
+   "transfers_out_event": 108
   },
   {
    "id": 295,
@@ -9410,8 +9410,8 @@
    "expected_goals": "2.22",
    "expected_assists": "0.26",
    "expected_goals_conceded": "14.29",
-   "transfers_in_event": 2651,
-   "transfers_out_event": 5055
+   "transfers_in_event": 2796,
+   "transfers_out_event": 5396
   },
   {
    "id": 296,
@@ -9464,8 +9464,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 12,
-   "transfers_out_event": 19
+   "transfers_in_event": 13,
+   "transfers_out_event": 22
   },
   {
    "id": 298,
@@ -9492,7 +9492,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 215
+   "transfers_out_event": 229
   },
   {
    "id": 299,
@@ -9519,7 +9519,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 37
+   "transfers_out_event": 38
   },
   {
    "id": 340,
@@ -9545,8 +9545,8 @@
    "expected_goals": "1.24",
    "expected_assists": "0.08",
    "expected_goals_conceded": "2.92",
-   "transfers_in_event": 19,
-   "transfers_out_event": 78
+   "transfers_in_event": 20,
+   "transfers_out_event": 87
   },
   {
    "id": 556,
@@ -9572,8 +9572,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.07",
-   "transfers_in_event": 71,
-   "transfers_out_event": 1564
+   "transfers_in_event": 75,
+   "transfers_out_event": 1661
   },
   {
    "id": 563,
@@ -9600,7 +9600,7 @@
    "expected_assists": "0.01",
    "expected_goals_conceded": "1.70",
    "transfers_in_event": 2,
-   "transfers_out_event": 42
+   "transfers_out_event": 43
   },
   {
    "id": 572,
@@ -9626,8 +9626,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "14.52",
-   "transfers_in_event": 2496,
-   "transfers_out_event": 8638
+   "transfers_in_event": 2685,
+   "transfers_out_event": 9162
   },
   {
    "id": 574,
@@ -9654,7 +9654,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 12,
-   "transfers_out_event": 57
+   "transfers_out_event": 64
   },
   {
    "id": 576,
@@ -9680,8 +9680,8 @@
    "expected_goals": "0.11",
    "expected_assists": "0.14",
    "expected_goals_conceded": "7.73",
-   "transfers_in_event": 34,
-   "transfers_out_event": 75
+   "transfers_in_event": 35,
+   "transfers_out_event": 79
   },
   {
    "id": 585,
@@ -9707,8 +9707,8 @@
    "expected_goals": "0.02",
    "expected_assists": "0.05",
    "expected_goals_conceded": "6.39",
-   "transfers_in_event": 328,
-   "transfers_out_event": 353
+   "transfers_in_event": 361,
+   "transfers_out_event": 384
   },
   {
    "id": 586,
@@ -9734,8 +9734,8 @@
    "expected_goals": "0.62",
    "expected_assists": "0.00",
    "expected_goals_conceded": "8.02",
-   "transfers_in_event": 830,
-   "transfers_out_event": 3467
+   "transfers_in_event": 881,
+   "transfers_out_event": 3809
   },
   {
    "id": 589,
@@ -9761,7 +9761,7 @@
    "expected_goals": "0.03",
    "expected_assists": "0.04",
    "expected_goals_conceded": "3.52",
-   "transfers_in_event": 6,
+   "transfers_in_event": 8,
    "transfers_out_event": 15
   },
   {
@@ -9788,8 +9788,8 @@
    "expected_goals": "0.88",
    "expected_assists": "0.85",
    "expected_goals_conceded": "2.28",
-   "transfers_in_event": 50,
-   "transfers_out_event": 38
+   "transfers_in_event": 54,
+   "transfers_out_event": 39
   },
   {
    "id": 632,
@@ -9815,7 +9815,7 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 8,
+   "transfers_in_event": 9,
    "transfers_out_event": 40
   },
   {
@@ -9842,8 +9842,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "0.94",
-   "transfers_in_event": 134,
-   "transfers_out_event": 267
+   "transfers_in_event": 140,
+   "transfers_out_event": 288
   },
   {
    "id": 638,
@@ -9869,8 +9869,8 @@
    "expected_goals": "0.09",
    "expected_assists": "0.01",
    "expected_goals_conceded": "2.45",
-   "transfers_in_event": 1658,
-   "transfers_out_event": 844
+   "transfers_in_event": 1747,
+   "transfers_out_event": 905
   },
   {
    "id": 642,
@@ -9896,8 +9896,8 @@
    "expected_goals": "0.22",
    "expected_assists": "0.64",
    "expected_goals_conceded": "4.51",
-   "transfers_in_event": 52,
-   "transfers_out_event": 151
+   "transfers_in_event": 55,
+   "transfers_out_event": 160
   },
   {
    "id": 645,
@@ -9950,8 +9950,8 @@
    "expected_goals": "0.10",
    "expected_assists": "0.18",
    "expected_goals_conceded": "19.44",
-   "transfers_in_event": 2138,
-   "transfers_out_event": 9399
+   "transfers_in_event": 2275,
+   "transfers_out_event": 10330
   },
   {
    "id": 267,
@@ -9977,8 +9977,8 @@
    "expected_goals": "0.02",
    "expected_assists": "0.46",
    "expected_goals_conceded": "9.18",
-   "transfers_in_event": 13,
-   "transfers_out_event": 40
+   "transfers_in_event": 14,
+   "transfers_out_event": 43
   },
   {
    "id": 300,
@@ -10004,8 +10004,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.03",
    "expected_goals_conceded": "12.70",
-   "transfers_in_event": 178,
-   "transfers_out_event": 226
+   "transfers_in_event": 189,
+   "transfers_out_event": 240
   },
   {
    "id": 301,
@@ -10031,8 +10031,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 501,
-   "transfers_out_event": 2002
+   "transfers_in_event": 548,
+   "transfers_out_event": 2152
   },
   {
    "id": 302,
@@ -10058,8 +10058,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 158,
-   "transfers_out_event": 276
+   "transfers_in_event": 178,
+   "transfers_out_event": 294
   },
   {
    "id": 303,
@@ -10085,8 +10085,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 59,
-   "transfers_out_event": 661
+   "transfers_in_event": 62,
+   "transfers_out_event": 701
   },
   {
    "id": 304,
@@ -10112,8 +10112,8 @@
    "expected_goals": "0.30",
    "expected_assists": "0.33",
    "expected_goals_conceded": "19.44",
-   "transfers_in_event": 774,
-   "transfers_out_event": 2806
+   "transfers_in_event": 812,
+   "transfers_out_event": 3075
   },
   {
    "id": 305,
@@ -10139,8 +10139,8 @@
    "expected_goals": "1.64",
    "expected_assists": "0.68",
    "expected_goals_conceded": "19.44",
-   "transfers_in_event": 896,
-   "transfers_out_event": 9095
+   "transfers_in_event": 949,
+   "transfers_out_event": 10200
   },
   {
    "id": 306,
@@ -10166,8 +10166,8 @@
    "expected_goals": "0.02",
    "expected_assists": "0.08",
    "expected_goals_conceded": "9.98",
-   "transfers_in_event": 122,
-   "transfers_out_event": 800
+   "transfers_in_event": 132,
+   "transfers_out_event": 869
   },
   {
    "id": 307,
@@ -10194,7 +10194,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 31
+   "transfers_out_event": 33
   },
   {
    "id": 308,
@@ -10220,8 +10220,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.86",
-   "transfers_in_event": 60,
-   "transfers_out_event": 405
+   "transfers_in_event": 61,
+   "transfers_out_event": 427
   },
   {
    "id": 309,
@@ -10247,8 +10247,8 @@
    "expected_goals": "0.03",
    "expected_assists": "0.05",
    "expected_goals_conceded": "3.48",
-   "transfers_in_event": 20,
-   "transfers_out_event": 86
+   "transfers_in_event": 23,
+   "transfers_out_event": 92
   },
   {
    "id": 310,
@@ -10328,8 +10328,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 53,
-   "transfers_out_event": 83
+   "transfers_in_event": 55,
+   "transfers_out_event": 89
   },
   {
    "id": 313,
@@ -10355,8 +10355,8 @@
    "expected_goals": "1.18",
    "expected_assists": "0.42",
    "expected_goals_conceded": "4.05",
-   "transfers_in_event": 110,
-   "transfers_out_event": 118
+   "transfers_in_event": 120,
+   "transfers_out_event": 129
   },
   {
    "id": 314,
@@ -10410,7 +10410,7 @@
    "expected_assists": "1.34",
    "expected_goals_conceded": "11.85",
    "transfers_in_event": 24,
-   "transfers_out_event": 117
+   "transfers_out_event": 126
   },
   {
    "id": 316,
@@ -10418,8 +10418,8 @@
    "full_name": "Emersonn Correia da Silva",
    "team": "IPS",
    "pos": "FWD",
-   "price": 5.5,
-   "cost_change_event": 0,
+   "price": 5.4,
+   "cost_change_event": -1,
    "selected_by_percent": "2.9",
    "form": "1.6",
    "points_per_game": "3.4",
@@ -10436,8 +10436,8 @@
    "expected_goals": "2.71",
    "expected_assists": "0.19",
    "expected_goals_conceded": "11.48",
-   "transfers_in_event": 414,
-   "transfers_out_event": 11189
+   "transfers_in_event": 437,
+   "transfers_out_event": 12041
   },
   {
    "id": 317,
@@ -10464,7 +10464,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 57
+   "transfers_out_event": 60
   },
   {
    "id": 318,
@@ -10491,7 +10491,7 @@
    "expected_assists": "0.06",
    "expected_goals_conceded": "6.12",
    "transfers_in_event": 10,
-   "transfers_out_event": 26
+   "transfers_out_event": 28
   },
   {
    "id": 319,
@@ -10544,8 +10544,8 @@
    "expected_goals": "1.30",
    "expected_assists": "0.00",
    "expected_goals_conceded": "6.23",
-   "transfers_in_event": 206,
-   "transfers_out_event": 2300
+   "transfers_in_event": 220,
+   "transfers_out_event": 2451
   },
   {
    "id": 321,
@@ -10571,8 +10571,8 @@
    "expected_goals": "0.10",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.24",
-   "transfers_in_event": 917,
-   "transfers_out_event": 7879
+   "transfers_in_event": 986,
+   "transfers_out_event": 8465
   },
   {
    "id": 322,
@@ -10599,7 +10599,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 39
+   "transfers_out_event": 45
   },
   {
    "id": 323,
@@ -10625,8 +10625,8 @@
    "expected_goals": "0.05",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.21",
-   "transfers_in_event": 2542,
-   "transfers_out_event": 1279
+   "transfers_in_event": 2742,
+   "transfers_out_event": 1377
   },
   {
    "id": 324,
@@ -10634,8 +10634,8 @@
    "full_name": "Anis Mehmeti",
    "team": "IPS",
    "pos": "MID",
-   "price": 4.8,
-   "cost_change_event": 0,
+   "price": 4.7,
+   "cost_change_event": -1,
    "selected_by_percent": "0.0",
    "form": "0.0",
    "points_per_game": "0.0",
@@ -10653,7 +10653,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 5,
-   "transfers_out_event": 18
+   "transfers_out_event": 21
   },
   {
    "id": 554,
@@ -10706,8 +10706,8 @@
    "expected_goals": "1.20",
    "expected_assists": "0.05",
    "expected_goals_conceded": "12.25",
-   "transfers_in_event": 38,
-   "transfers_out_event": 256
+   "transfers_in_event": 40,
+   "transfers_out_event": 271
   },
   {
    "id": 564,
@@ -10733,8 +10733,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "6.74",
-   "transfers_in_event": 37,
-   "transfers_out_event": 275
+   "transfers_in_event": 42,
+   "transfers_out_event": 296
   },
   {
    "id": 571,
@@ -10760,8 +10760,8 @@
    "expected_goals": "0.22",
    "expected_assists": "0.19",
    "expected_goals_conceded": "9.07",
-   "transfers_in_event": 359,
-   "transfers_out_event": 131
+   "transfers_in_event": 383,
+   "transfers_out_event": 139
   },
   {
    "id": 591,
@@ -10787,8 +10787,8 @@
    "expected_goals": "2.10",
    "expected_assists": "2.13",
    "expected_goals_conceded": "17.20",
-   "transfers_in_event": 2983,
-   "transfers_out_event": 2102
+   "transfers_in_event": 3142,
+   "transfers_out_event": 2331
   },
   {
    "id": 592,
@@ -10814,8 +10814,8 @@
    "expected_goals": "0.19",
    "expected_assists": "0.49",
    "expected_goals_conceded": "13.59",
-   "transfers_in_event": 1445,
-   "transfers_out_event": 826
+   "transfers_in_event": 1600,
+   "transfers_out_event": 885
   },
   {
    "id": 602,
@@ -10842,7 +10842,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 21
+   "transfers_out_event": 22
   },
   {
    "id": 619,
@@ -10868,8 +10868,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.34",
    "expected_goals_conceded": "14.16",
-   "transfers_in_event": 124,
-   "transfers_out_event": 134
+   "transfers_in_event": 133,
+   "transfers_out_event": 139
   },
   {
    "id": 640,
@@ -10895,8 +10895,8 @@
    "expected_goals": "1.72",
    "expected_assists": "0.03",
    "expected_goals_conceded": "3.91",
-   "transfers_in_event": 82,
-   "transfers_out_event": 423
+   "transfers_in_event": 86,
+   "transfers_out_event": 449
   },
   {
    "id": 260,
@@ -10922,8 +10922,8 @@
    "expected_goals": "0.14",
    "expected_assists": "0.31",
    "expected_goals_conceded": "6.41",
-   "transfers_in_event": 205,
-   "transfers_out_event": 1154
+   "transfers_in_event": 216,
+   "transfers_out_event": 1258
   },
   {
    "id": 326,
@@ -10950,7 +10950,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 149
+   "transfers_out_event": 161
   },
   {
    "id": 327,
@@ -10976,8 +10976,8 @@
    "expected_goals": "0.13",
    "expected_assists": "0.00",
    "expected_goals_conceded": "4.40",
-   "transfers_in_event": 110,
-   "transfers_out_event": 1092
+   "transfers_in_event": 115,
+   "transfers_out_event": 1158
   },
   {
    "id": 329,
@@ -11003,8 +11003,8 @@
    "expected_goals": "0.03",
    "expected_assists": "0.06",
    "expected_goals_conceded": "1.42",
-   "transfers_in_event": 201,
-   "transfers_out_event": 191
+   "transfers_in_event": 217,
+   "transfers_out_event": 209
   },
   {
    "id": 330,
@@ -11030,8 +11030,8 @@
    "expected_goals": "1.76",
    "expected_assists": "0.82",
    "expected_goals_conceded": "8.15",
-   "transfers_in_event": 17916,
-   "transfers_out_event": 7899
+   "transfers_in_event": 19326,
+   "transfers_out_event": 8381
   },
   {
    "id": 331,
@@ -11058,7 +11058,7 @@
    "expected_assists": "0.30",
    "expected_goals_conceded": "8.80",
    "transfers_in_event": 86,
-   "transfers_out_event": 410
+   "transfers_out_event": 440
   },
   {
    "id": 332,
@@ -11084,8 +11084,8 @@
    "expected_goals": "0.48",
    "expected_assists": "1.18",
    "expected_goals_conceded": "11.02",
-   "transfers_in_event": 5248,
-   "transfers_out_event": 1491
+   "transfers_in_event": 5656,
+   "transfers_out_event": 1609
   },
   {
    "id": 333,
@@ -11138,8 +11138,8 @@
    "expected_goals": "0.65",
    "expected_assists": "0.24",
    "expected_goals_conceded": "12.55",
-   "transfers_in_event": 18666,
-   "transfers_out_event": 1946
+   "transfers_in_event": 20028,
+   "transfers_out_event": 2135
   },
   {
    "id": 335,
@@ -11165,8 +11165,8 @@
    "expected_goals": "1.50",
    "expected_assists": "0.53",
    "expected_goals_conceded": "10.28",
-   "transfers_in_event": 29,
-   "transfers_out_event": 6768
+   "transfers_in_event": 31,
+   "transfers_out_event": 7222
   },
   {
    "id": 336,
@@ -11192,8 +11192,8 @@
    "expected_goals": "0.85",
    "expected_assists": "0.44",
    "expected_goals_conceded": "5.00",
-   "transfers_in_event": 1055,
-   "transfers_out_event": 619
+   "transfers_in_event": 1112,
+   "transfers_out_event": 643
   },
   {
    "id": 337,
@@ -11219,8 +11219,8 @@
    "expected_goals": "0.01",
    "expected_assists": "0.02",
    "expected_goals_conceded": "5.96",
-   "transfers_in_event": 62,
-   "transfers_out_event": 426
+   "transfers_in_event": 63,
+   "transfers_out_event": 461
   },
   {
    "id": 338,
@@ -11246,8 +11246,8 @@
    "expected_goals": "0.25",
    "expected_assists": "0.50",
    "expected_goals_conceded": "12.55",
-   "transfers_in_event": 249,
-   "transfers_out_event": 863
+   "transfers_in_event": 267,
+   "transfers_out_event": 927
   },
   {
    "id": 339,
@@ -11273,8 +11273,8 @@
    "expected_goals": "0.43",
    "expected_assists": "0.16",
    "expected_goals_conceded": "1.31",
-   "transfers_in_event": 82,
-   "transfers_out_event": 107
+   "transfers_in_event": 86,
+   "transfers_out_event": 113
   },
   {
    "id": 341,
@@ -11355,7 +11355,7 @@
    "expected_assists": "0.04",
    "expected_goals_conceded": "2.30",
    "transfers_in_event": 39,
-   "transfers_out_event": 86
+   "transfers_out_event": 93
   },
   {
    "id": 344,
@@ -11408,8 +11408,8 @@
    "expected_goals": "1.27",
    "expected_assists": "0.10",
    "expected_goals_conceded": "7.01",
-   "transfers_in_event": 397,
-   "transfers_out_event": 378
+   "transfers_in_event": 421,
+   "transfers_out_event": 403
   },
   {
    "id": 346,
@@ -11435,8 +11435,8 @@
    "expected_goals": "4.25",
    "expected_assists": "0.38",
    "expected_goals_conceded": "10.94",
-   "transfers_in_event": 6320,
-   "transfers_out_event": 72668
+   "transfers_in_event": 6695,
+   "transfers_out_event": 78017
   },
   {
    "id": 347,
@@ -11462,8 +11462,8 @@
    "expected_goals": "0.69",
    "expected_assists": "0.24",
    "expected_goals_conceded": "5.03",
-   "transfers_in_event": 156,
-   "transfers_out_event": 722
+   "transfers_in_event": 159,
+   "transfers_out_event": 762
   },
   {
    "id": 348,
@@ -11490,7 +11490,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 42
+   "transfers_out_event": 44
   },
   {
    "id": 349,
@@ -11516,8 +11516,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 106,
-   "transfers_out_event": 92
+   "transfers_in_event": 112,
+   "transfers_out_event": 99
   },
   {
    "id": 385,
@@ -11543,8 +11543,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.02",
    "expected_goals_conceded": "12.55",
-   "transfers_in_event": 10812,
-   "transfers_out_event": 2619
+   "transfers_in_event": 11652,
+   "transfers_out_event": 2773
   },
   {
    "id": 598,
@@ -11570,8 +11570,8 @@
    "expected_goals": "0.51",
    "expected_assists": "0.61",
    "expected_goals_conceded": "10.29",
-   "transfers_in_event": 73,
-   "transfers_out_event": 30
+   "transfers_in_event": 78,
+   "transfers_out_event": 32
   },
   {
    "id": 603,
@@ -11597,8 +11597,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 40,
-   "transfers_out_event": 80
+   "transfers_in_event": 42,
+   "transfers_out_event": 86
   },
   {
    "id": 604,
@@ -11624,8 +11624,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 122,
-   "transfers_out_event": 190
+   "transfers_in_event": 139,
+   "transfers_out_event": 205
   },
   {
    "id": 625,
@@ -11651,8 +11651,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 101,
-   "transfers_out_event": 149
+   "transfers_in_event": 103,
+   "transfers_out_event": 158
   },
   {
    "id": 629,
@@ -11678,8 +11678,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 600,
-   "transfers_out_event": 639
+   "transfers_in_event": 646,
+   "transfers_out_event": 672
   },
   {
    "id": 641,
@@ -11705,8 +11705,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.82",
-   "transfers_in_event": 31,
-   "transfers_out_event": 16
+   "transfers_in_event": 33,
+   "transfers_out_event": 18
   },
   {
    "id": 648,
@@ -11733,7 +11733,7 @@
    "expected_assists": "0.03",
    "expected_goals_conceded": "0.82",
    "transfers_in_event": 16,
-   "transfers_out_event": 44
+   "transfers_out_event": 45
   },
   {
    "id": 350,
@@ -11759,8 +11759,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "13.18",
-   "transfers_in_event": 2691,
-   "transfers_out_event": 2992
+   "transfers_in_event": 2895,
+   "transfers_out_event": 3191
   },
   {
    "id": 351,
@@ -11786,8 +11786,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 78,
-   "transfers_out_event": 141
+   "transfers_in_event": 81,
+   "transfers_out_event": 155
   },
   {
    "id": 352,
@@ -11813,8 +11813,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 140,
-   "transfers_out_event": 559
+   "transfers_in_event": 160,
+   "transfers_out_event": 607
   },
   {
    "id": 353,
@@ -11867,8 +11867,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 52,
-   "transfers_out_event": 25
+   "transfers_in_event": 56,
+   "transfers_out_event": 29
   },
   {
    "id": 355,
@@ -11894,8 +11894,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 44,
-   "transfers_out_event": 106
+   "transfers_in_event": 49,
+   "transfers_out_event": 110
   },
   {
    "id": 356,
@@ -11921,8 +11921,8 @@
    "expected_goals": "0.42",
    "expected_assists": "0.32",
    "expected_goals_conceded": "13.18",
-   "transfers_in_event": 10373,
-   "transfers_out_event": 8704
+   "transfers_in_event": 11052,
+   "transfers_out_event": 9349
   },
   {
    "id": 357,
@@ -11948,8 +11948,8 @@
    "expected_goals": "0.01",
    "expected_assists": "0.24",
    "expected_goals_conceded": "4.48",
-   "transfers_in_event": 27,
-   "transfers_out_event": 1804
+   "transfers_in_event": 28,
+   "transfers_out_event": 1904
   },
   {
    "id": 358,
@@ -11975,8 +11975,8 @@
    "expected_goals": "0.19",
    "expected_assists": "0.33",
    "expected_goals_conceded": "12.64",
-   "transfers_in_event": 661,
-   "transfers_out_event": 1526
+   "transfers_in_event": 705,
+   "transfers_out_event": 1659
   },
   {
    "id": 359,
@@ -12002,8 +12002,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "1.05",
-   "transfers_in_event": 115,
-   "transfers_out_event": 88
+   "transfers_in_event": 119,
+   "transfers_out_event": 94
   },
   {
    "id": 360,
@@ -12056,8 +12056,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 120,
-   "transfers_out_event": 115
+   "transfers_in_event": 127,
+   "transfers_out_event": 124
   },
   {
    "id": 362,
@@ -12083,8 +12083,8 @@
    "expected_goals": "0.53",
    "expected_assists": "0.25",
    "expected_goals_conceded": "12.38",
-   "transfers_in_event": 8996,
-   "transfers_out_event": 3831
+   "transfers_in_event": 9594,
+   "transfers_out_event": 4141
   },
   {
    "id": 363,
@@ -12110,8 +12110,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 40,
-   "transfers_out_event": 49
+   "transfers_in_event": 41,
+   "transfers_out_event": 54
   },
   {
    "id": 364,
@@ -12137,8 +12137,8 @@
    "expected_goals": "0.04",
    "expected_assists": "0.08",
    "expected_goals_conceded": "0.55",
-   "transfers_in_event": 45,
-   "transfers_out_event": 97
+   "transfers_in_event": 51,
+   "transfers_out_event": 104
   },
   {
    "id": 365,
@@ -12165,7 +12165,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 62
+   "transfers_out_event": 66
   },
   {
    "id": 366,
@@ -12191,8 +12191,8 @@
    "expected_goals": "1.83",
    "expected_assists": "1.23",
    "expected_goals_conceded": "10.79",
-   "transfers_in_event": 22109,
-   "transfers_out_event": 3209
+   "transfers_in_event": 25191,
+   "transfers_out_event": 3332
   },
   {
    "id": 367,
@@ -12218,8 +12218,8 @@
    "expected_goals": "1.24",
    "expected_assists": "1.91",
    "expected_goals_conceded": "8.71",
-   "transfers_in_event": 4684,
-   "transfers_out_event": 9342
+   "transfers_in_event": 4983,
+   "transfers_out_event": 10215
   },
   {
    "id": 368,
@@ -12245,8 +12245,8 @@
    "expected_goals": "1.54",
    "expected_assists": "1.60",
    "expected_goals_conceded": "7.31",
-   "transfers_in_event": 8895,
-   "transfers_out_event": 6552
+   "transfers_in_event": 9582,
+   "transfers_out_event": 6939
   },
   {
    "id": 369,
@@ -12272,8 +12272,8 @@
    "expected_goals": "0.29",
    "expected_assists": "0.21",
    "expected_goals_conceded": "3.55",
-   "transfers_in_event": 674,
-   "transfers_out_event": 1291
+   "transfers_in_event": 720,
+   "transfers_out_event": 1399
   },
   {
    "id": 370,
@@ -12299,8 +12299,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.19",
-   "transfers_in_event": 33,
-   "transfers_out_event": 45
+   "transfers_in_event": 34,
+   "transfers_out_event": 48
   },
   {
    "id": 371,
@@ -12310,7 +12310,7 @@
    "pos": "MID",
    "price": 5.8,
    "cost_change_event": 0,
-   "selected_by_percent": "0.9",
+   "selected_by_percent": "0.8",
    "form": "0.4",
    "points_per_game": "1.6",
    "total_points": 11,
@@ -12326,8 +12326,8 @@
    "expected_goals": "0.17",
    "expected_assists": "0.17",
    "expected_goals_conceded": "3.76",
-   "transfers_in_event": 53,
-   "transfers_out_event": 2074
+   "transfers_in_event": 55,
+   "transfers_out_event": 2188
   },
   {
    "id": 372,
@@ -12353,8 +12353,8 @@
    "expected_goals": "0.96",
    "expected_assists": "1.06",
    "expected_goals_conceded": "11.91",
-   "transfers_in_event": 3610,
-   "transfers_out_event": 1201
+   "transfers_in_event": 3903,
+   "transfers_out_event": 1257
   },
   {
    "id": 373,
@@ -12407,8 +12407,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 29,
-   "transfers_out_event": 75
+   "transfers_in_event": 31,
+   "transfers_out_event": 79
   },
   {
    "id": 375,
@@ -12434,8 +12434,8 @@
    "expected_goals": "0.09",
    "expected_assists": "0.18",
    "expected_goals_conceded": "4.60",
-   "transfers_in_event": 487,
-   "transfers_out_event": 181
+   "transfers_in_event": 506,
+   "transfers_out_event": 192
   },
   {
    "id": 376,
@@ -12488,8 +12488,8 @@
    "expected_goals": "0.79",
    "expected_assists": "0.41",
    "expected_goals_conceded": "8.41",
-   "transfers_in_event": 374,
-   "transfers_out_event": 1466
+   "transfers_in_event": 388,
+   "transfers_out_event": 1593
   },
   {
    "id": 378,
@@ -12515,8 +12515,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 39,
-   "transfers_out_event": 240
+   "transfers_in_event": 42,
+   "transfers_out_event": 259
   },
   {
    "id": 379,
@@ -12524,9 +12524,9 @@
    "full_name": "Alexander Isak",
    "team": "LIV",
    "pos": "FWD",
-   "price": 9.2,
-   "cost_change_event": 0,
-   "selected_by_percent": "24.6",
+   "price": 9.3,
+   "cost_change_event": 1,
+   "selected_by_percent": "24.7",
    "form": "5.6",
    "points_per_game": "6.8",
    "total_points": 61,
@@ -12542,8 +12542,8 @@
    "expected_goals": "4.88",
    "expected_assists": "0.28",
    "expected_goals_conceded": "10.47",
-   "transfers_in_event": 67840,
-   "transfers_out_event": 12550
+   "transfers_in_event": 74395,
+   "transfers_out_event": 13169
   },
   {
    "id": 380,
@@ -12569,8 +12569,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 99,
-   "transfers_out_event": 152
+   "transfers_in_event": 105,
+   "transfers_out_event": 159
   },
   {
    "id": 381,
@@ -12596,8 +12596,8 @@
    "expected_goals": "0.43",
    "expected_assists": "0.01",
    "expected_goals_conceded": "2.57",
-   "transfers_in_event": 49,
-   "transfers_out_event": 216
+   "transfers_in_event": 50,
+   "transfers_out_event": 232
   },
   {
    "id": 382,
@@ -12623,8 +12623,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 229,
-   "transfers_out_event": 708
+   "transfers_in_event": 243,
+   "transfers_out_event": 749
   },
   {
    "id": 383,
@@ -12677,8 +12677,8 @@
    "expected_goals": "1.05",
    "expected_assists": "0.14",
    "expected_goals_conceded": "8.06",
-   "transfers_in_event": 15893,
-   "transfers_out_event": 3290
+   "transfers_in_event": 17314,
+   "transfers_out_event": 3496
   },
   {
    "id": 627,
@@ -12704,8 +12704,8 @@
    "expected_goals": "1.41",
    "expected_assists": "0.91",
    "expected_goals_conceded": "6.40",
-   "transfers_in_event": 8679,
-   "transfers_out_event": 6870
+   "transfers_in_event": 9334,
+   "transfers_out_event": 7323
   },
   {
    "id": 155,
@@ -12731,8 +12731,8 @@
    "expected_goals": "1.56",
    "expected_assists": "1.43",
    "expected_goals_conceded": "10.13",
-   "transfers_in_event": 1910,
-   "transfers_out_event": 7280
+   "transfers_in_event": 2004,
+   "transfers_out_event": 7796
   },
   {
    "id": 237,
@@ -12758,8 +12758,8 @@
    "expected_goals": "1.74",
    "expected_assists": "1.14",
    "expected_goals_conceded": "14.51",
-   "transfers_in_event": 3644,
-   "transfers_out_event": 9346
+   "transfers_in_event": 3885,
+   "transfers_out_event": 10067
   },
   {
    "id": 384,
@@ -12767,8 +12767,8 @@
    "full_name": "Gianluigi Donnarumma",
    "team": "MCI",
    "pos": "GKP",
-   "price": 5.5,
-   "cost_change_event": 0,
+   "price": 5.4,
+   "cost_change_event": -1,
    "selected_by_percent": "7.2",
    "form": "2.8",
    "points_per_game": "3.3",
@@ -12785,8 +12785,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "12.72",
-   "transfers_in_event": 1868,
-   "transfers_out_event": 15008
+   "transfers_in_event": 1992,
+   "transfers_out_event": 16010
   },
   {
    "id": 386,
@@ -12813,7 +12813,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 16,
-   "transfers_out_event": 8
+   "transfers_out_event": 10
   },
   {
    "id": 387,
@@ -12839,8 +12839,8 @@
    "expected_goals": "1.46",
    "expected_assists": "0.60",
    "expected_goals_conceded": "4.31",
-   "transfers_in_event": 3127,
-   "transfers_out_event": 8433
+   "transfers_in_event": 3331,
+   "transfers_out_event": 9008
   },
   {
    "id": 388,
@@ -12850,7 +12850,7 @@
    "pos": "DEF",
    "price": 6.0,
    "cost_change_event": 0,
-   "selected_by_percent": "14.7",
+   "selected_by_percent": "14.6",
    "form": "1.4",
    "points_per_game": "4.1",
    "total_points": 37,
@@ -12866,8 +12866,8 @@
    "expected_goals": "0.95",
    "expected_assists": "0.86",
    "expected_goals_conceded": "11.27",
-   "transfers_in_event": 1187,
-   "transfers_out_event": 79133
+   "transfers_in_event": 1198,
+   "transfers_out_event": 85089
   },
   {
    "id": 389,
@@ -12893,8 +12893,8 @@
    "expected_goals": "0.15",
    "expected_assists": "0.58",
    "expected_goals_conceded": "7.81",
-   "transfers_in_event": 894,
-   "transfers_out_event": 719
+   "transfers_in_event": 958,
+   "transfers_out_event": 787
   },
   {
    "id": 390,
@@ -12920,8 +12920,8 @@
    "expected_goals": "0.51",
    "expected_assists": "0.90",
    "expected_goals_conceded": "12.72",
-   "transfers_in_event": 1979,
-   "transfers_out_event": 2927
+   "transfers_in_event": 2138,
+   "transfers_out_event": 3142
   },
   {
    "id": 391,
@@ -12929,9 +12929,9 @@
    "full_name": "Jo\u0161ko Gvardiol",
    "team": "MCI",
    "pos": "DEF",
-   "price": 5.7,
-   "cost_change_event": 0,
-   "selected_by_percent": "23.7",
+   "price": 5.6,
+   "cost_change_event": -1,
+   "selected_by_percent": "23.5",
    "form": "1.4",
    "points_per_game": "4.4",
    "total_points": 44,
@@ -12947,8 +12947,8 @@
    "expected_goals": "0.80",
    "expected_assists": "0.99",
    "expected_goals_conceded": "10.51",
-   "transfers_in_event": 2737,
-   "transfers_out_event": 181330
+   "transfers_in_event": 2770,
+   "transfers_out_event": 197283
   },
   {
    "id": 392,
@@ -12956,8 +12956,8 @@
    "full_name": "Rayan A\u00eft-Nouri",
    "team": "MCI",
    "pos": "DEF",
-   "price": 5.2,
-   "cost_change_event": 0,
+   "price": 5.1,
+   "cost_change_event": -1,
    "selected_by_percent": "0.3",
    "form": "0.0",
    "points_per_game": "0.0",
@@ -12974,8 +12974,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 98,
-   "transfers_out_event": 326
+   "transfers_in_event": 107,
+   "transfers_out_event": 348
   },
   {
    "id": 393,
@@ -13001,8 +13001,8 @@
    "expected_goals": "0.08",
    "expected_assists": "0.33",
    "expected_goals_conceded": "6.25",
-   "transfers_in_event": 736,
-   "transfers_out_event": 1037
+   "transfers_in_event": 782,
+   "transfers_out_event": 1109
   },
   {
    "id": 394,
@@ -13055,8 +13055,8 @@
    "expected_goals": "0.17",
    "expected_assists": "0.03",
    "expected_goals_conceded": "0.77",
-   "transfers_in_event": 117,
-   "transfers_out_event": 220
+   "transfers_in_event": 119,
+   "transfers_out_event": 235
   },
   {
    "id": 396,
@@ -13109,8 +13109,8 @@
    "expected_goals": "0.34",
    "expected_assists": "1.47",
    "expected_goals_conceded": "9.09",
-   "transfers_in_event": 78,
-   "transfers_out_event": 15323
+   "transfers_in_event": 81,
+   "transfers_out_event": 16223
   },
   {
    "id": 398,
@@ -13136,8 +13136,8 @@
    "expected_goals": "2.31",
    "expected_assists": "1.63",
    "expected_goals_conceded": "3.27",
-   "transfers_in_event": 981,
-   "transfers_out_event": 7309
+   "transfers_in_event": 1027,
+   "transfers_out_event": 7838
   },
   {
    "id": 399,
@@ -13163,8 +13163,8 @@
    "expected_goals": "1.92",
    "expected_assists": "1.86",
    "expected_goals_conceded": "7.58",
-   "transfers_in_event": 32532,
-   "transfers_out_event": 25896
+   "transfers_in_event": 35131,
+   "transfers_out_event": 27018
   },
   {
    "id": 400,
@@ -13190,8 +13190,8 @@
    "expected_goals": "0.86",
    "expected_assists": "1.69",
    "expected_goals_conceded": "4.24",
-   "transfers_in_event": 4953,
-   "transfers_out_event": 12557
+   "transfers_in_event": 5191,
+   "transfers_out_event": 13448
   },
   {
    "id": 402,
@@ -13271,8 +13271,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.19",
    "expected_goals_conceded": "0.54",
-   "transfers_in_event": 41,
-   "transfers_out_event": 61
+   "transfers_in_event": 42,
+   "transfers_out_event": 67
   },
   {
    "id": 407,
@@ -13353,7 +13353,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 62
+   "transfers_out_event": 65
   },
   {
    "id": 410,
@@ -13406,8 +13406,8 @@
    "expected_goals": "7.06",
    "expected_assists": "0.87",
    "expected_goals_conceded": "12.65",
-   "transfers_in_event": 10311,
-   "transfers_out_event": 24570
+   "transfers_in_event": 10864,
+   "transfers_out_event": 26543
   },
   {
    "id": 481,
@@ -13433,8 +13433,8 @@
    "expected_goals": "0.30",
    "expected_assists": "1.45",
    "expected_goals_conceded": "11.66",
-   "transfers_in_event": 1702,
-   "transfers_out_event": 5295
+   "transfers_in_event": 1799,
+   "transfers_out_event": 5773
   },
   {
    "id": 587,
@@ -13487,8 +13487,8 @@
    "expected_goals": "0.02",
    "expected_assists": "0.18",
    "expected_goals_conceded": "3.12",
-   "transfers_in_event": 200,
-   "transfers_out_event": 628
+   "transfers_in_event": 208,
+   "transfers_out_event": 669
   },
   {
    "id": 621,
@@ -13514,8 +13514,8 @@
    "expected_goals": "0.10",
    "expected_assists": "0.07",
    "expected_goals_conceded": "0.02",
-   "transfers_in_event": 116,
-   "transfers_out_event": 198
+   "transfers_in_event": 123,
+   "transfers_out_event": 206
   },
   {
    "id": 622,
@@ -13541,8 +13541,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 661,
-   "transfers_out_event": 381
+   "transfers_in_event": 711,
+   "transfers_out_event": 401
   },
   {
    "id": 628,
@@ -13569,7 +13569,7 @@
    "expected_assists": "0.03",
    "expected_goals_conceded": "0.25",
    "transfers_in_event": 43,
-   "transfers_out_event": 55
+   "transfers_out_event": 57
   },
   {
    "id": 653,
@@ -13595,8 +13595,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 86,
-   "transfers_out_event": 139
+   "transfers_in_event": 94,
+   "transfers_out_event": 148
   },
   {
    "id": 43,
@@ -13619,11 +13619,11 @@
    "assists": 1,
    "clean_sheets": 0,
    "ict_index": "34.8",
-   "expected_goals": "0.94",
+   "expected_goals": "0.96",
    "expected_assists": "1.16",
    "expected_goals_conceded": "12.42",
-   "transfers_in_event": 560,
-   "transfers_out_event": 1800
+   "transfers_in_event": 600,
+   "transfers_out_event": 1872
   },
   {
    "id": 131,
@@ -13649,8 +13649,8 @@
    "expected_goals": "0.14",
    "expected_assists": "0.05",
    "expected_goals_conceded": "4.76",
-   "transfers_in_event": 21,
-   "transfers_out_event": 2092
+   "transfers_in_event": 22,
+   "transfers_out_event": 2170
   },
   {
    "id": 162,
@@ -13676,8 +13676,8 @@
    "expected_goals": "0.19",
    "expected_assists": "0.30",
    "expected_goals_conceded": "7.72",
-   "transfers_in_event": 362,
-   "transfers_out_event": 825
+   "transfers_in_event": 373,
+   "transfers_out_event": 898
   },
   {
    "id": 325,
@@ -13730,8 +13730,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.04",
    "expected_goals_conceded": "17.87",
-   "transfers_in_event": 502,
-   "transfers_out_event": 10260
+   "transfers_in_event": 528,
+   "transfers_out_event": 11104
   },
   {
    "id": 413,
@@ -13758,7 +13758,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 2
+   "transfers_out_event": 3
   },
   {
    "id": 414,
@@ -13784,8 +13784,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 128,
-   "transfers_out_event": 72
+   "transfers_in_event": 138,
+   "transfers_out_event": 76
   },
   {
    "id": 415,
@@ -13796,10 +13796,10 @@
    "price": 5.7,
    "cost_change_event": 0,
    "selected_by_percent": "0.3",
-   "form": "2.0",
-   "points_per_game": "3.3",
-   "total_points": 20,
-   "event_points": 10,
+   "form": "2.2",
+   "points_per_game": "3.5",
+   "total_points": 21,
+   "event_points": 11,
    "status": "a",
    "news": "",
    "chance_of_playing_next_round": 100,
@@ -13809,10 +13809,10 @@
    "clean_sheets": 0,
    "ict_index": "15.6",
    "expected_goals": "1.13",
-   "expected_assists": "0.16",
+   "expected_assists": "0.25",
    "expected_goals_conceded": "3.47",
-   "transfers_in_event": 558,
-   "transfers_out_event": 260
+   "transfers_in_event": 678,
+   "transfers_out_event": 272
   },
   {
    "id": 416,
@@ -13838,8 +13838,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 150,
-   "transfers_out_event": 143
+   "transfers_in_event": 155,
+   "transfers_out_event": 154
   },
   {
    "id": 417,
@@ -13865,8 +13865,8 @@
    "expected_goals": "0.28",
    "expected_assists": "0.40",
    "expected_goals_conceded": "14.39",
-   "transfers_in_event": 267,
-   "transfers_out_event": 1777
+   "transfers_in_event": 282,
+   "transfers_out_event": 1962
   },
   {
    "id": 418,
@@ -13891,9 +13891,9 @@
    "ict_index": "27.3",
    "expected_goals": "0.32",
    "expected_assists": "0.52",
-   "expected_goals_conceded": "16.20",
-   "transfers_in_event": 620,
-   "transfers_out_event": 8631
+   "expected_goals_conceded": "16.24",
+   "transfers_in_event": 652,
+   "transfers_out_event": 9418
   },
   {
    "id": 419,
@@ -13919,8 +13919,8 @@
    "expected_goals": "0.24",
    "expected_assists": "0.85",
    "expected_goals_conceded": "9.71",
-   "transfers_in_event": 20,
-   "transfers_out_event": 2202
+   "transfers_in_event": 22,
+   "transfers_out_event": 2268
   },
   {
    "id": 420,
@@ -13946,8 +13946,8 @@
    "expected_goals": "0.18",
    "expected_assists": "0.28",
    "expected_goals_conceded": "11.83",
-   "transfers_in_event": 349,
-   "transfers_out_event": 460
+   "transfers_in_event": 359,
+   "transfers_out_event": 492
   },
   {
    "id": 421,
@@ -13972,9 +13972,9 @@
    "ict_index": "4.2",
    "expected_goals": "0.12",
    "expected_assists": "0.04",
-   "expected_goals_conceded": "4.99",
-   "transfers_in_event": 148,
-   "transfers_out_event": 243
+   "expected_goals_conceded": "4.95",
+   "transfers_in_event": 157,
+   "transfers_out_event": 263
   },
   {
    "id": 422,
@@ -14000,8 +14000,8 @@
    "expected_goals": "0.24",
    "expected_assists": "0.12",
    "expected_goals_conceded": "6.12",
-   "transfers_in_event": 151,
-   "transfers_out_event": 350
+   "transfers_in_event": 162,
+   "transfers_out_event": 379
   },
   {
    "id": 423,
@@ -14027,8 +14027,8 @@
    "expected_goals": "0.03",
    "expected_assists": "0.59",
    "expected_goals_conceded": "6.25",
-   "transfers_in_event": 18,
-   "transfers_out_event": 7920
+   "transfers_in_event": 22,
+   "transfers_out_event": 8491
   },
   {
    "id": 424,
@@ -14054,8 +14054,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 128,
-   "transfers_out_event": 216
+   "transfers_in_event": 134,
+   "transfers_out_event": 226
   },
   {
    "id": 425,
@@ -14106,10 +14106,10 @@
    "clean_sheets": 0,
    "ict_index": "71.2",
    "expected_goals": "3.94",
-   "expected_assists": "1.90",
+   "expected_assists": "2.17",
    "expected_goals_conceded": "15.72",
-   "transfers_in_event": 3807,
-   "transfers_out_event": 29260
+   "transfers_in_event": 4280,
+   "transfers_out_event": 30392
   },
   {
    "id": 427,
@@ -14119,7 +14119,7 @@
    "pos": "MID",
    "price": 7.9,
    "cost_change_event": 0,
-   "selected_by_percent": "19.5",
+   "selected_by_percent": "19.4",
    "form": "4.2",
    "points_per_game": "4.6",
    "total_points": 46,
@@ -14135,8 +14135,8 @@
    "expected_goals": "4.63",
    "expected_assists": "1.29",
    "expected_goals_conceded": "17.83",
-   "transfers_in_event": 4430,
-   "transfers_out_event": 40291
+   "transfers_in_event": 4618,
+   "transfers_out_event": 45057
   },
   {
    "id": 428,
@@ -14162,8 +14162,8 @@
    "expected_goals": "1.46",
    "expected_assists": "1.33",
    "expected_goals_conceded": "13.45",
-   "transfers_in_event": 6468,
-   "transfers_out_event": 6715
+   "transfers_in_event": 6970,
+   "transfers_out_event": 7239
   },
   {
    "id": 429,
@@ -14189,8 +14189,8 @@
    "expected_goals": "0.78",
    "expected_assists": "0.43",
    "expected_goals_conceded": "4.50",
-   "transfers_in_event": 40,
-   "transfers_out_event": 2608
+   "transfers_in_event": 41,
+   "transfers_out_event": 2744
   },
   {
    "id": 430,
@@ -14217,7 +14217,7 @@
    "expected_assists": "0.18",
    "expected_goals_conceded": "3.59",
    "transfers_in_event": 35,
-   "transfers_out_event": 58
+   "transfers_out_event": 63
   },
   {
    "id": 431,
@@ -14240,11 +14240,11 @@
    "assists": 0,
    "clean_sheets": 0,
    "ict_index": "11.6",
-   "expected_goals": "1.08",
-   "expected_assists": "0.24",
+   "expected_goals": "1.09",
+   "expected_assists": "0.23",
    "expected_goals_conceded": "9.80",
-   "transfers_in_event": 398,
-   "transfers_out_event": 375
+   "transfers_in_event": 417,
+   "transfers_out_event": 397
   },
   {
    "id": 432,
@@ -14267,11 +14267,11 @@
    "assists": 1,
    "clean_sheets": 0,
    "ict_index": "22.1",
-   "expected_goals": "0.44",
-   "expected_assists": "0.69",
+   "expected_goals": "0.42",
+   "expected_assists": "0.71",
    "expected_goals_conceded": "10.94",
-   "transfers_in_event": 1054,
-   "transfers_out_event": 959
+   "transfers_in_event": 1111,
+   "transfers_out_event": 1028
   },
   {
    "id": 433,
@@ -14349,10 +14349,10 @@
    "clean_sheets": 0,
    "ict_index": "1.2",
    "expected_goals": "0.03",
-   "expected_assists": "0.09",
+   "expected_assists": "0.12",
    "expected_goals_conceded": "0.09",
-   "transfers_in_event": 535,
-   "transfers_out_event": 116
+   "transfers_in_event": 561,
+   "transfers_out_event": 128
   },
   {
    "id": 436,
@@ -14379,7 +14379,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 3
+   "transfers_out_event": 5
   },
   {
    "id": 437,
@@ -14405,8 +14405,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 45,
-   "transfers_out_event": 180
+   "transfers_in_event": 46,
+   "transfers_out_event": 188
   },
   {
    "id": 438,
@@ -14432,8 +14432,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 62,
-   "transfers_out_event": 389
+   "transfers_in_event": 66,
+   "transfers_out_event": 408
   },
   {
    "id": 439,
@@ -14459,8 +14459,8 @@
    "expected_goals": "0.39",
    "expected_assists": "0.01",
    "expected_goals_conceded": "2.00",
-   "transfers_in_event": 36,
-   "transfers_out_event": 1507
+   "transfers_in_event": 38,
+   "transfers_out_event": 1587
   },
   {
    "id": 440,
@@ -14486,8 +14486,8 @@
    "expected_goals": "0.46",
    "expected_assists": "0.08",
    "expected_goals_conceded": "1.23",
-   "transfers_in_event": 296,
-   "transfers_out_event": 693
+   "transfers_in_event": 323,
+   "transfers_out_event": 727
   },
   {
    "id": 441,
@@ -14514,7 +14514,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 1320
+   "transfers_out_event": 1382
   },
   {
    "id": 405,
@@ -14540,8 +14540,8 @@
    "expected_goals": "0.05",
    "expected_assists": "0.64",
    "expected_goals_conceded": "9.70",
-   "transfers_in_event": 145,
-   "transfers_out_event": 419
+   "transfers_in_event": 150,
+   "transfers_out_event": 444
   },
   {
    "id": 442,
@@ -14567,8 +14567,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 97,
-   "transfers_out_event": 620
+   "transfers_in_event": 106,
+   "transfers_out_event": 667
   },
   {
    "id": 443,
@@ -14594,8 +14594,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 2,
-   "transfers_out_event": 19
+   "transfers_in_event": 3,
+   "transfers_out_event": 21
   },
   {
    "id": 444,
@@ -14621,8 +14621,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 30,
-   "transfers_out_event": 35
+   "transfers_in_event": 31,
+   "transfers_out_event": 37
   },
   {
    "id": 445,
@@ -14648,8 +14648,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.16",
    "expected_goals_conceded": "12.83",
-   "transfers_in_event": 125,
-   "transfers_out_event": 3124
+   "transfers_in_event": 129,
+   "transfers_out_event": 3447
   },
   {
    "id": 446,
@@ -14675,8 +14675,8 @@
    "expected_goals": "0.12",
    "expected_assists": "0.04",
    "expected_goals_conceded": "5.88",
-   "transfers_in_event": 92,
-   "transfers_out_event": 347
+   "transfers_in_event": 94,
+   "transfers_out_event": 380
   },
   {
    "id": 447,
@@ -14702,8 +14702,8 @@
    "expected_goals": "0.21",
    "expected_assists": "0.22",
    "expected_goals_conceded": "12.18",
-   "transfers_in_event": 194,
-   "transfers_out_event": 2232
+   "transfers_in_event": 206,
+   "transfers_out_event": 2435
   },
   {
    "id": 448,
@@ -14729,8 +14729,8 @@
    "expected_goals": "0.19",
    "expected_assists": "0.06",
    "expected_goals_conceded": "4.71",
-   "transfers_in_event": 491,
-   "transfers_out_event": 420
+   "transfers_in_event": 519,
+   "transfers_out_event": 447
   },
   {
    "id": 449,
@@ -14740,7 +14740,7 @@
    "pos": "DEF",
    "price": 5.2,
    "cost_change_event": -1,
-   "selected_by_percent": "18.5",
+   "selected_by_percent": "18.4",
    "form": "3.0",
    "points_per_game": "4.6",
    "total_points": 46,
@@ -14756,8 +14756,8 @@
    "expected_goals": "0.51",
    "expected_assists": "1.00",
    "expected_goals_conceded": "16.79",
-   "transfers_in_event": 5497,
-   "transfers_out_event": 43573
+   "transfers_in_event": 5808,
+   "transfers_out_event": 47854
   },
   {
    "id": 450,
@@ -14783,8 +14783,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.01",
    "expected_goals_conceded": "0.18",
-   "transfers_in_event": 49,
-   "transfers_out_event": 52
+   "transfers_in_event": 56,
+   "transfers_out_event": 55
   },
   {
    "id": 451,
@@ -14811,7 +14811,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 52
+   "transfers_out_event": 57
   },
   {
    "id": 453,
@@ -14821,7 +14821,7 @@
    "pos": "MID",
    "price": 6.1,
    "cost_change_event": 0,
-   "selected_by_percent": "6.8",
+   "selected_by_percent": "6.7",
    "form": "3.2",
    "points_per_game": "4.4",
    "total_points": 44,
@@ -14837,8 +14837,8 @@
    "expected_goals": "2.20",
    "expected_assists": "0.96",
    "expected_goals_conceded": "16.54",
-   "transfers_in_event": 1769,
-   "transfers_out_event": 25689
+   "transfers_in_event": 1847,
+   "transfers_out_event": 27746
   },
   {
    "id": 454,
@@ -14864,8 +14864,8 @@
    "expected_goals": "0.77",
    "expected_assists": "0.42",
    "expected_goals_conceded": "6.70",
-   "transfers_in_event": 629,
-   "transfers_out_event": 2775
+   "transfers_in_event": 651,
+   "transfers_out_event": 2992
   },
   {
    "id": 456,
@@ -14891,8 +14891,8 @@
    "expected_goals": "0.19",
    "expected_assists": "0.16",
    "expected_goals_conceded": "2.19",
-   "transfers_in_event": 40,
-   "transfers_out_event": 194
+   "transfers_in_event": 42,
+   "transfers_out_event": 202
   },
   {
    "id": 457,
@@ -14918,8 +14918,8 @@
    "expected_goals": "0.31",
    "expected_assists": "1.08",
    "expected_goals_conceded": "8.36",
-   "transfers_in_event": 506,
-   "transfers_out_event": 171
+   "transfers_in_event": 556,
+   "transfers_out_event": 180
   },
   {
    "id": 458,
@@ -14946,7 +14946,7 @@
    "expected_assists": "0.11",
    "expected_goals_conceded": "5.60",
    "transfers_in_event": 5,
-   "transfers_out_event": 163
+   "transfers_out_event": 167
   },
   {
    "id": 459,
@@ -14972,8 +14972,8 @@
    "expected_goals": "0.05",
    "expected_assists": "0.47",
    "expected_goals_conceded": "10.94",
-   "transfers_in_event": 11,
-   "transfers_out_event": 93
+   "transfers_in_event": 13,
+   "transfers_out_event": 97
   },
   {
    "id": 460,
@@ -14999,8 +14999,8 @@
    "expected_goals": "1.31",
    "expected_assists": "0.39",
    "expected_goals_conceded": "11.22",
-   "transfers_in_event": 146,
-   "transfers_out_event": 1529
+   "transfers_in_event": 152,
+   "transfers_out_event": 1633
   },
   {
    "id": 461,
@@ -15026,8 +15026,8 @@
    "expected_goals": "0.37",
    "expected_assists": "0.28",
    "expected_goals_conceded": "1.74",
-   "transfers_in_event": 41,
-   "transfers_out_event": 150
+   "transfers_in_event": 43,
+   "transfers_out_event": 159
   },
   {
    "id": 462,
@@ -15053,8 +15053,8 @@
    "expected_goals": "0.06",
    "expected_assists": "0.12",
    "expected_goals_conceded": "4.80",
-   "transfers_in_event": 47,
-   "transfers_out_event": 70
+   "transfers_in_event": 53,
+   "transfers_out_event": 74
   },
   {
    "id": 463,
@@ -15081,7 +15081,7 @@
    "expected_assists": "0.01",
    "expected_goals_conceded": "0.38",
    "transfers_in_event": 0,
-   "transfers_out_event": 230
+   "transfers_out_event": 242
   },
   {
    "id": 464,
@@ -15107,8 +15107,8 @@
    "expected_goals": "3.41",
    "expected_assists": "0.19",
    "expected_goals_conceded": "11.31",
-   "transfers_in_event": 1139,
-   "transfers_out_event": 38058
+   "transfers_in_event": 1186,
+   "transfers_out_event": 40479
   },
   {
    "id": 465,
@@ -15134,8 +15134,8 @@
    "expected_goals": "0.81",
    "expected_assists": "0.18",
    "expected_goals_conceded": "6.74",
-   "transfers_in_event": 542,
-   "transfers_out_event": 942
+   "transfers_in_event": 560,
+   "transfers_out_event": 990
   },
   {
    "id": 466,
@@ -15162,7 +15162,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 589
+   "transfers_out_event": 638
   },
   {
    "id": 559,
@@ -15189,7 +15189,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "1.29",
    "transfers_in_event": 23,
-   "transfers_out_event": 70
+   "transfers_out_event": 73
   },
   {
    "id": 567,
@@ -15215,8 +15215,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "16.81",
-   "transfers_in_event": 257,
-   "transfers_out_event": 2465
+   "transfers_in_event": 269,
+   "transfers_out_event": 2630
   },
   {
    "id": 593,
@@ -15242,8 +15242,8 @@
    "expected_goals": "0.18",
    "expected_assists": "0.39",
    "expected_goals_conceded": "12.33",
-   "transfers_in_event": 517,
-   "transfers_out_event": 2283
+   "transfers_in_event": 535,
+   "transfers_out_event": 2463
   },
   {
    "id": 609,
@@ -15270,7 +15270,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 158
+   "transfers_out_event": 166
   },
   {
    "id": 634,
@@ -15296,8 +15296,8 @@
    "expected_goals": "0.62",
    "expected_assists": "0.25",
    "expected_goals_conceded": "5.67",
-   "transfers_in_event": 71,
-   "transfers_out_event": 232
+   "transfers_in_event": 73,
+   "transfers_out_event": 243
   },
   {
    "id": 659,
@@ -15323,8 +15323,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 205,
-   "transfers_out_event": 241
+   "transfers_in_event": 216,
+   "transfers_out_event": 260
   },
   {
    "id": 663,
@@ -15350,8 +15350,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 38,
-   "transfers_out_event": 36
+   "transfers_in_event": 40,
+   "transfers_out_event": 38
   },
   {
    "id": 664,
@@ -15377,8 +15377,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 490,
-   "transfers_out_event": 1107
+   "transfers_in_event": 510,
+   "transfers_out_event": 1180
   },
   {
    "id": 665,
@@ -15404,8 +15404,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 33,
-   "transfers_out_event": 27
+   "transfers_in_event": 37,
+   "transfers_out_event": 28
   },
   {
    "id": 666,
@@ -15431,8 +15431,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 21,
-   "transfers_out_event": 24
+   "transfers_in_event": 25,
+   "transfers_out_event": 28
   },
   {
    "id": 167,
@@ -15458,8 +15458,8 @@
    "expected_goals": "2.95",
    "expected_assists": "0.51",
    "expected_goals_conceded": "8.27",
-   "transfers_in_event": 14275,
-   "transfers_out_event": 2814
+   "transfers_in_event": 15267,
+   "transfers_out_event": 2925
   },
   {
    "id": 201,
@@ -15485,8 +15485,8 @@
    "expected_goals": "1.10",
    "expected_assists": "0.68",
    "expected_goals_conceded": "8.56",
-   "transfers_in_event": 672,
-   "transfers_out_event": 5302
+   "transfers_in_event": 711,
+   "transfers_out_event": 5661
   },
   {
    "id": 467,
@@ -15512,8 +15512,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.02",
    "expected_goals_conceded": "11.00",
-   "transfers_in_event": 300,
-   "transfers_out_event": 1129
+   "transfers_in_event": 320,
+   "transfers_out_event": 1234
   },
   {
    "id": 468,
@@ -15539,8 +15539,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 21,
-   "transfers_out_event": 30
+   "transfers_in_event": 22,
+   "transfers_out_event": 33
   },
   {
    "id": 469,
@@ -15566,8 +15566,8 @@
    "expected_goals": "0.96",
    "expected_assists": "1.16",
    "expected_goals_conceded": "10.94",
-   "transfers_in_event": 1062,
-   "transfers_out_event": 5591
+   "transfers_in_event": 1127,
+   "transfers_out_event": 6087
   },
   {
    "id": 470,
@@ -15620,8 +15620,8 @@
    "expected_goals": "0.21",
    "expected_assists": "0.11",
    "expected_goals_conceded": "5.96",
-   "transfers_in_event": 280,
-   "transfers_out_event": 366
+   "transfers_in_event": 306,
+   "transfers_out_event": 391
   },
   {
    "id": 472,
@@ -15647,8 +15647,8 @@
    "expected_goals": "1.25",
    "expected_assists": "0.66",
    "expected_goals_conceded": "11.00",
-   "transfers_in_event": 1827,
-   "transfers_out_event": 1839
+   "transfers_in_event": 1927,
+   "transfers_out_event": 1970
   },
   {
    "id": 473,
@@ -15674,8 +15674,8 @@
    "expected_goals": "0.06",
    "expected_assists": "0.54",
    "expected_goals_conceded": "6.22",
-   "transfers_in_event": 240,
-   "transfers_out_event": 2439
+   "transfers_in_event": 250,
+   "transfers_out_event": 2593
   },
   {
    "id": 474,
@@ -15701,8 +15701,8 @@
    "expected_goals": "0.65",
    "expected_assists": "0.09",
    "expected_goals_conceded": "7.77",
-   "transfers_in_event": 867,
-   "transfers_out_event": 126
+   "transfers_in_event": 928,
+   "transfers_out_event": 139
   },
   {
    "id": 475,
@@ -15728,7 +15728,7 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 16,
+   "transfers_in_event": 17,
    "transfers_out_event": 7
   },
   {
@@ -15755,8 +15755,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 365,
-   "transfers_out_event": 283
+   "transfers_in_event": 381,
+   "transfers_out_event": 296
   },
   {
    "id": 477,
@@ -15783,7 +15783,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 109
+   "transfers_out_event": 115
   },
   {
    "id": 478,
@@ -15810,7 +15810,7 @@
    "expected_assists": "0.03",
    "expected_goals_conceded": "0.30",
    "transfers_in_event": 18,
-   "transfers_out_event": 22
+   "transfers_out_event": 23
   },
   {
    "id": 479,
@@ -15837,7 +15837,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 78
+   "transfers_out_event": 81
   },
   {
    "id": 480,
@@ -15863,8 +15863,8 @@
    "expected_goals": "2.54",
    "expected_assists": "2.36",
    "expected_goals_conceded": "9.86",
-   "transfers_in_event": 5321,
-   "transfers_out_event": 11814
+   "transfers_in_event": 5687,
+   "transfers_out_event": 12613
   },
   {
    "id": 482,
@@ -15890,8 +15890,8 @@
    "expected_goals": "0.11",
    "expected_assists": "0.08",
    "expected_goals_conceded": "0.31",
-   "transfers_in_event": 72,
-   "transfers_out_event": 185
+   "transfers_in_event": 78,
+   "transfers_out_event": 192
   },
   {
    "id": 483,
@@ -15917,8 +15917,8 @@
    "expected_goals": "2.33",
    "expected_assists": "1.36",
    "expected_goals_conceded": "7.62",
-   "transfers_in_event": 127,
-   "transfers_out_event": 1325
+   "transfers_in_event": 134,
+   "transfers_out_event": 1416
   },
   {
    "id": 484,
@@ -15945,7 +15945,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 32
+   "transfers_out_event": 33
   },
   {
    "id": 485,
@@ -15998,8 +15998,8 @@
    "expected_goals": "0.92",
    "expected_assists": "1.59",
    "expected_goals_conceded": "10.66",
-   "transfers_in_event": 182,
-   "transfers_out_event": 203
+   "transfers_in_event": 197,
+   "transfers_out_event": 222
   },
   {
    "id": 487,
@@ -16026,7 +16026,7 @@
    "expected_assists": "0.01",
    "expected_goals_conceded": "0.95",
    "transfers_in_event": 3,
-   "transfers_out_event": 110
+   "transfers_out_event": 117
   },
   {
    "id": 488,
@@ -16052,8 +16052,8 @@
    "expected_goals": "0.09",
    "expected_assists": "0.04",
    "expected_goals_conceded": "1.06",
-   "transfers_in_event": 136,
-   "transfers_out_event": 310
+   "transfers_in_event": 142,
+   "transfers_out_event": 332
   },
   {
    "id": 489,
@@ -16079,8 +16079,8 @@
    "expected_goals": "0.30",
    "expected_assists": "0.01",
    "expected_goals_conceded": "2.04",
-   "transfers_in_event": 482,
-   "transfers_out_event": 1215
+   "transfers_in_event": 520,
+   "transfers_out_event": 1301
   },
   {
    "id": 490,
@@ -16106,8 +16106,8 @@
    "expected_goals": "0.63",
    "expected_assists": "0.01",
    "expected_goals_conceded": "1.11",
-   "transfers_in_event": 313,
-   "transfers_out_event": 1393
+   "transfers_in_event": 330,
+   "transfers_out_event": 1494
   },
   {
    "id": 491,
@@ -16133,8 +16133,8 @@
    "expected_goals": "1.25",
    "expected_assists": "0.08",
    "expected_goals_conceded": "2.63",
-   "transfers_in_event": 225,
-   "transfers_out_event": 1186
+   "transfers_in_event": 246,
+   "transfers_out_event": 1236
   },
   {
    "id": 493,
@@ -16160,8 +16160,8 @@
    "expected_goals": "0.03",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.58",
-   "transfers_in_event": 34,
-   "transfers_out_event": 84
+   "transfers_in_event": 37,
+   "transfers_out_event": 91
   },
   {
    "id": 558,
@@ -16187,8 +16187,8 @@
    "expected_goals": "0.37",
    "expected_assists": "0.41",
    "expected_goals_conceded": "10.10",
-   "transfers_in_event": 288,
-   "transfers_out_event": 86
+   "transfers_in_event": 328,
+   "transfers_out_event": 95
   },
   {
    "id": 581,
@@ -16214,8 +16214,8 @@
    "expected_goals": "0.23",
    "expected_assists": "0.02",
    "expected_goals_conceded": "5.00",
-   "transfers_in_event": 201,
-   "transfers_out_event": 690
+   "transfers_in_event": 215,
+   "transfers_out_event": 744
   },
   {
    "id": 590,
@@ -16241,8 +16241,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 24,
-   "transfers_out_event": 36
+   "transfers_in_event": 26,
+   "transfers_out_event": 38
   },
   {
    "id": 112,
@@ -16250,9 +16250,9 @@
    "full_name": "Jan Paul van Hecke",
    "team": "TOT",
    "pos": "DEF",
-   "price": 5.0,
-   "cost_change_event": 0,
-   "selected_by_percent": "14.1",
+   "price": 5.1,
+   "cost_change_event": 1,
+   "selected_by_percent": "14.2",
    "form": "6.6",
    "points_per_game": "5.7",
    "total_points": 57,
@@ -16268,8 +16268,8 @@
    "expected_goals": "1.70",
    "expected_assists": "0.72",
    "expected_goals_conceded": "11.92",
-   "transfers_in_event": 114283,
-   "transfers_out_event": 3307
+   "transfers_in_event": 124460,
+   "transfers_out_event": 3561
   },
   {
    "id": 147,
@@ -16295,8 +16295,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.02",
    "expected_goals_conceded": "0.55",
-   "transfers_in_event": 41,
-   "transfers_out_event": 62
+   "transfers_in_event": 44,
+   "transfers_out_event": 66
   },
   {
    "id": 401,
@@ -16322,8 +16322,8 @@
    "expected_goals": "1.04",
    "expected_assists": "0.33",
    "expected_goals_conceded": "6.72",
-   "transfers_in_event": 4086,
-   "transfers_out_event": 8460
+   "transfers_in_event": 4316,
+   "transfers_out_event": 9071
   },
   {
    "id": 403,
@@ -16349,8 +16349,8 @@
    "expected_goals": "0.54",
    "expected_assists": "0.95",
    "expected_goals_conceded": "3.56",
-   "transfers_in_event": 37,
-   "transfers_out_event": 855
+   "transfers_in_event": 41,
+   "transfers_out_event": 903
   },
   {
    "id": 455,
@@ -16376,8 +16376,8 @@
    "expected_goals": "0.40",
    "expected_assists": "1.35",
    "expected_goals_conceded": "11.86",
-   "transfers_in_event": 1934,
-   "transfers_out_event": 3555
+   "transfers_in_event": 2034,
+   "transfers_out_event": 3838
   },
   {
    "id": 494,
@@ -16404,7 +16404,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 100
+   "transfers_out_event": 108
   },
   {
    "id": 495,
@@ -16430,8 +16430,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 368,
-   "transfers_out_event": 606
+   "transfers_in_event": 387,
+   "transfers_out_event": 641
   },
   {
    "id": 496,
@@ -16457,8 +16457,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "11.92",
-   "transfers_in_event": 12404,
-   "transfers_out_event": 4966
+   "transfers_in_event": 13487,
+   "transfers_out_event": 5386
   },
   {
    "id": 497,
@@ -16484,8 +16484,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 2078,
-   "transfers_out_event": 10351
+   "transfers_in_event": 2278,
+   "transfers_out_event": 11121
   },
   {
    "id": 498,
@@ -16511,8 +16511,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.07",
    "expected_goals_conceded": "4.44",
-   "transfers_in_event": 1053,
-   "transfers_out_event": 3184
+   "transfers_in_event": 1127,
+   "transfers_out_event": 3391
   },
   {
    "id": 499,
@@ -16538,8 +16538,8 @@
    "expected_goals": "0.56",
    "expected_assists": "0.31",
    "expected_goals_conceded": "3.07",
-   "transfers_in_event": 5297,
-   "transfers_out_event": 1721
+   "transfers_in_event": 5681,
+   "transfers_out_event": 1853
   },
   {
    "id": 500,
@@ -16566,7 +16566,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 26
+   "transfers_out_event": 27
   },
   {
    "id": 502,
@@ -16576,7 +16576,7 @@
    "pos": "DEF",
    "price": 4.3,
    "cost_change_event": 0,
-   "selected_by_percent": "2.6",
+   "selected_by_percent": "2.7",
    "form": "4.2",
    "points_per_game": "4.2",
    "total_points": 38,
@@ -16592,8 +16592,8 @@
    "expected_goals": "0.27",
    "expected_assists": "1.45",
    "expected_goals_conceded": "10.06",
-   "transfers_in_event": 7733,
-   "transfers_out_event": 1819
+   "transfers_in_event": 8203,
+   "transfers_out_event": 1963
   },
   {
    "id": 503,
@@ -16619,8 +16619,8 @@
    "expected_goals": "0.67",
    "expected_assists": "0.18",
    "expected_goals_conceded": "7.70",
-   "transfers_in_event": 3573,
-   "transfers_out_event": 3957
+   "transfers_in_event": 3801,
+   "transfers_out_event": 4208
   },
   {
    "id": 505,
@@ -16647,7 +16647,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 99
+   "transfers_out_event": 103
   },
   {
    "id": 506,
@@ -16673,8 +16673,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.29",
    "expected_goals_conceded": "1.52",
-   "transfers_in_event": 78,
-   "transfers_out_event": 229
+   "transfers_in_event": 79,
+   "transfers_out_event": 240
   },
   {
    "id": 507,
@@ -16701,7 +16701,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 1
+   "transfers_out_event": 2
   },
   {
    "id": 508,
@@ -16727,8 +16727,8 @@
    "expected_goals": "0.04",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.25",
-   "transfers_in_event": 597,
-   "transfers_out_event": 1296
+   "transfers_in_event": 628,
+   "transfers_out_event": 1389
   },
   {
    "id": 509,
@@ -16754,8 +16754,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 51,
-   "transfers_out_event": 69
+   "transfers_in_event": 55,
+   "transfers_out_event": 72
   },
   {
    "id": 510,
@@ -16781,8 +16781,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 37,
-   "transfers_out_event": 74
+   "transfers_in_event": 39,
+   "transfers_out_event": 77
   },
   {
    "id": 511,
@@ -16809,7 +16809,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 114
+   "transfers_out_event": 125
   },
   {
    "id": 512,
@@ -16835,8 +16835,8 @@
    "expected_goals": "1.27",
    "expected_assists": "0.86",
    "expected_goals_conceded": "4.84",
-   "transfers_in_event": 7957,
-   "transfers_out_event": 2763
+   "transfers_in_event": 8479,
+   "transfers_out_event": 2978
   },
   {
    "id": 513,
@@ -16889,8 +16889,8 @@
    "expected_goals": "0.66",
    "expected_assists": "0.53",
    "expected_goals_conceded": "6.50",
-   "transfers_in_event": 698,
-   "transfers_out_event": 3585
+   "transfers_in_event": 705,
+   "transfers_out_event": 3838
   },
   {
    "id": 515,
@@ -16916,8 +16916,8 @@
    "expected_goals": "0.16",
    "expected_assists": "0.10",
    "expected_goals_conceded": "2.22",
-   "transfers_in_event": 793,
-   "transfers_out_event": 1536
+   "transfers_in_event": 843,
+   "transfers_out_event": 1644
   },
   {
    "id": 516,
@@ -16943,8 +16943,8 @@
    "expected_goals": "0.36",
    "expected_assists": "0.16",
    "expected_goals_conceded": "6.48",
-   "transfers_in_event": 45,
-   "transfers_out_event": 41
+   "transfers_in_event": 46,
+   "transfers_out_event": 45
   },
   {
    "id": 517,
@@ -16970,7 +16970,7 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 10,
+   "transfers_in_event": 11,
    "transfers_out_event": 8
   },
   {
@@ -16998,7 +16998,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 45
+   "transfers_out_event": 46
   },
   {
    "id": 519,
@@ -17024,8 +17024,8 @@
    "expected_goals": "1.43",
    "expected_assists": "0.20",
    "expected_goals_conceded": "4.27",
-   "transfers_in_event": 75,
-   "transfers_out_event": 249
+   "transfers_in_event": 80,
+   "transfers_out_event": 261
   },
   {
    "id": 520,
@@ -17052,7 +17052,7 @@
    "expected_assists": "0.29",
    "expected_goals_conceded": "2.44",
    "transfers_in_event": 3,
-   "transfers_out_event": 150
+   "transfers_out_event": 164
   },
   {
    "id": 521,
@@ -17078,8 +17078,8 @@
    "expected_goals": "0.05",
    "expected_assists": "0.03",
    "expected_goals_conceded": "0.96",
-   "transfers_in_event": 243,
-   "transfers_out_event": 229
+   "transfers_in_event": 260,
+   "transfers_out_event": 244
   },
   {
    "id": 522,
@@ -17105,8 +17105,8 @@
    "expected_goals": "0.52",
    "expected_assists": "0.20",
    "expected_goals_conceded": "10.15",
-   "transfers_in_event": 456,
-   "transfers_out_event": 300
+   "transfers_in_event": 477,
+   "transfers_out_event": 322
   },
   {
    "id": 523,
@@ -17133,7 +17133,7 @@
    "expected_assists": "0.02",
    "expected_goals_conceded": "3.26",
    "transfers_in_event": 0,
-   "transfers_out_event": 34
+   "transfers_out_event": 36
   },
   {
    "id": 524,
@@ -17159,8 +17159,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 73,
-   "transfers_out_event": 1078
+   "transfers_in_event": 83,
+   "transfers_out_event": 1144
   },
   {
    "id": 525,
@@ -17186,8 +17186,8 @@
    "expected_goals": "0.35",
    "expected_assists": "0.96",
    "expected_goals_conceded": "6.73",
-   "transfers_in_event": 1164,
-   "transfers_out_event": 505
+   "transfers_in_event": 1240,
+   "transfers_out_event": 537
   },
   {
    "id": 526,
@@ -17213,8 +17213,8 @@
    "expected_goals": "1.90",
    "expected_assists": "0.14",
    "expected_goals_conceded": "6.17",
-   "transfers_in_event": 1160,
-   "transfers_out_event": 4993
+   "transfers_in_event": 1218,
+   "transfers_out_event": 5355
   },
   {
    "id": 527,
@@ -17241,7 +17241,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "3.02",
    "transfers_in_event": 0,
-   "transfers_out_event": 259
+   "transfers_out_event": 275
   },
   {
    "id": 528,
@@ -17268,7 +17268,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 1507
+   "transfers_out_event": 1612
   },
   {
    "id": 578,
@@ -17321,8 +17321,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.42",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 379,
-   "transfers_out_event": 200
+   "transfers_in_event": 399,
+   "transfers_out_event": 214
   },
   {
    "id": 671,
@@ -17348,8 +17348,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 856,
-   "transfers_out_event": 37
+   "transfers_in_event": 949,
+   "transfers_out_event": 45
   },
   {
    "id": 501,
@@ -17375,8 +17375,8 @@
    "expected_goals": "0.30",
    "expected_assists": "0.20",
    "expected_goals_conceded": "8.20",
-   "transfers_in_event": 95,
-   "transfers_out_event": 164
+   "transfers_in_event": 98,
+   "transfers_out_event": 175
   },
   {
    "id": 529,
@@ -17401,9 +17401,9 @@
    "ict_index": "16.0",
    "expected_goals": "0.00",
    "expected_assists": "0.03",
-   "expected_goals_conceded": "16.28",
-   "transfers_in_event": 340,
-   "transfers_out_event": 1831
+   "expected_goals_conceded": "16.41",
+   "transfers_in_event": 382,
+   "transfers_out_event": 1901
   },
   {
    "id": 530,
@@ -17430,7 +17430,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 71
+   "transfers_out_event": 77
   },
   {
    "id": 531,
@@ -17456,8 +17456,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
-   "transfers_in_event": 33,
-   "transfers_out_event": 40
+   "transfers_in_event": 35,
+   "transfers_out_event": 43
   },
   {
    "id": 532,
@@ -17483,8 +17483,8 @@
    "expected_goals": "0.31",
    "expected_assists": "0.16",
    "expected_goals_conceded": "8.66",
-   "transfers_in_event": 5,
-   "transfers_out_event": 1913
+   "transfers_in_event": 7,
+   "transfers_out_event": 2029
   },
   {
    "id": 533,
@@ -17509,9 +17509,9 @@
    "ict_index": "32.2",
    "expected_goals": "0.83",
    "expected_assists": "0.34",
-   "expected_goals_conceded": "13.16",
-   "transfers_in_event": 447,
-   "transfers_out_event": 2816
+   "expected_goals_conceded": "13.29",
+   "transfers_in_event": 498,
+   "transfers_out_event": 2892
   },
   {
    "id": 534,
@@ -17534,11 +17534,11 @@
    "assists": 0,
    "clean_sheets": 3,
    "ict_index": "18.5",
-   "expected_goals": "0.60",
+   "expected_goals": "0.53",
    "expected_assists": "0.36",
-   "expected_goals_conceded": "11.95",
-   "transfers_in_event": 317,
-   "transfers_out_event": 1681
+   "expected_goals_conceded": "12.08",
+   "transfers_in_event": 346,
+   "transfers_out_event": 1843
   },
   {
    "id": 535,
@@ -17564,8 +17564,8 @@
    "expected_goals": "0.02",
    "expected_assists": "0.02",
    "expected_goals_conceded": "4.56",
-   "transfers_in_event": 8,
-   "transfers_out_event": 399
+   "transfers_in_event": 9,
+   "transfers_out_event": 413
   },
   {
    "id": 536,
@@ -17590,9 +17590,9 @@
    "ict_index": "21.3",
    "expected_goals": "0.03",
    "expected_assists": "0.36",
-   "expected_goals_conceded": "12.21",
-   "transfers_in_event": 73,
-   "transfers_out_event": 182
+   "expected_goals_conceded": "12.34",
+   "transfers_in_event": 83,
+   "transfers_out_event": 187
   },
   {
    "id": 537,
@@ -17646,7 +17646,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 16
+   "transfers_out_event": 18
   },
   {
    "id": 539,
@@ -17671,9 +17671,9 @@
    "ict_index": "14.9",
    "expected_goals": "0.33",
    "expected_assists": "0.14",
-   "expected_goals_conceded": "4.76",
-   "transfers_in_event": 1976,
-   "transfers_out_event": 1717
+   "expected_goals_conceded": "4.89",
+   "transfers_in_event": 2149,
+   "transfers_out_event": 1826
   },
   {
    "id": 540,
@@ -17700,7 +17700,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 93
+   "transfers_out_event": 98
   },
   {
    "id": 541,
@@ -17725,9 +17725,9 @@
    "ict_index": "18.5",
    "expected_goals": "0.49",
    "expected_assists": "0.61",
-   "expected_goals_conceded": "7.17",
-   "transfers_in_event": 52,
-   "transfers_out_event": 152
+   "expected_goals_conceded": "7.30",
+   "transfers_in_event": 60,
+   "transfers_out_event": 164
   },
   {
    "id": 542,
@@ -17737,7 +17737,7 @@
    "pos": "MID",
    "price": 5.7,
    "cost_change_event": 0,
-   "selected_by_percent": "2.6",
+   "selected_by_percent": "2.7",
    "form": "5.6",
    "points_per_game": "4.6",
    "total_points": 46,
@@ -17752,9 +17752,9 @@
    "ict_index": "53.3",
    "expected_goals": "3.83",
    "expected_assists": "1.86",
-   "expected_goals_conceded": "15.46",
-   "transfers_in_event": 5853,
-   "transfers_out_event": 2742
+   "expected_goals_conceded": "15.58",
+   "transfers_in_event": 6624,
+   "transfers_out_event": 2851
   },
   {
    "id": 543,
@@ -17781,7 +17781,7 @@
    "expected_assists": "0.16",
    "expected_goals_conceded": "1.60",
    "transfers_in_event": 2,
-   "transfers_out_event": 34
+   "transfers_out_event": 36
   },
   {
    "id": 544,
@@ -17797,7 +17797,7 @@
    "total_points": 33,
    "event_points": 1,
    "status": "d",
-   "news": "Unspecified injury - 75% chance of playing",
+   "news": "Calf injury - 75% chance of playing",
    "chance_of_playing_next_round": 75,
    "minutes": 813,
    "goals_scored": 0,
@@ -17807,8 +17807,8 @@
    "expected_goals": "0.15",
    "expected_assists": "1.82",
    "expected_goals_conceded": "15.75",
-   "transfers_in_event": 230,
-   "transfers_out_event": 7837
+   "transfers_in_event": 235,
+   "transfers_out_event": 8703
   },
   {
    "id": 545,
@@ -17833,9 +17833,9 @@
    "ict_index": "32.2",
    "expected_goals": "0.44",
    "expected_assists": "0.41",
-   "expected_goals_conceded": "13.85",
-   "transfers_in_event": 326,
-   "transfers_out_event": 365
+   "expected_goals_conceded": "13.98",
+   "transfers_in_event": 368,
+   "transfers_out_event": 383
   },
   {
    "id": 546,
@@ -17862,7 +17862,7 @@
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.00",
    "transfers_in_event": 0,
-   "transfers_out_event": 16
+   "transfers_out_event": 18
   },
   {
    "id": 547,
@@ -17915,8 +17915,8 @@
    "expected_goals": "0.24",
    "expected_assists": "0.04",
    "expected_goals_conceded": "5.32",
-   "transfers_in_event": 11,
-   "transfers_out_event": 43
+   "transfers_in_event": 12,
+   "transfers_out_event": 46
   },
   {
    "id": 549,
@@ -17940,10 +17940,10 @@
    "clean_sheets": 1,
    "ict_index": "1.2",
    "expected_goals": "0.27",
-   "expected_assists": "0.33",
-   "expected_goals_conceded": "1.26",
-   "transfers_in_event": 55,
-   "transfers_out_event": 52
+   "expected_assists": "0.34",
+   "expected_goals_conceded": "1.38",
+   "transfers_in_event": 57,
+   "transfers_out_event": 61
   },
   {
    "id": 550,
@@ -17969,8 +17969,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.03",
    "expected_goals_conceded": "0.47",
-   "transfers_in_event": 4,
-   "transfers_out_event": 9
+   "transfers_in_event": 5,
+   "transfers_out_event": 10
   },
   {
    "id": 551,
@@ -17996,8 +17996,8 @@
    "expected_goals": "0.79",
    "expected_assists": "0.26",
    "expected_goals_conceded": "6.36",
-   "transfers_in_event": 22,
-   "transfers_out_event": 217
+   "transfers_in_event": 23,
+   "transfers_out_event": 236
   },
   {
    "id": 552,
@@ -18020,11 +18020,11 @@
    "assists": 1,
    "clean_sheets": 3,
    "ict_index": "38.3",
-   "expected_goals": "4.14",
+   "expected_goals": "4.21",
    "expected_assists": "0.13",
-   "expected_goals_conceded": "9.46",
-   "transfers_in_event": 3154,
-   "transfers_out_event": 12336
+   "expected_goals_conceded": "9.58",
+   "transfers_in_event": 3400,
+   "transfers_out_event": 13053
   },
   {
    "id": 553,
@@ -18047,11 +18047,11 @@
    "assists": 1,
    "clean_sheets": 0,
    "ict_index": "9.5",
-   "expected_goals": "2.41",
+   "expected_goals": "2.24",
    "expected_assists": "0.05",
-   "expected_goals_conceded": "5.69",
-   "transfers_in_event": 111,
-   "transfers_out_event": 1463
+   "expected_goals_conceded": "5.70",
+   "transfers_in_event": 115,
+   "transfers_out_event": 1582
   },
   {
    "id": 612,
@@ -18077,8 +18077,8 @@
    "expected_goals": "0.03",
    "expected_assists": "0.01",
    "expected_goals_conceded": "3.29",
-   "transfers_in_event": 25,
-   "transfers_out_event": 19
+   "transfers_in_event": 27,
+   "transfers_out_event": 23
   },
   {
    "id": 613,
@@ -18103,9 +18103,9 @@
    "ict_index": "0.5",
    "expected_goals": "0.00",
    "expected_assists": "0.02",
-   "expected_goals_conceded": "1.13",
-   "transfers_in_event": 310,
-   "transfers_out_event": 263
+   "expected_goals_conceded": "1.26",
+   "transfers_in_event": 361,
+   "transfers_out_event": 278
   },
   {
    "id": 646,
@@ -18131,8 +18131,8 @@
    "expected_goals": "0.42",
    "expected_assists": "0.03",
    "expected_goals_conceded": "4.44",
-   "transfers_in_event": 34,
-   "transfers_out_event": 88
+   "transfers_in_event": 35,
+   "transfers_out_event": 92
   },
   {
    "id": 651,
@@ -18158,8 +18158,8 @@
    "expected_goals": "0.00",
    "expected_assists": "0.00",
    "expected_goals_conceded": "0.15",
-   "transfers_in_event": 564,
-   "transfers_out_event": 2281
+   "transfers_in_event": 593,
+   "transfers_out_event": 2433
   },
   {
    "id": 668,
@@ -18167,8 +18167,8 @@
    "full_name": "Tymur Tutierov",
    "team": "SUN",
    "pos": "MID",
-   "price": 4.9,
-   "cost_change_event": 0,
+   "price": 4.8,
+   "cost_change_event": -1,
    "selected_by_percent": "0.0",
    "form": "0.5",
    "points_per_game": "1.0",
