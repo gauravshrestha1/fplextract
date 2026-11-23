@@ -28,14 +28,14 @@
           },
           {
             "contest": null,
-            "entry_percentile_rank": 5,
+            "entry_percentile_rank": 10,
             "last_rank": 253141,
             "league_id": 1,
             "phase": 5,
-            "rank": 35920,
-            "rank_count": 1289534,
-            "rank_sort": 37379,
-            "total": 110
+            "rank": 109823,
+            "rank_count": 1289592,
+            "rank_sort": 113136,
+            "total": 111
           }
         ],
         "admin_entry": null,
@@ -76,14 +76,14 @@
           },
           {
             "contest": null,
-            "entry_percentile_rank": 5,
+            "entry_percentile_rank": 10,
             "last_rank": 6948,
             "league_id": 170,
             "phase": 5,
-            "rank": 880,
-            "rank_count": 49391,
-            "rank_sort": 919,
-            "total": 110
+            "rank": 3335,
+            "rank_count": 49389,
+            "rank_sort": 3440,
+            "total": 111
           }
         ],
         "admin_entry": null,
@@ -124,14 +124,14 @@
           },
           {
             "contest": null,
-            "entry_percentile_rank": 5,
+            "entry_percentile_rank": 10,
             "last_rank": 1664176,
             "league_id": 276,
             "phase": 5,
-            "rank": 232796,
-            "rank_count": 8886612,
-            "rank_sort": 242635,
-            "total": 110
+            "rank": 806135,
+            "rank_count": 8886375,
+            "rank_sort": 831641,
+            "total": 111
           }
         ],
         "admin_entry": null,
@@ -172,14 +172,14 @@
           },
           {
             "contest": null,
-            "entry_percentile_rank": 5,
+            "entry_percentile_rank": 10,
             "last_rank": 1939053,
             "league_id": 314,
             "phase": 5,
-            "rank": 253461,
-            "rank_count": 11261990,
-            "rank_sort": 263300,
-            "total": 110
+            "rank": 906473,
+            "rank_count": 11261636,
+            "rank_sort": 931979,
+            "total": 111
           }
         ],
         "admin_entry": null,
@@ -220,14 +220,14 @@
           },
           {
             "contest": null,
-            "entry_percentile_rank": 5,
+            "entry_percentile_rank": 20,
             "last_rank": 5,
             "league_id": 150632,
             "phase": 5,
-            "rank": 1,
+            "rank": 4,
             "rank_count": 25,
-            "rank_sort": 1,
-            "total": 110
+            "rank_sort": 4,
+            "total": 111
           }
         ],
         "admin_entry": 776885,
@@ -257,25 +257,25 @@
         "active_phases": [
           {
             "contest": null,
-            "entry_percentile_rank": 10,
+            "entry_percentile_rank": 15,
             "last_rank": 1922538,
             "league_id": 2430021,
             "phase": 1,
-            "rank": 934897,
-            "rank_count": 11261993,
-            "rank_sort": 943723,
-            "total": 343
+            "rank": 1354606,
+            "rank_count": 11261640,
+            "rank_sort": 1365317,
+            "total": 344
           },
           {
             "contest": null,
-            "entry_percentile_rank": 5,
+            "entry_percentile_rank": 10,
             "last_rank": 1939052,
             "league_id": 2430021,
             "phase": 5,
-            "rank": 253461,
-            "rank_count": 11261986,
-            "rank_sort": 263300,
-            "total": 110
+            "rank": 906473,
+            "rank_count": 11261631,
+            "rank_sort": 931979,
+            "total": 111
           }
         ],
         "admin_entry": null,
@@ -287,8 +287,8 @@
         "entry_can_invite": false,
         "entry_can_leave": false,
         "entry_last_rank": 1922538,
-        "entry_percentile_rank": 10,
-        "entry_rank": 1354606,
+        "entry_percentile_rank": 15,
+        "entry_rank": 1354605,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 2430021,
@@ -296,7 +296,7 @@
         "max_entries": null,
         "name": "Second Chance",
         "rank": null,
-        "rank_count": 11261993,
+        "rank_count": 11261640,
         "scoring": "c",
         "short_name": "sc",
         "start_event": 6
@@ -364,6 +364,6 @@
   "club_badge_src": null,
   "summary_overall_points": 708,
   "summary_event_points": 44,
-  "summary_event_rank": 1262394,
+  "summary_event_rank": 1262393,
   "summary_overall_rank": 399366
 }
