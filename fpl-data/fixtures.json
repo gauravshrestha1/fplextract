@@ -38764,7 +38764,7 @@
         "identifier": "saves",
         "a": [
           {
-            "value": 8,
+            "value": 7,
             "element": 300
           }
         ],
@@ -38781,11 +38781,11 @@
         "h": [
           {
             "value": 3,
-            "element": 499
+            "element": 601
           },
           {
             "value": 2,
-            "element": 601
+            "element": 499
           },
           {
             "value": 1,
@@ -38797,12 +38797,12 @@
         "identifier": "bps",
         "a": [
           {
-            "value": 25,
-            "element": 300
-          },
-          {
             "value": 23,
             "element": 267
+          },
+          {
+            "value": 22,
+            "element": 300
           },
           {
             "value": 17,
@@ -38859,19 +38859,19 @@
         ],
         "h": [
           {
-            "value": 44,
-            "element": 499
+            "value": 45,
+            "element": 601
           },
           {
-            "value": 43,
-            "element": 601
+            "value": 44,
+            "element": 499
           },
           {
             "value": 39,
             "element": 526
           },
           {
-            "value": 34,
+            "value": 33,
             "element": 498
           },
           {
@@ -40202,14 +40202,178 @@
     "finished_provisional": false,
     "id": 103,
     "kickoff_time": "2026-11-23T20:00:00Z",
-    "minutes": 0,
+    "minutes": 5,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 9,
-    "team_a_score": null,
+    "team_a_score": 0,
     "team_h": 4,
-    "team_h_score": null,
-    "stats": [],
+    "team_h_score": 0,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "assists",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "bonus",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "bps",
+        "a": [
+          {
+            "value": 5,
+            "element": 246
+          },
+          {
+            "value": 3,
+            "element": 226
+          },
+          {
+            "value": 3,
+            "element": 229
+          },
+          {
+            "value": 3,
+            "element": 230
+          },
+          {
+            "value": 3,
+            "element": 232
+          },
+          {
+            "value": 3,
+            "element": 233
+          },
+          {
+            "value": 3,
+            "element": 236
+          },
+          {
+            "value": 3,
+            "element": 239
+          },
+          {
+            "value": 3,
+            "element": 242
+          },
+          {
+            "value": 3,
+            "element": 244
+          },
+          {
+            "value": 2,
+            "element": 249
+          }
+        ],
+        "h": [
+          {
+            "value": 4,
+            "element": 102
+          },
+          {
+            "value": 3,
+            "element": 82
+          },
+          {
+            "value": 3,
+            "element": 85
+          },
+          {
+            "value": 3,
+            "element": 86
+          },
+          {
+            "value": 3,
+            "element": 87
+          },
+          {
+            "value": 3,
+            "element": 88
+          },
+          {
+            "value": 3,
+            "element": 95
+          },
+          {
+            "value": 3,
+            "element": 96
+          },
+          {
+            "value": 3,
+            "element": 98
+          },
+          {
+            "value": 3,
+            "element": 105
+          },
+          {
+            "value": 3,
+            "element": 108
+          }
+        ]
+      },
+      {
+        "identifier": "defensive_contribution",
+        "a": [
+          {
+            "value": 1,
+            "element": 229
+          },
+          {
+            "value": 1,
+            "element": 246
+          }
+        ],
+        "h": [
+          {
+            "value": 2,
+            "element": 85
+          },
+          {
+            "value": 2,
+            "element": 96
+          }
+        ]
+      }
+    ],
     "team_h_difficulty": 3,
     "team_a_difficulty": 4,
     "pulse_id": 0
