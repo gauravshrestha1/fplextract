@@ -21,9 +21,9 @@
             "last_rank": 63020,
             "league_id": 1,
             "phase": 1,
-            "rank": 43653,
+            "rank": 43654,
             "rank_count": 1289639,
-            "rank_sort": 44076,
+            "rank_sort": 44077,
             "total": 710
           },
           {
@@ -32,9 +32,9 @@
             "last_rank": 253141,
             "league_id": 1,
             "phase": 5,
-            "rank": 103735,
+            "rank": 103738,
             "rank_count": 1289639,
-            "rank_sort": 106653,
+            "rank_sort": 106656,
             "total": 113
           }
         ],
@@ -48,7 +48,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 63020,
         "entry_percentile_rank": 5,
-        "entry_rank": 43653,
+        "entry_rank": 43654,
         "featured_entry_ids": [],
         "has_cup": true,
         "id": 1,
@@ -128,9 +128,9 @@
             "last_rank": 1664176,
             "league_id": 276,
             "phase": 5,
-            "rank": 763529,
+            "rank": 763528,
             "rank_count": 8886226,
-            "rank_sort": 786626,
+            "rank_sort": 786625,
             "total": 113
           }
         ],
@@ -176,9 +176,9 @@
             "last_rank": 1939053,
             "league_id": 314,
             "phase": 5,
-            "rank": 874807,
+            "rank": 874803,
             "rank_count": 11261386,
-            "rank_sort": 897904,
+            "rank_sort": 897900,
             "total": 113
           }
         ],
@@ -261,9 +261,9 @@
             "last_rank": 1922538,
             "league_id": 2430021,
             "phase": 1,
-            "rank": 1310177,
+            "rank": 1310173,
             "rank_count": 11261386,
-            "rank_sort": 1320658,
+            "rank_sort": 1320654,
             "total": 346
           },
           {
@@ -272,9 +272,9 @@
             "last_rank": 1939052,
             "league_id": 2430021,
             "phase": 5,
-            "rank": 874807,
+            "rank": 874803,
             "rank_count": 11261385,
-            "rank_sort": 897904,
+            "rank_sort": 897900,
             "total": 113
           }
         ],
@@ -288,7 +288,7 @@
         "entry_can_leave": false,
         "entry_last_rank": 1922538,
         "entry_percentile_rank": 15,
-        "entry_rank": 1310177,
+        "entry_rank": 1310173,
         "featured_entry_ids": [],
         "has_cup": false,
         "id": 2430021,
@@ -364,6 +364,6 @@
   "club_badge_src": null,
   "summary_overall_points": 710,
   "summary_event_points": 46,
-  "summary_event_rank": 1405868,
+  "summary_event_rank": 1405849,
   "summary_overall_rank": 378196
 }
