@@ -128,9 +128,9 @@
             "last_rank": 1664176,
             "league_id": 276,
             "phase": 5,
-            "rank": 763528,
+            "rank": 763529,
             "rank_count": 8886226,
-            "rank_sort": 786625,
+            "rank_sort": 786626,
             "total": 113
           }
         ],
@@ -176,9 +176,9 @@
             "last_rank": 1939053,
             "league_id": 314,
             "phase": 5,
-            "rank": 874806,
+            "rank": 874807,
             "rank_count": 11261386,
-            "rank_sort": 897903,
+            "rank_sort": 897904,
             "total": 113
           }
         ],
@@ -272,9 +272,9 @@
             "last_rank": 1939052,
             "league_id": 2430021,
             "phase": 5,
-            "rank": 874806,
+            "rank": 874807,
             "rank_count": 11261385,
-            "rank_sort": 897903,
+            "rank_sort": 897904,
             "total": 113
           }
         ],
@@ -364,6 +364,6 @@
   "club_badge_src": null,
   "summary_overall_points": 710,
   "summary_event_points": 46,
-  "summary_event_rank": 1405871,
+  "summary_event_rank": 1405868,
   "summary_overall_rank": 378196
 }
